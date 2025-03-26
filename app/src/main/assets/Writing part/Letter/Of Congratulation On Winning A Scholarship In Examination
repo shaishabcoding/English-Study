@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Of Congratulation On Winning A Scholarship In Examination`;
+  var body = `Dear Sheema,<br>
+To Sec your name among the 30 best students, who have been awarded merit scholarship by Chittagong hoard of Secondary Education this year, was a great pleasure. Please accept my heartiest congratulations.
+To win the merit scholarship is a great achievement. It is the reorganization of your diligence and your knowledge and the reward of your hard work. Intelligent, industrious and intellectual as you are, let this success be a prelude to future achievements. <br>
+My parents send you congratulations.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

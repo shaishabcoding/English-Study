@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The King Regained His Kingdom";
+  var text = `Once upon a time, there lived a righteous king named Arya Gupta in his large kingdom. But, unfortunately, he was defeated in a battle by King Zahir Shah of the nearby kingdom. He tried to recover his kingdom from his enemy, but failed. He had to retreat and hide in a cave. Inside the cave, he was sitting and thinking gloomily over his defeat. Then, he noticed a spider making a web, but failing each time it tries to climb. But the spider did not give up, and ultimately it succeeded. This small incident greatly encouraged the king. He went back to fight with his enemy again. He tried again and again like the spider and finally could recover his kingdom.
+<br><br><b>Moral</b> ᐅ Failure is the pillar of success`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

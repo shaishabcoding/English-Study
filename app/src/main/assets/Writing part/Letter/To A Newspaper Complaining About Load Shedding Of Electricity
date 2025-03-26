@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Newspaper Complaining About Load Shedding Of Electricity`;
+  var body = `365/A, Nue colony,<br>
+Bara Maidan,<br>
+Chittagong,<br>
+22 January 2023 <br>
+The Editor,<br>
+The Daily Dawn,<br>
+Chittagong. 
+<br><br>
+Sir, <br>
+Reg: Frequent break down and load shedding of electricity. <br><br>
+I want to draw the attention of K.E.S.C authorities to the inconvenience the people of Chittagong are experiencing due to the incorrigible system of supply of Power in Chittagong. Break downs are frequent and trouble-some besides, the unofficial load shedding for hours. In these days of summer, one can imagine the lot of people who had to stay in rooms without fans. Students are unable to do home work due to frequent breakdowns, after dusk, and are child in their schools or fined for no faults of theirs. The water supply of the city is badly affected due to break downs or load shedding and people suffer due to paucity of water. <br>
+It is strange that K.E.S.C authorities try to exonerate themselves placing the responsibility on old supply system and paucity of power. About Truly years have elapsed since the creation of Bangladesh and they have not so far able to change the old supply system or produce enough electricity. <br>
+The service department the KESC lacks sense of duty and shirks work. It is insomniacs to expect a response from the complaint clerk if one attempts to get a complaint registered on phone because the dutiful clerks puts the receiver on the table and due to this his phone is always found engaged. And if some one takes the trouble of going personally to get his complaint registered, the complaint clerk is either away from his seat or if is present he regrets that the complaint cannot be immediately attended to as no service truck is available. <br>
+It takes hours and sometimes days to remove the fault and restore the power supply. <br>
+The break downs and the load shedding are affecting our national economy adversely. Machines and Labours in factories, workshops and mills remain idle for the period the electricity remains absent, entailing national loss and low Output. Thus the production is being impaired by the negligence of KESC people. Will the KESC authorities realize that their negligence to improve the position that has made life in Chittagong hell.
+<br><br>
+Yours Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

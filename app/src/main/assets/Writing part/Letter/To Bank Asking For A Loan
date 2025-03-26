@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Bank Asking For A Loan`;
+  var body = `Ik and Co..,<br>
+Dealers in Antique and Sporadic articles,<br>
+Chittagong. <br>
+25 January 2023 <br>
+The Manager,<br>
+A.B.C. Ban kLtd,<br>
+North Nasirabad,<br>
+Chittagong.
+<br><br>
+Dear Sir,<br>
+Re : Advance of Rs. 100,000/- <br>
+We have been dealers in Antiques and Sporadic articles since 1999 maintaining a/c no 1(21234 with you with average balance running in five to six figures. <br>
+To bridge over our financial stringencies, we immediately need rupees one lac as temporary loan repayable in lumpsum after six months. To secure your advance we are prepared to pledge with you N.ITTS of the face value of RS 1,50000/- in the personal name of the proprietor. <br>
+We hope you will be kind enough to sanction us the required loan.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

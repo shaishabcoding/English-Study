@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+ <body>
+  <p>
+   <b>Present Indefinite Tense ᐅ </b>
+   কোন কাজ বর্তমানে হয় বোঝালে বা অভ্যাসগত সত্য বোঝালে বা চিরসত্য বোঝালে Present Indefinite Tense হয়।
+  </p>
+  <p>
+   <b>বাংলায় চিনার উপায় ᐅ</b>
+   বাংলায় ক্রিয়ার শেষে এ, অ, আ, ই, ও, এন, এস, আন, আয় ইত্যাদি থাকে।
+  </p>
+  <p>
+   <b>শব্দ দেখে Present Indifinte Tense চেনার উপায় ᐅ</b>
+   Always (সর্বদা) , Regularly (নিয়মিত) , Sometimes (মাঝেমাঝে), Often (প্রায়ই, খুবই নিয়মিত) , Generally (সাধারণত), Daily (দৈনিক) , Everyday (প্রতিদিন), Occasionally (মাঝে মাঝে, নিয়মিত নয়), Usually (সাধারণত) , Normally (সাধরণত) শব্দগুলো কোন বাক্যে থাকলে তা Present Indifinte Tense হবে।
+  </p>
+  <p>
+   <b>Structure ᐅ </b>
+   Subject + Main Verb + Object.
+মূল verb-এর present form ব্যবহূত হয়। তবে subject (কর্তা) third person singular number হলে মূল verb-এর শেষে s বা es যোগ করতে হয়।
+  </p>
+  <h3>Example ᐅ </h3>
+  <ol>
+   <li>আমি ভাত খাই – I eat rice.</li>
+   <li>আমি স্কুলে যাই – I go to school.</li>
+   <li>সে প্রতিদিন স্কুলে যায় – He goes to school every day.</li>
+   <li>তুমি বই পড় – You read a book.</li>
+   <li>সে প্রতিদিন রাত দশ টায় ঘুমাতে যায় – He goes to bed at ten pm every day.</li>
+   <li>সূর্য পূর্ব দিকে উদিত হয় – The sun rises in the East.</li>
+   <li>পানি শূন্য ডিগ্রি সেন্ট্রিগ্রেডে জমাট বাধে – Water freezes at 0° centegrade.</li>
+  </ol>
+  <p>
+   <b>Note ᐅ </b>
+   Subject third person singular number (he, she, it, কোন ব্যক্তি, বস্তু, জায়গা বা প্রাণীর নাম) বোঝালে verb এর শেষে s বা es বসে।
+  </p>
+  <h3>Person ᐅ </h3>
+  <ol>
+   <li>I, we – First Person</li>
+   <li>You – Second person</li>
+   <li>He, she ,it, they, সমস্ত নাম – Third Person</li>
+  </ol>
+ <script src="file:///android_asset/main.js"></script> </body>
+</html>
+

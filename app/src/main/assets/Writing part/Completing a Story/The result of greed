@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The result of greed";
+  var text = `Suddenly a ripe apple fell beside him. The king picked it up. As he touched it, the apple turned into gold. He could hardly believe his eyes. Then whatever he touched everything turned into gold.  When the king entered his palace, his little daughter ran up to him and he took her in his arms. Instantly she turned into gold. The king was struck with horror and felt sorry for his wish. Immediately the wise god took the golden touch away and the girl became human again.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

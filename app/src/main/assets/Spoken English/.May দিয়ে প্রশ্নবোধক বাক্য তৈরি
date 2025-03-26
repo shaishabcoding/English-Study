@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">May দিয়ে প্রশ্নবোধক বাক্য তৈরি</div>
+  <div id="data"></div>
+  <script>
+    var data = [["May I learn English?","আমি কি ইংরেজি শিখতে ও পারি?"], ["May he help me?","সে কি আমাকে সাহায্য করতে ও পারে?"], ["May he come here?","সে কি এখানে আসতে ও পারে?"], ["May they   play cricket?","তারা কি ক্রিকেট খেলতেও পারে?"], ["May you go to Dhaka?","তুমি কি ঢাকায় যেতে ও পার?"], ["May Ekra cook rice?","ইকরা কি ভাত রান্না করতে ও পারে?"], ["May we take tea?","আমরা কি চা খেতে ও পারি?"], ["May Rashed inform me the matter?","রাশেদ কি আমাকে ব্যপারটি জানাতে ও পারে?"], ["May I see you?","আমি কি তোমাকে দেখতে ও পারি?"], ["May we teach English?","আমরা কি ইংরেজি শিখাতে ও পারি?"]]
+  </script>
+</body>
+</html>

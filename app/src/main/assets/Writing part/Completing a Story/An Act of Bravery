@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An Act of Bravery";
+  var text = `Rahim gets up early every morning and brushes his teeth standing on the railway track. It was his daily habit. One morning, while he was standing on the track, he noticed that the railway track had given way a few yards ahead on the railway bridge due to heavy rains. After a few while, he saw the daily Intercity Express train was approaching the bridge. He immediately removed his red shirt and began waving it standing on the track in spite of the warning whistles. The train halted. The locomotive driver got off and saw the precarious condition of the track. He thanked Rahim for his bravery and presence of mind. Later, the railway department rewarded him.<br><br><b>Moral</b> ᐅ Fortune favours the brave`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

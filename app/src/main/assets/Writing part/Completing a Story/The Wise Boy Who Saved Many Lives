@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Wise Boy Who Saved Many Lives";
+  var text = `Mabrur was a dutiful boy studied in a village school. He went to school everyday and learned his lessons well. His school was four kilometers away from his house. Everyday he walked to school.  The road was along a railway line.
+<br>
+
+One night there was a storm. There was a great damage for it. The railway line was damaged. The boy came near the railway line and realized that many people would die for it. 
+
+<br>
+At that moment he heard the sound of a train. Soon he hit upon a plan. He put off his shirt which was red in colour and waved it like a flag in order to draw the attention of the driver and the guard. Fortunately the trail stopped. Mabrur’s wise plan saved hundreds of passengers. All the people in the train thanked Mabrur for his wise plan to stop the train. They remained over grateful to the village boy.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

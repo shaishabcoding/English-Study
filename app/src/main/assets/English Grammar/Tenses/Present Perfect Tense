@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Present Perfect Tense ᐅ </b>
+  কোন কাজ শেষ হয়েছে অথচ তার ফল এখনও বর্তমান আছে (অপ্রকাশিত), এরূপ বোঝালে Present perfect tense হয়।
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+  বাংলায় ক্রিয়ার শেষে য়াছ, য়াছে, য়াছি, য়াছে, য়াছেন, য়েছ, ইয়াছ, ইয়াছি, ইয়াছে, ইয়েছ, ইয়াছেন ইত্যাদি বসে। এছাড়া করিনি, করি নাই, খাইনি, খাই নাই, বোঝালে Present perfect tense হয়।
+ </p>
+ <p>
+  <b>Structure ᐅ </b>
+  Subject + have/has + past participle + object.
+ </p>
+ <card>Subject-এর পর person ও number অনুসারে have বা has বসে এবং মূল verb-এর past participle form ব্যবহূত হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি ভাত খাইয়াছি – I have eaten rice.</li>
+  <li>আমি স্কুলে গিয়েছি – I have gone to school.</li>
+  <li>সে স্কুলে গিয়েছে – He has gone to school.</li>
+  <li>আমি ভাত খাইনি – I have not eaten rice.</li>
+  <li>তারা/তাহারা কাজটি করিয়াছে – They have done the work.</li>
+  <li>সে ঘণ্টার পর ঘণ্টা পড়েছে – He/she has studied for hours.</li>
+  <li>তারা এইমাত্র ফুটবল খেলিয়াছে – They have just played football.</li>
+  <li>সে এইমাত্র ফুটবল খেলিয়াছে – He has just played football.</li>
+ </ol>
+ <p>
+  <b>Note ᐅ </b>
+  Subject third person singular number (he, she, it কোন ব্যক্তি, বস্তু, জায়গা বা প্রাণীর নাম) বোঝালে has বসবে । I, we, you, they এবং অন্যসব plural subject এর শেষে have বসবে।
+ </p>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

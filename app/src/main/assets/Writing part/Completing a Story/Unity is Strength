@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[RB-15;CB-17;SB-15]"
+  var title = "Unity is Strength";
+  var text = `An old farmer had four sons. They used to quarrel with one another. One day the farmer told his sons to bring a bundle of sticks. Accordingly, they brought a bundle of sticks. Then the farmer asked them to break it. The three sons tried one after another. But none could break it. Then their father asked them to untie the bundle and told each of his sons to take one stick. Each of the boys took one stick. Their father asked them to break the sticks. Now they broke them easily. Then the farmer told his sons, “If you live together, nobody can harm you and if you are separate, anybody will break you like the single broken sticks.” <br><br><b>Moral</b> ᐅ United we stand, divided we fall.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

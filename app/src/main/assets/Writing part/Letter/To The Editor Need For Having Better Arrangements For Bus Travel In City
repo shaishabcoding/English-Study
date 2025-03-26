@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To The Editor Need For Having Better Arrangements For Bus Travel In City`;
+  var body = `Wrold Trade Centre,<br>
+ABC. <br>
+25 January 2023 <br>
+The Editor,<br>
+The News <br>
+Chittagong. <br><br>
+
+Sir,<br>
+Travelling by bus in the city is easier now, but not entirely comfortable. The buses are almost always overloaded. I make these suggestions. <br>
+i. There should be a larger number of buses. <br>
+ii. Buses should run on the time. <br>
+iii. There should be more comfortable seats for passengers in the buses. <br>
+iv. Defective busses should be repaired soon. In no case should buses with old (worm out) engines and tyres be allowed to run. <br>
+I hope that the bus companies and the government will act on these suggestions.
+<br><br>
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

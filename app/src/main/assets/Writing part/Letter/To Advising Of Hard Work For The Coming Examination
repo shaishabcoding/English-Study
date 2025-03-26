@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Advising Of Hard Work For The Coming Examination`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+My dear Subhi, <br>
+I have been informed that your examination is going to be held in the second week of November and your are killing your time in different recreations. I have also learnt that just at dusk you sit before the television and watch up to midnight the indecent dances and other programs telecast by Zee TV, EL TV. IV] Channels and Mtv channels. <br>
+Intelligent as you are, you must be aware of the dangers of sitting before the television, besides, the time you waste, this spoils your morals Those who do not prepare themselves for the future suffer badly. If you pass your examination on in C or D grade no college will give you admission and no vocational institute will take you for further studies. What would be your future without good educational back ground. You will have to either work as a labor or be a Taxi or Rickshaw driver. <br>
+It is still not too late to mend. You must start to prepare yourself for the coming examination earnestly. Labour is always rewarded. I have faith in your intelligence and hope you will do well in the examination, if your start to work hard.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

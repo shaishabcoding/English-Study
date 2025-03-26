@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Rule 5 ᐅ </h3>
+ <h4>Interrogative Sentence-এর ক্ষেত্রে passive voice-এর structure ᐅ </h4>
+ <p>1. Interrogative Sentence-কে Assertive Sentence-এ রূপান্তরিত করা হয়+ পরিবর্তিত Assertive sentence-কে passive form-এ নেয়া হয়+ পরিবর্তিত passive voice-এর auxiliary verb-কে sentence-এর শুরুতে বসান হয়+ Object-এর subject+ ……..+ by+ Subject-এর object+ প্রশ্নবোধক চিহ্ন (Tense অনুসারে করা হয়)।</p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Have you written the article? (Active)</li>
+  <li>You have written the article. (Assertive)</li>
+  <li>The article has been written by you. (Passive of Assertive)</li>
+  <li>Has the article been written by you? (Passive of the main sentence)</li>
+ </ul>
+ <ul>
+  <li>Are you writing the article? (Active)</li>
+  <li>You are writing the article. (Assertive)</li>
+  <li>The article is being written by you. (Passive of Assertive)</li>
+  <li>Is the article being written by you? (Passive of the main sentence)</li>
+ </ul>
+ <p>2. “Who” দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে ᐅ </p>
+ <card>Who-এর পরিবর্তে By whom+ Tense এবং person-অনুসারে Auxiliary verb+ object-এর      subject+ কোন কোনসময় tense অনুযায়ী “be/being/been” ব্যবহৃত হয়+ Verb-এর past participle+?</card>
+<h3>Example ᐅ </h3>
+<ol>
+ <li>Who is writing the poem? (Active)</li>
+ <li>By whom is the poem being written? (Passive)</li>
+</ol>
+<p>3. “Whom”- দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে  ᐅ </p>
+<card>Whom এর পরিবর্তে Who+ Tense এবং person-অনুসারে Auxiliary verb+ Verb-এর past participle+ by+ subject-এর object+?</card>
+<h3>Example ᐅ </h3>
+<ul>
+ <li>Whom did you recommend? (Active)</li>
+ <li>Who was recommended by you? (Passive)</li>
+</ul>
+<p>4. “What”- দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে ᐅ </p>
+<card>What+ Tense এবং person-অনুসারে Auxiliary verb+ Verb-এর past participle+ by+ subject-এর object+? (Tense অনুসারে করা হয়) ।</card>
+<h3>Example ᐅ </h3>
+<ul>
+ <li>What is he doing? (Active)</li>
+ <li>What is being done by him? (Passive)</li>
+</ul>
+<ul>
+ <li>What does he need? (Active)</li>
+ <li>What is needed by him? (Passive)</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Hojja and a Beggar";
+  var text = `One day Nasiruddin Hojja was mending a hole on the roof of his two-story building. Suddenly, he saw someone calling him from below. He saw there a man standing at the foot of the stairs. The man was asking him to get down. Hojja was quite curious. He thought the man had something important to say. So, he got down from the roof. The man wanted some financial help from Hojja. At this Hojja became furious. He asked the man why he had not asked for money while Hojja had been on the roof. Hojja wanted to teach him a good lesson. So, he told the man to climb up the stairs with him. When they both got the roof of the top. Hojja said to the man “Sorry, I have no money.”. The man realized everything and got down.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

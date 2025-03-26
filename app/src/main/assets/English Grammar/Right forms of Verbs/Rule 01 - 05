@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+
+<body>
+
+<p>
+  <b>Rule-1 ᐅ</b> 
+  কোন sentence-এর subject যে number ও person-এ হবে, সেই sentence-এর <i>verb</i>-ও ঠিক সেই অনুযায়ী হবে। অর্থাৎ sentence-এর  subject-টি singular বা plural হলে <i>verb</i>-টিও person অনুযায়ী singular বা plural হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>He (be) reading. – He <i>is</i> reading.</li>
+  <li>They (be) reading. – They <i>are</i> reading.</li>
+ </ol>
+ <p><b>Note ᐅ </b> Present indefinite tense-এর কোন sentence-এর subject যদি third person singular number হয়, তখন <i>verb</i>-এর সাথে ‘s / es’ যুক্ত করতে হয়।</p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>He (go) to school every day. – He <i>goes</i> to school every day.</li>
+  <li>The boy (play) cricket on the field. – The boy <i>plays</i> cricket on the field.</li>
+ </ol>
+ <hr>
+  <p>
+  <b>Rule-2 ᐅ </b>
+  চির সত্য (universal truth) কোন ঘটনা প্রকাশ করতে bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর এক নম্বর বা present indefinite tense -এ হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>The earth (revolve) around the sun. – The earth <i>revolves</i> around the sun.</li>
+  <li>The sun (rise) in the East and (set) in the West. – The sun <i>rises</i> in the East and sets in the West.</li>
+ </ol>
+ <hr>
+  <p>
+   <b>Rule-3 ᐅ </b>
+   একটি clause-এর কোন sentence-এ যদি today, daily, regularly, generally, occasionally, always, often, sometimes, every day, every time, now a days প্রভৃতি word / words-এর কোন একটি word/words ব্যবহৃত হয়, তবে bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর এক নম্বর বা present indefinite tense হবে।
+  </p>
+  <h3>Example ᐅ </h3>
+  <ol>
+   <li>He (take) the milk twice daily. – He <i>takes</i> the milk twice <b>daily</b>.</li>
+   <li>Today she (weigh) twenty one stone. – <b>Today</b> she <i>weighs</i> twenty one stone.</li>
+   <li>A good boy (prepare) his lesson regularly. – A good boy <i>prepares</i> his lessons <b>regularly</b>.</li>
+   <li>But no one (hit) accurately every time. – But no one <i>hits</i> accurately <b>every time</b>.</li>
+   <li>Speaking English is not that difficult, but sometimes it (seem) very difficult. – Learning English is not that difficult but <b>sometimes</b> it <i>seems</i> very difficult.</li>
+  </ol>
+  <p>
+   <b>Note ᐅ </b>
+   অনেক সময় bracket-এর মধ্যে not+<i>verb</i> দেয়া থাকে। সে ক্ষেত্রে bracket-এর মধ্যকার <i>verb</i>-টিকে না-বোধক করতে হয়।
+  </p>
+  <ol>
+   <li>A good boy normally (not waste) time. – A good student <b>normally</b></b> <i>does not waste</i> time.</li>
+   <li>Some students (not play) regularly to keep themselves fit. – Some students <i>do not play</i> <b>regularly</b> to keep themselves fit.</li>
+  </ol>
+  <p>
+   <b>Note ᐅ </b>
+   অনেক সময় দেখা যায় bracket-এর মধ্যে একটি <i>verb</i> দেয়া আছে এবং বাক্যের শেষে প্রশ্নবোধক চিহ্ন দেয়া আছে। সে ক্ষেত্রে বাক্যটিকে interrogative sentence-এ পরিবর্তন করতে হবে।
+  </p>
+  <h3>Example ᐅ </h3>
+  <ol>
+   <li>He (go) to school every day? – <i>Does</i> he <i>go</i> to school <b>every day</b>?</li>
+   <li>They often (play) cricket when they get the time? – <i>Do</i> they <b>often</b> <i>play</i> cricket when they get the time?</li>
+  </ol>
+  <hr>
+  <p>
+   <b>Rule-4 ᐅ </b>
+   কোন sentence-এ যদি now, at this moment, day by day, gradually প্রভৃতি word / words-এর কোন একটি word / words ব্যবহৃত হয়, তবে bracket-এর মধ্যকার <i>verb</i>-টি present continuous tense-এ হবে।
+  </p>
+  <h3>Example ᐅ </h3>
+  <ol>
+   <li>At this moment, Rahim (study). – <b>At this moment</b>, Rahim <i>is studying</i>.</li>
+   <li>Now the students (play) in the field. – <b>Now</b> the students <i>are playing</i> in the field.</li>
+   <li>What you (read) now? – What <i>are</i> you <i>reading</i> <b>now</b>?</li>
+   <li>Fatima (not study) at this moment. – Fatima <i>is not studying</i> <b>at this moment</b>.</li>
+   <li>Gradually the price of rice (increase). – <b>Gradually</b> the price of rice <i>is increasing</i>.</li>
+  </ol>
+  <hr>
+  <p>
+  <b>Rule-5 ᐅ </b>
+  কোন sentence-এ যদি just, recently, already, ever, never, lately, yet, just now, perhaps প্রভৃতি word / words-এর কোন একটি word / words ব্যবহৃত হয়, তবে bracket-এর মধ্যকার <i>verb</i>-টি present perfect tense-এ হবে।
+ <br><br>
+ Present perfect tense লিখতে সাহায্যকারী <i>verb</i> হিসাবে has বা have-এর প্রয়োজন হয়। Perhaps, just now এবং yet ব্যতীত উপরে উল্লেখিত অন্য সকল শব্দ সাহায্যকারী ও মূল <i>verb</i>-এর মধ্যে বসে। Perhaps, just now এবং yet প্রদত্ত বাক্যের যে স্থানে থাকে, তাকে সেই স্থানেই রাখতে হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>I just (take) a cup of tea. – I <i>have</i> <b>just</b> <i>taken</i> a cup of tea.</li>
+  <li>He (go) out just now. – He <i>has gone</i> <b>just now</b>.</li>
+  <li>I never (regret) my past. – I <i>have</i> <b>never</b> <i>regretted</i> my past.</li>
+  <li>But I just (have) a snack. – But I <i>have</i> <b>just</b> <i>had</i> a snack.</li>
+ </ol>
+ <p>এ ছাড়া বাক্যে have, has, had এবং be শব্দের পরেই যদি bracket-এ <i>verb</i> দেয়া থাকে, তবে তবে bracket-এর মধ্যকার <i>verb</i>-টিকে পরিবর্তন করে <i>verb</i>-টির তিন নম্বর রুপ বা past participle-এ লিখতে হবে।</p>
+  <h3>Example ᐅ </h3>
+ <ol>
+  <li>We have (sink) a tube well. – We <b>have</b> <i>sunk</i> a tube well.</li>
+  <li>The principal desired the notice to be (hang) on the board. – The principal desired the notice <b>to be</b> <i>hung</i> on the board.</li>
+  <li>I have ( have) my revenge at last. – I <b>have</b> <i>had</i> my revenge at last.</li>
+ </ol>
+ 
+
+<script src="file:///android_asset/main.js"></script> </body>
+
+</html>

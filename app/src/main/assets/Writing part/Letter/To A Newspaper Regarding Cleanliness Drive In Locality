@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Newspaper Regarding Cleanliness Drive In Locality`;
+  var body = `Wrold Trade Centre, <br>
+Chittagong. <br>
+25 January 2023 <br>
+The Editor,<br>
+The Morning News, <br>
+Chittagong. <br><br>
+
+Sir, <br>
+Reg : Cleanliness Drive. <br>
+Allow me to take this opportunity to announce with great pleasure that we, the young boys of Nasirabad No.5, have started a cleanliness campaign in our locality, with subscriptions from the residents, who are willing to take part in the campaign, to meet the cost of removing the heaps of garbage, trash and refuse accumulated in the mid of the locality by sweepers who are paid for disposal of garbage by the residents. Some residents had thrown the debris of their houses resulting from renovations, alterations or additions, on the streets and lanes creating traffic problems. We have, to a great extent, got them removed and would get the rest removed soon. <br>
+We have pledged to sweep the roads streets and lanes ourselves every Friday morning. A committee of elders have been formed to manage the cleanliness funds we have collected. It has been decided by the residents to contribute Rupee five per house per month to this fund. The committee will also supervise the cleanliness of the locality and fine any resident found guilty blanking the mohalla unclean. We have warned the sweepers that, if in future, they throw the garbage in the mid of the locality, they will be dealt with severely. <br>
+I feel, if similar drive is started by young boys of every locality, the Quaid’s city will be the cleanest city of the world.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

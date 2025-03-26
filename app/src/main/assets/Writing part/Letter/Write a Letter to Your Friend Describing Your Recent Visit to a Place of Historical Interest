@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a Letter to Your Friend Describing Your Recent Visit to a Place of Historical Interest`;
+  var body = `Dear Shuvo,<br><br>
+How do you do? Listen, I have some exciting things to tell you. Last week, we went to Badger hat with my uncle and I had the opportunity to see the 'Shatgombuj Mosque' which is one of the most architectural beauties of Bangladesh.
+<br>
+The Mosque was built by Khan Jahan Ali. It stands on sixty pillars with its seventy seven exquisitely curved 'Gombuj' or domes and not 'Shat' or sixty as the name suggests. Its wall is two meters thick and the interior western wall is decorated with terracotta flowers and foliage.
+
+<br>
+There is also a lake like 'dighi'. There is a saying that a horse was made to run before digging the 'dighi'. It ran covering a distance and stood still. That distance was accepted as its length. So, it was named 'Ghora dighi'. There are also many crocodiles in the 'dighi'. To speak the truth, we had a very exciting time there which is really a memorable experience.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

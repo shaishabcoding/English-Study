@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Three honest friends";
+  var text = `Once upon a time there lived three friends in a certain village. One day they set on a long journey on foot. They promised to help one another and to be helpful if and when any problem arises. One the ways they had to pass through a jungle. All on a sudden, they saw a bag of gold lying on the ground. The three friends stood around the bag and looked around to check whether there was anybody or not. But they did not find anybody coming along the way. Then they thought for a while and tried to decide what to do. Suddenly one of them found a blood-stained man lying senseless in corner. When the touched him, he received sense. Then the three friends served the man and made him feel better. After that they asked him about the whole incident. The man answered that he was kidnapped by some dacoits who tortured him inhumanity. He also said that his family gave the dacoits a bag of gold as ransom. But seeing the police they ran away leaving me wounded. The three friends returned him the bag of gold.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

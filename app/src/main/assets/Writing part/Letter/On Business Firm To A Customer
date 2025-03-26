@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Business Firm To A Customer`;
+  var body = `To<br>
+Messrs. Pattersons Co.,<br>
+M.A. Jinnah Moving,<br>
+Chittagong<br>
+22 January 2023
+<br><br>
+Gentlemen,<br>
+I tell to your letter of the 30th fast, we. feel to uncovering that the goods dispatched by us were received by, you in impaired precondition. We beg to assert you that the artefact were rattling carefully crowded and were in dead sound condition when they port our godown. We arc sorry to say that we cannot see our way to position the busted artefact, as we cover no area for any misconduct suffered in installation.
+May we, nonetheless, declare that you should attraction the attention ol' the railways authorities to the weigh with a view to obtain rectification?
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

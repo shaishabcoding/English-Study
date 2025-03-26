@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">ভালোবাসা প্রকাশ করার কয়েকটি গুরুত্বপূর্ণ বাক্য - part 1</div>
+  <div id="data"></div>
+  <script>
+    var data = [["I am in love with you.","আমি তোমার প্রেমে পড়েছি।"], ["True love is not easy to find.","সত্যিকারের ভালোবাসা সহজে পাওয়া যায় না।"], ["I love you with my heart.","আমি তোমায় মন থেকে ভালোবাসি।"], ["I need you in my life.","আমার জীবনে তোমায় প্রয়োজন।"], ["I am nothing without you.","আমি তোমাকে ছাড়া কিছুই না।"], ["I can do everything for you.","আমি তোমার জন্য সবকিছু করতে পারি।"], ["You are my everything.","তুমি আমার সব।"], ["You are only mine.","তুমি শুধু আমার।"], ["I can do everything for your love.","আমি তোমার ভালোবাসার জন্য সবকিছু করতে পারি।"], ["My love is true.","আমার ভালোবাসা সত্য।"], ["Will you accept my love?","তুমি কি আমার ভালোবাসা গ্রহণ করবে?"], ["I want to tell you lot of thing.","আমি তোমাকে অনেক কিছু বলতে চাই।"], ["But nothing i can tell.","কিন্তু কিছুই বলতে পারিনা।"], ["How are you still single?","তুমি এখনও সিঙ্গেল আছো কিভাবে?"], ["Can i touch your hands?","আমি কি তোমার হাত স্পর্শ করতে পারি?"]]
+  </script>
+</body>
+</html>

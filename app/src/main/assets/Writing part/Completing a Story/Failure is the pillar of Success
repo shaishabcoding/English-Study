@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[RB-16;DjB-16]"
+  var title = "Failure is the pillar of Success";
+  var text = `Robert Bruce, king of Scotland, fought several battles to regain his country's freedom but was each tume dejeated. Natrally he was very sad. So, He fled away from his kingdom and took shelter of Success  remote cave.<br>  The king was always in a gloomny state  for his unhappy condition.Once he was thinking of his sad  lot lying in the cave. Suddenly he noticed a spider trying hard to reach the ceiling of the cave. The  spider failed again and again to attain success.Bub it did not give up hope.Bruce saw the spider climbing to the ceiling after six unsuccessful attempts.This dauntless spider inspired Robert  Bruce to shake of the darkness of despair.<br>  He gathered an army of strong men and attacked his enemies.The enemies courted defeat and Robert Bruce regained his kingdom.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

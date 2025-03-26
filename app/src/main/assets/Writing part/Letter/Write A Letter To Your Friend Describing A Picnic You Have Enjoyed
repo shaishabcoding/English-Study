@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Describing A Picnic You Have Enjoyed`;
+  var body = `My dear Nila,<br><br>
+You will be glad to learn that last Sunday I went to a picnic. The spot was Bibhuti Smriti Ghat at Barrackpur, Sreepalli. My parents, my younger sister Tanu and I myself made the team. We went for marketing the day before. We hired an autu-rickshaw to reach the spot. The menu was simple “Biriyani, fish fry, chilly chicken, sweets and ice-cream”. I and my younger sister Tanu helped mother in cooking. During cooking we enjoyed Rabindrasangeet from our CD player. After the cooking was over, Tanu recited from Tagore and Nazrul. Then we had our delicious lunch. After lunch we strolled about on the bank of the river Ichhamati. Gentle breeze was playing through the boughs and scattered stray leaves on the gliding stream below.We took some snapshots. We also enjoyed boating on the Ichamati. It was really a romantic experience.
+<br>
+No more today.
+<br>
+With best wishes to you and best regards to your parents.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

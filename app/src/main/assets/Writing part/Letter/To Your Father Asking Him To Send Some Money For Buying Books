@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Father Asking Him To Send Some Money For Buying Books`;
+  var body = `World Trade Centre,<br>
+A-B-C Road,<br>
+Chittagong.<br>
+21 January 2023<br><br>
+
+My Dear Father,<br>
+Many thanks for your kind letter which I received sometimes back. I was very much please to read it. My result was declared one week ago. You will be glad to know that I have come out successful. I have stood third in my class. I am now in class X in which news books have been prescribed. These are very costly and I have to buy them all. As classes will start from the next month I would need some money immediately for the purchase of books. Kindly, therefore send Rs.1000/- by money order as soon as possible. So that I may buy these articles without delay.<br>
+Please convey my compliments to all the members of the family and love to Mummy.<br>
+With best wishes.<br><br>
+
+Your Loving Son,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

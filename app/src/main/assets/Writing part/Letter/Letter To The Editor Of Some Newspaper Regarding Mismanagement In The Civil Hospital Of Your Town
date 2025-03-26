@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Letter To The Editor Of Some Newspaper Regarding Mismanagement In The Civil Hospital Of Your Town`;
+  var body = `33, Main Road,<br>
+Lala Musa<br>
+22 January 2023<br>
+To<br>
+The Editor,<br>
+The News.<br>
+Chittagong.
+<br><br>
+Sir,<br>
+Through the columns of your esteemed paper P wish to draw the attention of the Health Department, Government, of Bangladesh, to the sorry state of affairs in the Civil Hospital of this town.<br>
+This is a town with a very large population which is always on the increase. But, unfortunately, the facilities in the Hospital are vanishing day by day. Firstly, the building in itself is inadequate, very old and dilapidated. The family ward, especially, is in a poor condition.
+Secondly, those at the helm of affairs are negligent and indifferent to the public. They generally treat the people as if they were animals. Only those who are influential or who can offer some tips are entertained. Then the conditions are very unhygienic: cleanliness is not maintained. The staff lacks the sense of duty.<br>
+I request the Director of Health or, some other responsible official to pay a surprise visit to this hospital and see for himself the state of affairs. When the contents of this letter are verified it may be hoped that the helpless people of this town will get deliverance from these difficulties.
+<br><br>
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

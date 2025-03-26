@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Asking For A Loan`;
+  var body = `My dear Sohail, <br>
+Constrained by circumstances I approach you with great reluctance to lend me some money. Father has not sent the monthly stipend so far and I have to deposit the Board’s examination fee immediately. I am sorry to trouble your in this respect and shall be obliged if you arrange to lend me Rupees five hundred by tomorrow. I shall pay your back as soon as money is received from home.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

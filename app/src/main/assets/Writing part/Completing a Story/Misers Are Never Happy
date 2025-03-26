@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Misers Are Never Happy";
+  var text = `There was a man in a village. He was known to the villagers as a miser. He was about 35 years old and unmarried. As a result, he had no responsibility for his family. He always thought about himself. One day during the harvest he called for some laborers. They demanded ten Taka each per hour. But the miser told them that he would pay them Taka three and he would not enhance the rate by any means. At this. The laborers left. Afterwards, no one in the village or the nearby villages agreed to work for him. The miser did not increase the rate, rather he started cutting his crops himself but he could not continue with the work for a long time. He incurred a great loss that year.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

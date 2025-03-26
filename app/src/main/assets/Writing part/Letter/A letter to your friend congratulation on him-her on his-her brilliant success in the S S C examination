@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `A letter to your friend congratulation on him-her on his-her brilliant success in the S S C examination`;
+  var body = `My dear Mimi, <br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah. A Sweet note from you have just anchored to the shore of my heart. I came to know by your letter that you have passed the S S C examination with G.P.A-5:00.I congratulate you on your brilliant success. In fact, this brilliant result is a matter of pride and joy for us. This success now brings golden opportunities for you to rise in life. I am sure that you will do still better in your future examination.
+<br>
+Hope this will find you all right. With best regards to you and your parents.
+<br>
+Please come with your younger brother. This is all for today. Best wishes to you and all. No more today. More when we shall meet you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

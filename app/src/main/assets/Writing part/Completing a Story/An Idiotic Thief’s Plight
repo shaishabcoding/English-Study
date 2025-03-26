@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An Idiotic Thief’s Plight";
+  var text = `There lived a landlord named Sri Suryakanta in a certain province in Bengal. He had nearly fifty servants to look after his household. One day, while the landlord was away for pilgrimage for a month, one of his servants stole his precious wrist watch kept on his table. The watch was a gift from the King of Mysore. The landlord can’t afford losing it. When the landlord returned, he was furious over not finding his watch at his home. He doubted that one of his servants must have done that. He made a plan. He gave each of the servants a stick of equal length saying, “The thief’s stick will grow an inch longer tomorrow”. The thief was full of stress at the thought of getting caught. He cut an inch from the stick that night. The next day, the landlord checked the sticks given to the servants and found one stick short by an inch. He identified the thief immediately and caught him. The thief got severe punishment.<br><br><b>Moral</b> ᐅ Dishonesty is the worst policy`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

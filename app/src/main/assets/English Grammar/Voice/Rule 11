@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-11 ᐅ</b>
+  Factitive object/ Complementary object-যুক্ত active voice-এর passive কাঠামো ᐅ
+ </p>
+ <card>Him, her, me, us, you, them, প্রভৃতিকে active রূপে নেয়া হয় এবং subject হিসেবে ব্যবহৃত হয়+ Tense and person অনুযায়ী Auxiliary verb+ Verb-এর past participle+ factitive object+ by+ subject-এর object.</card>
+ <br>
+ <card><b>Note ᐅ </b>যদি কোন বাক্যে transitive verb যেমন: call, make, name, nominate, elect, select, প্রভৃতি থাকে কিন্তু একটি পূর্ণ অর্থ প্রকাশ করতে একটি অতিরিক্ত object ব্যবহৃত হয়, তবে এই অতিরিক্ত objectটিকে Factitive object/ Complementary object বলে।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>They made me a moderator. (Active)</li>
+  <li>I was made a moderator by them. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

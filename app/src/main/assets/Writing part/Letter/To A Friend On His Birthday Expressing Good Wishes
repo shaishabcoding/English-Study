@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Friend On His Birthday Expressing Good Wishes`;
+  var body = `My dear Imtiaz,<br>
+It is your birthday tomorrow, and I am writing to wish you Many Happy Returns of the Day. Mother too sends her love and best wishes on this happy occasion. I should like to give you something to celebrate the event, and I have chosen a photograph album, for I know you are very much interested in photography and I thought this would be useful for your collection of architectural subjects. <br>
+Please accept the album with my good wishes and believe inc.
+<br><br>
+Ever sincerely yours,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

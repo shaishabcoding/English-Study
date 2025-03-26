@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Telling Him-Her What Your Intern To Do After The S.S.C Examination`;
+  var body = `Dear Sharmin,<br><br>
+Yours letter of the 5th instant is to hand. You have wanted to know about what I want to do after the S.S.C examination is over.
+<br>
+Our examination will come to an end of the 2nd April. I have decided to make proper use of the days till the publication of results. I have thought out a plan to help the mass people of our village to better their conditions. I shall spend the whole period working hand in hand with them. I shall start a night school to teach the 3 R, s to the illiterate adult people. I shall discuss with them about ways and means to make. "Grow more food" campaign a success. Moreover, I shall talk with them about the rules of health and sanitation hoping to hear from you soon. With best wishes
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Conjunction কাকে বলে?</h3>
+ <p>যে Word দুই বা ততোধিক Words, Phrase, Clauses, Sentences কে যুক্ত করে তাদেরকে Conjunction বলে। যেমন: And, But, As, So, or, Yet, Either, Neither, After, Before, Since, So that, That ইত্যাদি Words Conjunction রূপে ব্যবহৃত হয়।</p>
+ <h4>Conjunction প্রধানত ৩ প্রকার ᐅ</h4>
+ <ul>
+  <li>Co-ordinating Conjunction</li>
+  <li>Subordination Conjunction
+</li>
+  <li>Correlative Conjunction</li>
+ </ul>
+ <br><br>
+ <h4>Co-ordinating Conjunction ᐅ</h4>
+ <p>যে সকল Words সমজাতীয় Words, Phrase, Clauses, Sentences কে যুক্ত করে তাদেরকে Co-ordinating Conjunction বলা হয়।
+ <br><br>
+ Con-ordinating Conjunction হলো: And, but, for, nor, or, so, and yet ইত্যাদি।</p>
+ <h5>Examples ᐅ</h5>
+<ul>
+ <li>Karim and Rahim are good friends.</li>
+ <li>Her two favorite sports are football and tennis.
+</li>
+ <li>
+I like coffee, but my sister prefers tea.
+</li>
+ <li>
+I like living in the village but my brother prefers living in the city.
+</li>
+ <li>Karim is fifty-five, yet he still runs, swims, and plays football regularly.
+</li>
+</ul>
+<br><br>
+<h4>Subordination Conjunction ᐅ</h4>
+<p>যে Conjunction গুলি Subordinating Clause কে Principle Clause/Main Clause এর সাথে যুক্ত করে তাদেরকে Subordination Conjunction বলে।
+</p>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>We went to the garden where we saw different kinds of roses.</li>
+ <li>Although she was ill, she came to the class.
+</li>
+ <li>You will get a chance to play on the team provided that you practice hard.</li>
+</ul>
+<br><br>
+<h4>Correlative Conjunction ᐅ</h4>
+<p>জোড়া শব্দ যেগুলো বিপরীতার্থক বা পরিপূরক সম্পর্কযুক্ত words, phrases বা clauses কে যুক্ত করে তাদেরকে correlative conjunction বলে।</p>
+<card>Whether…or, not only…but also, either…or, neither…nor, both…and, are some common correlative conjunctions.</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>I will travel either by bus or by air.
+</li>
+ <li>Neither you nor I will go there.</li>
+ <li>Both red and green are my favorite colors.</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

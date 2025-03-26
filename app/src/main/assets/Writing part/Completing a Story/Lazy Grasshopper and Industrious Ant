@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Lazy Grasshopper and Industrious Ant";
+  var text = `Mr. Grasshopper and Mr. Ant were neighbors. They were good friends. Mr. Grasshopper was very lazy and imprudent. During the summer, he spent his days idly by merry making. On the contrary, Mr. Ant was very hard working. He got up very early in the morning, ate a small breakfast and then started working on his farm. He worked very hard all day under hot summer sun. He planted many crops and looked after them carefully. While Mr. Ant worked on his farm, Mr. Grasshopper sang happily in the warm sun. And when he stopped, he sat and admired the beautiful countryside all around him. He looked at the leaves on the trees, the green fields and the fishermen’s boats on the sea. Then Mr. Grasshopper fell asleep. While Mr. Grasshopper slept quietly in his chair, Mr. Ant continued to work on his farm. For many days, weeks and months, he was busy in his fields. So while Mr. Grasshopper enjoyed his leisure, Mr. Ant worked hard from morning till night. While the rainy season set in, Mr. Grasshopper fell in danger. He could not manage two square meals a day as he did not store food. He had to lead a miserable life. On the contrary, Mr. Ant led his life very well as he thought about his future.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

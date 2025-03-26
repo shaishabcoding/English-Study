@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[JB-15]"
+  var title = "The Foolish Crow and A Sly Jackal";
+  var text = `One day a crow stole a piece of meat. It flew away and sat on the branch of a tree. Suddenly a fox noticed it and hit upon a plan to eat the piece of meat. Finally he asked the crow to sing a song with its beautiful voice. The foolish crow at first did not want to sing but the clever fox said, “If you start singing, most of the animals of the forest will come to listen and you will be famnous.” Hearing the praising word the foolish crow started singing. When the crow opened its beak the piece of meat fell down. The sly fox at once took the piece of meat and went away hastily. The foolish crow could not do anything.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

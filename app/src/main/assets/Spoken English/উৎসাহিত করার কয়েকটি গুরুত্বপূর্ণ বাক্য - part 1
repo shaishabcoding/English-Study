@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">উৎসাহিত করার কয়েকটি গুরুত্বপূর্ণ বাক্য - part 1</div>
+  <div id="data"></div>
+  <script>
+    var data = [["Good job","সাবাশ!"], ["Keep going","চলতে থাকো"], ["Don’t be afraid","ভয় পেয়ো না"], ["Never Give up","হাল ছেড়ো না"], ["That’s a good effort","এটা একটা ভালো প্রচেষ্টা"], ["There is nothing to fear","ভয়ের কোন কারন নেই"], ["I’m so proud of you","আমি তোমার জন্য গর্বিত"], ["Believe in yourself","নিজের ওপর বিশ্বাস রাখুন"], ["Nothing is impossible","কোন কিছুই অসম্ভব নয়।"], ["Don’t get nervous","ঘাবড়াবে না"], ["Stay strong","শক্ত হও"], ["I’m behind you absolutely","আমি তোমার পেছনে সম্পূর্ণভাবে আছি"], ["Rest assured","নিশ্চিন্তে থাকুন"], ["Don’t hesitate","সংকোচ করবে না"], ["Do your best","সাধ্যমতো চেষ্টা করো"], ["Don’t worry","চিন্তা করো না"], ["It doesn’t matter","এটা কোন ব্যাপার না"], ["That’s a real improvement","এটা বাস্তবে উন্নতি হচ্ছে"]]
+  </script>
+</body>
+</html>

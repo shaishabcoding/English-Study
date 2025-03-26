@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Manger Of A Passenger Bus Company To Charter A Bus For A Day School`;
+  var body = `Chittagong. <br>
+25 January 2023 <br>
+The Manger,<br>
+Company,<br>
+Chittagong. <br><br>
+
+Dear Sir, <br>
+A party of 40 of us, all students of School, will be travelling to Jab, on Sunday, the 26 May for a picnic to Jab Park, The party will leave at 6 am. sharp from the school and we expect to leave Jab for home at about 7 p.m. the same day. Please let me know if it is possible for us to charter one of your buses for this trip. <br>
+The bus will have to remain parked all day at the Jab park, and its driver and conductor will have to be easily available, should the party decide to return home earlier than scheduled. On account of rain, or for any other reason. The driver and the conductor will have to make their own arrangements for food and drinks, and should they like to join the party, to the Jab Park, they will have to pay for their own transport by launch. <br>
+Please let me know the cost of hiring the bus on these terms. Should you so desire, you may quote only for the use of your vehicle and the services of your employee we shall supply petrol or diesel oils, as the case may be, at our own cost. <br>
+Please reply as soon as possible, but not later than the 20m instant.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

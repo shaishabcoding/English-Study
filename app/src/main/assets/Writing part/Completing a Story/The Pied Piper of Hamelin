@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Pied Piper of Hamelin";
+  var text = `Hamelin, a small town in Germany was full of rats. The town was occupied by rats which were found everywhere. They were so daring that they killed the cats and drove away the dogs. They made the life of the people of Hamelin miserable. At last the people in a body went to the Mayor and requested him to find out a way to kill the rats and save them.
+<br>
+
+The Mayor at once called a meeting. Just then a strange looking man appeared. He expressed his desire to make the town free from rats. He demanded one thousand gold coins for it. The Mayor agreed gladly.
+<br>
+
+The piper with his pipe went out into the street and began to play on his pipe. Hearing the sweet tune the rats came out of every house. He then walked into the river. The rats followed him and all the rats were drowned to death.
+<br>
+
+The Piper went to the Mayor for money. But the Mayor did not give him the money. The piper was sad and decided to take revenge. He began to play another tune on his pipe which attracted all the children of the town. They started to run after the Pied Piper in groups. It was a huge procession of children. The Pied Piper walked towards a mountain to the north and then he was disappeared with the children.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

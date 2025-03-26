@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Newspaper About The Growing Noise Pollution`;
+  var body = `A/311/H Nasirabad,<br>
+Chittagong.<br>
+22 January 2023<br>
+The Editor,<br>
+The Daily Dawn,<br>
+Chittagong.<br>
+<br><br>
+Sir,<br>
+Re : Growing Noise Pollution in Chittagong.<br><br>
+Through these columns of your esteemed daily, I wish to draw the attention of the authorities to the growing noise pollution in Chittagong. Traffic, as we know, is a breathless rush in Chittagong producing deafening noise, as each of the running cars buses, trucks and wagons produces a noise ranging from 75 to 90 decibel. An Aero planes passing over the city frequently produces a fulminating noise of 140 decibels. A, Rickshaw or motorcycle produces an uproar of 100 decibels and each of the cars, rickshaws, motorcycles, buses, trucks with defective silencer produces a loudness of 120 decibels. One can imagine the total bombilating noise produced in Chittagong every minute. Besides, hotels play cassettes on loud speakers and cars, buses and wagon also play cassettes while plying each of which produces a devastating shrill of 150 decibels.<br>
+Experts point out that a noise over 90 decibel is harmful for us. Continuous noise damages hearing and brings deafness. It affects body function adversely. It causes nervous tension and aggressiveness. Concentration of mind is affected by it and work is not carried out properly in noise.<br>
+Will the authorities take appropriate steps to lessen the deafening uproar produced in Chittagong. The traffic police should see that no vehicle with defective silencer runs along the road. The Civil Aviation department should ban flying of airplanes over Chittagong. Hotels should be prohibited to broadcast music on loud speakers. Playing of cassettes in cars, buses and wagon should also be prohibited.<br>
+Despite a ban on it, one can find buses, wagons and cars sounding their horns. Much of the blaring commotion can bc reduced if authorities take stern steps to mitigate it.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend about your family`;
+  var body = `My dear Nasima,<br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah.I am very glad to receive your letter. You are interested to know about my family. My family is a happy middle class family consisting of five members;father, mother, sister, brother and myself. I am the second child of my family. My father is school teacher and leads an honest life with a great hardship. My mother is a frugal and tolerant mother who also sears the hardship of life maintaining our family smoothly. She does the household work herself and never complains. We brother and sister are very naughty always quarrelling for nothing yet we love each other. We have a strong family tie. No more today. I am awaiting for your kind reply. Please write to me about your family.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = "The mobile phone";
+ const data = [
+  "What are you doing, "+men[1]+"?",
+  men[0]+", I am reading about an important topic but I can’t understand it clearly.",
+  "What difficult topic are you reading?",
+  men[0]+", tell me about the uses and abuses of the mobile phone.",
+  "Mobile phone is an important medium of communication which helps intercommunication with the people within the shortest possible time.",
+  "What are the good sides of mobile phone?",
+  "Specially, businessmen and service holders are much benefited through the use of mobile phone. It is also useful for doctors, high officials and for the people who do shopping and supply valuable information sitting in their houses.",
+  "What are the bad sides of mobile phone?",
+  "By using the mobile phone, terrorists and criminals carry out their evil designs and commit crimes without much difficulty. Sometimes, criminals use this phone to maintain their secrecy. In spite of some such drawbacks, there is no better alternative to mobile phone in communicating with people at home and abroad.",
+  "Thank you "+men[0]+"."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Business Firm Complain That Goods Were Received In Damaged Condition`;
+  var body = `Welcome and Welcome,<br>
+Dealers in Glass Ware and Scientific goods,<br>
+16, Paradise Avenue,<br>
+Chittagong.<br>
+22 January 2023<br>
+The Manager,<br>
+Tipu Glass Manufacturers,<br>
+Hyderabad.
+<br><br>
+Dear Sir,<br>
+Re: Your Invoice No.64756 dated 10-11-23<br><br>
+We are in receipt of your IflVO1CC along with the ordered articles and regret to advise that due to careless packing 10 flasks, 6 R. D bottles and 12 jugs were broken in the transit.<br>
+You are requested to replace the damaged articles at your earliest.
+<br><br>
+Yours faithfully,<br>
+For Welcome and Welcome`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Wicked Ass Learns a Lesson";
+  var text = `A merchant named Chand Saudagar used to go to the market daily along with his pet ass. One day, he loaded it with salt to sell in the market. On the way, he had to cross a small bridge over a stream. That day, the ass accidentally fell into the stream. The salt on his back melted in water and the load lessened. Another day, the ass willingly jumped into the stream. The master understood his trick. The next day, the master loaded it with sponge. This time too the ass fell into the stream. The sponge on his back soaked much water and became unbearably heavy. The ass could somehow save its life. It learnt a good lesson.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

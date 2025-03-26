@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-9 ᐅ </b>
+  সাধারণত: intransitive verb-এর passive voice হয় না। কিন্তু যদি intransitive verb-এর পরে preposition যুক্ত হয়ে একটি group verb তৈরী করে এবং এটি intransitive verb হিসেবে ব্যবহৃত হয়, তবে passive রূপের structure হবে ᐅ 
+ </p>
+ <card>Object হবে subject+ Tense অনুসারে Auxiliary verb + Verb-এর past participle+ প্রদত্ত preposition+ by+ subject-এর object।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>The boy took care of the parrots. (Active)</li>
+  <li>The parrots were taken care of by the boy. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

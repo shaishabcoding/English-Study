@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Complaint Railway Authorities Irregularities Booking Seats`;
+  var body = `R-772, Sector 9,<br>
+North Chittagong,<br>
+Chittagong. <br>
+25 January 2023 <br>
+The General Manager,<br>
+Bangladesh Railways,<br>
+Chittagong. <br><br>
+
+Dear Sir, <br>
+I take this Opportunity to draw your attention to the irregularities committed by the booking stall at cantt. Railway Station, Chittagong. <br>
+A few days ago, I reached the booking office before 8 AM and stood in the queue for getting a seat booked for Peshawar. We waited till ten, when the window opened and a man was seen sitting in front of it. After a while he left his seat and was gone to take tea. After three quarters or so of an hour, he returned to his seat and started hooking. <br>
+When my turn came he informed me that no seat was available for the next fifteen days. He further advised me to come at 4 PM and if any scat was cancelled he would give the same to me. I was again informed in the evening that no seat was available. <br>
+As I was coming out of the verandah, a porter approached me and offered his services for getting the seat booked. Since I was in urgent need of the scat paid him 20% more than the fare and I got the scat booked.
+I hope you would look into the matter and take steps to prevent this malpractice in future.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

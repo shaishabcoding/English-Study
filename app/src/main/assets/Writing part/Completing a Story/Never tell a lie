@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Never tell a lie";
+  var text = `In his boyhood Hazrat Abdul Quadir Zilani was going to Bagdad for education. On the eve of his departure from home, his mother asked him, “My son, never tell a lie and don’t get frightened in danger.”Bagdad was far away from his home. He began his journey in the company of a band of merchants. The way was infested with robbers. After five days, a a gang of robbers fell upon the travelers. One of the robbers caught hold of the boy. The gang leader saw it and said, “Let the boy go. He has nothing with him.”At this the boy said, “No, you are wrong, I have forty gold coins sewed in my sleeves.”The leader asked him why he told them away about his money. The boy said in reply that at the time of his departure, his mother forbade him to tell a lie. He could not disobey his mother. Hearing this a change came into the gang leader. He gave up robbery with all his men. They began to lead good and honest life.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

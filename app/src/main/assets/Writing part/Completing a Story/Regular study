@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Regular study";
+  var text = `Jamal is an SSC examinee. He is not attentive to his lessons especially to English because he is very weak in English. Moreover, he is lazy. So, his preparation in English is not good. A month ago before his examination he managed a short suggestion of probable questions on English. On the day of examination of English he started for the examination hall a bit earlier. He entered the examination hall with a trembling heart. After the examination hall he saw most examinees were in the examination hall. Within a short time the invigilator entered the examination hall. He gave the answer script to all the students. After that Jamal got the question paper and read it thoroughly at first. But alas! he forgot all the answer that he learnt by cramming. Moreover, he found the questions uncommon. He could not write English off hand. He felt terribly sorry realizing his own folly and left the hall with a heavy heart. He now decided to read more attentively and regularly.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

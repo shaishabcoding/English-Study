@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Uncle Seeking His Advice About What You Should Be After Passing The High School Examination`;
+  var body = `My Dear Uncle,<br><br>
+I have done well in the High School Examination. I hope to get more than 75 marks.<br>
+My father is of the view that I should learn type writing and short hand and go in for a job. But I feel I am too young to take up a job. So I wish to take up plus-two course and then degree course in a college.
+I request you to kindly give your valuable advice in this matter and guide me.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

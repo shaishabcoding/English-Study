@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Idle Sons";
+  var text = `Once upon a time, there lived an old farmer with his four sons in the countryside. He was a hardworking man and had a prosperous life. But, as he approached old age, he was unable to work as hard as before. Unfortunately, all his sons were very idle and had never gone to the fields. The old man thought of a plan to teach them the value of work. When, one day, he was on his deathbed, he summoned all of them. He told them that a considerable amount of treasure lies buried in his long neglected fields. Then his breath fails and he dies. The sons immediately went to the fields and began digging hard to find out the hidden treasure. But they couldn’t find anything. Then the rains come. They sowed seeds on the tilled soil. That year they had a rich harvest. They understood that that was the real treasure.<br><br><b>Moral</b> ᐅ Work is life, life is work`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

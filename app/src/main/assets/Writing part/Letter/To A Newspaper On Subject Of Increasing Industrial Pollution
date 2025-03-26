@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Newspaper On Subject Of Increasing Industrial Pollution`;
+  var body = `B-185,<br>
+Sector hA,<br>
+North Chittagong. <br>
+25 January 2023 <br>
+The Editor,<br>
+The News,<br>
+Chittagong.
+<br><br>
+Dear Sir,<br>
+Re : Industrial Pollution. <br>
+Through these columns of your esteemed daily, I want to draw the attention of the authorities to the menace of ever increasing industrial pollution. The chemical factories prepare such chemical in which sulphuric acid is used. The fumes of the sulphuric acid go into atmosphere. These fumes are carcinogenic and are telling upon the health of Chittagongtes. The bone grinding mills are in the vicinity of the city and are spread obnoxious smell causing sickness. Other factories are letting out chemical containing water into tile sea killing marine life. Smoke from mills using coal canopies the entire atmosphere. The carbon dioxide and the carbon in the smoke is spreading lung cancer.
+Will the authorities realize the hazards of the pollution and take necessary steps to save the innocent citizens from untimely death.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

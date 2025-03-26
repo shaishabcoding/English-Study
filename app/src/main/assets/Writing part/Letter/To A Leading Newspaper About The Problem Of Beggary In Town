@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Leading Newspaper About The Problem Of Beggary In Town`;
+  var body = ` World Trade Centre,<br>
+A. B. C. Road,<br>
+Chittagong.<br>
+22 January 2023<br>
+The Health Officer,<br>
+District East,<br>
+Chittagong.
+<br><br>
+Dear Sir,<br>
+Through the columns of your esteemed paper, I want to invite the attention of the district authorities to the problem of beggary in our town. Recently, the number of beggars in our town has increased manifold you. They pursue you like a shadow. Even hale and hearty people have taken to begging. Small boys and children have caught the infection. Perhaps they are made to beg by their guardians.<br>
+The beggars gather at places frequented by the people. The bus stands, market places, post offices, railway station and mosques are their favorite haunts. It is impossible to move about these places peacefully. If you show generosity and open you purse, you are surrounded by a host of them.<br>
+Some child-lifters, in the guise of beggars, are on the look out for abducting children. Two or three cases of this kind have occurred recently, and the culprits have been caught red- banded.<br>
+The female beggars enter the houses quietly without calling out for alarms at the door. If they are not noticed by the in mates, they run away with whatever they can lay hands on.<br>
+They act as informers to the burglars, who break into houses at night. A prompt action on the part of Government is required to check this social evil.
+<br><br>
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

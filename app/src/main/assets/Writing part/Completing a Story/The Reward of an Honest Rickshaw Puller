@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[JB-16]"
+  var title = "The Reward of an Honest Rickshaw Puller";
+  var text = `Abdur Rahim is a rickshaw puller. He is very poor. Everyday he has to work hard to mantain his family. One day while he was pulling rickshaw, a gentle man got on his rickshaw. The man reached the destination and paid him the fare. But at the time of putting his purse into his pocket, it dropped inside the rickshaw. The man went awau. Abdur Rahim wanted to take rest for a while and went to a quiet place. Suddenly he saw a purse on his rickshaw. Being confused what to do, he took it to his house. At home he opened the purse and found twenty thousand taka inside the purse. He showed his wife Jarina the purse. She told him to keep the taka for themselves. But the rickshaw puller did not agree with his wife. He wanted to find out the person who dropped purse. But his wife insisted her husband for keeping the money for themselves. She pointed logically on behalf of using the money for themselves. She even began to quarrel with her husband on the issue. But the ricksha puller was honest. He paid no heed to his wife's argument. He thought if he returned the money to the owner of the purse, he would reward him some money. So he found out the address of the owner and returned the money to him. The owner of the purse became very pleased. He then seemed to be overwhelmed with the pleasure of getting back money rather than experessing grateful  to the rickshaw puller.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

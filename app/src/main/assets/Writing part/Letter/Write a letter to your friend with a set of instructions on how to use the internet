@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend with a set of instructions on how to use the internet`;
+  var body = `My dear Rahman,<br><br>
+In your last letter you wanted to know about the use of Internet. Now I am going to tell you about how to use the Internet. Follow he instruction and it will be easy for you.
+<br>
+By this time you must know how to use a computer. Using the Internet takes nothing more than the ability to use a computer. For using Internet you have to use the particular software.
+<br>
+If you click on the icon of browsing software such as the Microsoft Explorer or Netscape Navigator, you will automatically get logged on the Internet. You will find a space for writing the address of the web page you want to see. If you write the address, you will get to see that page. For finding a particular page you can take the help of search engine through which you can search for information on web pages. Yahoo and MSN and Google are the such engines. I believe, if you follow the instructions, you will surely be able use the Internet with ease.
+
+<br>
+Now I am sure you will be able to look for your desired information on the Internet. Let me know about your progress.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

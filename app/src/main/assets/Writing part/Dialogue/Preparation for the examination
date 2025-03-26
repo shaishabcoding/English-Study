@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = "Preparation for the examination";
+ const data = [
+  "Hello "+men[1]+"! How are you?",
+  "Fine, thank you. Why are you looking so sad?",
+  "Actually I’m worried about my ensuing exam. What about your preparation for the examination?",
+  "Well, I’m going on well my studies. I am also worried about my exam.",
+  "But tell me about your preparation in different subjects.",
+  "You know I’m weak in English. That’s why, I’m taking special care in English. I’m having a detailed revision in other subjects.",
+  "Are you taking help from any special books?",
+  "Yes. But I study text book very carefully.",
+  "I see. I must start working with the text book. What do you think?",
+  "Yes. I think it’ll be helpful not only for English but also for other subjects.",
+  "Thank your for your supportive suggestion. Wish your good luck.",
+  "You’re most welcome."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Don't trust a liar";
+  var text = `One day a wolf had a bone stuck in his throat.He felt much pain.The wolf requested everyone he met to take out the bone.But no one helped him.They were afraid of the wolf.At last,he saw a crane.He ran to him and told everything.The crane demanded the prize.The wolf agreed.The crane put his long beak into the wolf’s mouth.Then he pulled the bone out of his throat.The wolf felt relief and was about to go.The crane demanded the prize but the wolf refused to give him the prize and also said that he had not swallowed his head and he was  still alive.This is the biggest prize in his life.The crane became afraid of his life.He at once flew in fright.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

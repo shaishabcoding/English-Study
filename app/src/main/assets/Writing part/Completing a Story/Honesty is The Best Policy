@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Honesty is The Best Policy";
+  var text = `There lived a woodcutter in a village. One day he was cutting wood near a river. Suddenly, his axe fell into the river. The river was very deep. So, he was sitting there sadly. Then a beautiful fairy appeared before the woodcutter. She asked him in a sweet voice, “Why are you so sad?” The woodcutter replied sorrowfully, “My axe has fallen into the pond. I can’t cut wood now. The fairy then showed him an axe made of gold. She asked him if it was his axe. The woodcutter said, “It’s not my axe. My axe is made of iron. Then the fairy showed him the lost axe. The woodcutter then said happily that it was his axe. The fairy became very pleased and gave him the gold axe too. Then the woodcutter became rich and began to live happily.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

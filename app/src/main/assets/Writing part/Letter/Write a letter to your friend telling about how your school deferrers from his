@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend telling about how your school deferrers from his`;
+  var body = `My dear Nasima,<br><br>
+Your letter is just to hand. From your letter I have come to know about your school. But there are some differences between your school and ours. Now I am going to tell you.
+<br>
+Your school is located in the rural area. But ours one is in the capital city. Your school is tin-shed where as our school is made of brick, which is a five –storied building. In your letter you have written at you have 20 teachers but we have 43.In your school there is no library. But we a big and rich library. Your school starts at 10 am whereas our school begins at 8 a.m. Besides, the number of students in your school is 500 but our school has 1200 students. One thing surprised me that in your school there is no electricity. But we cannot even spend an hour without electricity. Actually there is much difference between your school and ours one.
+
+
+<br>
+No more today. If possible , once come to Dhaka and meet us. My respects to your father and mother.
+<br>
+Write me about your village. I shall be happy if you do it.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

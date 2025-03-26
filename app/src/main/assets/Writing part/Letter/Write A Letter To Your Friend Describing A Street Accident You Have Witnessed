@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Describing A Street Accident You Have Witnessed`;
+  var body = `My dear Nila,<br><br>
+With a heavy heart I write to you about a horrible street accident that I witnessed today on my way back home from school. I was walking along the footpath by the Jessore Road. A superfast bus of route No. DN 44 was turning right to get entry into Chandpara Bus Stand at Chandpara. It took its turn at a break-neck speed. Just at that time a young motor-cyclist was knocked down by the wheel of the bus. The driver used the brake to stop the bus. But before he could stop the bus, it ran over the motor-cyclist who died on the spot. The local people rushed to the spot and started to manhandle the driver. Later the police came to the spot. The situation was brought under control with the arrival of the police. No more for the time being. More when we meet next.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

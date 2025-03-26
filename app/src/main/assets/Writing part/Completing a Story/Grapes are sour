@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Grapes are sour";
+  var text = `A fox was very hungry. It was walking here and there in search of food. On the way in a vine yard, he saw some grapes were hanging high up of the tree. The fox wanted to eat them. So, he jumped again and again to get the grapes. But he could not reach the grapes. He tried heart and soul but the grapes were beyond his reach. At last he gave up the hope of eating the grapes. He left the place saying –“Grapes are sour”.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

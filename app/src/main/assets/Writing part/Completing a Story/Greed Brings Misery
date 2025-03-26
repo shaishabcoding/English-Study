@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Greed Brings Misery";
+  var text = `Once upon a time, there was a king called Midas who was extremely fond of gold. He thought if he had the golden touch, he would be the happiest man. A wish god granted his wish. Just then, an apple fell from a tree before him. He took up the apple and it turned into gold. His joys knew no bounds. He entered his palace in a happy mood. He took his daughter in his arms and she became all gold. The king was greatly shocked. He started shouting in pain. He prayed to his wished god to take away his golden touch. The wish God granted his prayer. The king took his daughter in his arms again and she became flesh and blood. The king became very happy. He could understand that too much greed had taken away his happiness.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

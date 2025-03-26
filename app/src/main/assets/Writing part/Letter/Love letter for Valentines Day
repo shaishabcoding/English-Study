@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter for Valentines Day`;
+  var body = `Nasreen
+Banskhali,Chattogram
+PC-Banigram,PS-Banskhali
+Dear Nasreen,<br>
+On this Valentine's Day, let me remind you that I won't wait every February to show you just how much you mean to me.
+<br>
+I would just like you to know that I've set up a little date for us at [location]. I'll pick you up later at 7 p.m.
+<br>
+What's waiting for you is a surprise.
+<br><br>
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

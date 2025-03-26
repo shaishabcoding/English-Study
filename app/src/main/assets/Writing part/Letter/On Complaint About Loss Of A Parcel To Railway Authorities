@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Complaint About Loss Of A Parcel To Railway Authorities`;
+  var body = `To<br>
+The Traffic Supervisor,<br>
+Bangladesh Western Railway,<br>
+Chittagong.
+<br><br>
+Pricey Sir,<br>
+A "portion containing- chemicals was dispatched * from Chittagong on 12th December, 2019, under Railroad receipt No. 207289. The apportionment has not yet reached Chittagong where it was due to be delivered. I tally made repeated inquiries at the anesthetic goods state but they someone no account to provide.<br>
+So I motion you with the letter that an fast inquiry may gratify be sequential and the allocation traced as advance as fermentable.
+If exploit of allocation is postponed, I may suffer a outstanding sum. The industry is fluctuating. If the prices resign I shall endure a distressing red. And in that person the track authorities shall mortal to pass moral of my sum.
+<br><br>
+Yours dependably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend about annual sports day of your school`;
+  var body = `My dear Rahman,<br><br>
+Your letter is just to hand. You have wanted to know about the annual sports of our school. You will be glad to know that the annual sports of our school came to an end yesterday. I am very pleased to let you know that I won as many as three prizes in the annual sports of our school.
+<br>
+The District Education officer inaugurated the function and the Deputy Commissioner was the chief guest. There was a big gathering of spectators. Some of our teachers acted as judges. Main items of sports were high jump, long jump, races and discus throwing. Mannan of our class won the championship.
+<br>
+After the end of the function, the chief guest distributed the prizes. It was really a day of great joy for us.
+<br>
+
+No more today. With best wishes for your bright future.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

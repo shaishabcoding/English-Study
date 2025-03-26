@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Teaching of Prophet on Begging";
+  var text = `Once Hazrat Muhammad (Sm) was sitting with his followers. All on a sudden a man came to him. He was healthy. He came near Hazrat Muhammad (Sm) and said to him, Please, Hazrat give me some food. Hazrat Muhammad (Sm) asked him if he had anything at home. The man said that he had only one blanket. Hazrat Muhammad (Sm) told him to bring the blanket. The man went home and again came back with the blanket in his hand. Hazrat Muhammad (Sm) took the blanket and said to the followers: Is there anybody here to buy this blanket? One of the followers raised his hand. Hazrat Muhammad (Sm) sold the blanket and gave half of the money to the man to buy food. He gave the rest of the money to buy an axe. He requested the man to maintain his family by doing the work of woodcutter. He said to him, “Do not beg. Begging is not good at all.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

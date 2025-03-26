@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-10 ᐅ </b>
+  Active voice-এ Reflexive objective যেমন: myself, yourself, himself, herself, yourselves, ourselves, themselves, প্রভৃতি থাকলে Passive-এর কাঠামো ᐅ 
+ </p>
+ <card>Active voice-এর একই subject passive form-এ ও+ Tense এবং person-অনুসারে Auxiliary verb + Verb-এর past participle+ by+ reflexive object।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>He mocked himself. (Active)</li>
+  <li>He was mocked by himself. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Younger Brother or Sister Advising Him or Her To Pay More Attention To Studies`;
+  var body = `My dear Nila,<br>
+I am really worried to learn from mother that you are spending much time on sports neglecting your studies. Don’t forgot that your first and foremost duty as a student is to study. This does not at all mean that I ask you not to take part in sports. In fact, I advise you to make a balance between studies and games. Your final examination is ahead. I expect good result from you that will ensure you a good career. But without hard work, no success is possible, you know very well. So I shall ask you to study hard in real interest without further delay to shine in life. No more for the time being. Don’t forget to send the report of your progress in the final exam.
+<br>
+With love and good wishes.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

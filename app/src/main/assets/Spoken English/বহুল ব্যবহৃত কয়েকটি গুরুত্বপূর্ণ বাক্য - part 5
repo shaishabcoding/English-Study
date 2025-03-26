@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 5</div>
+  <div id="data"></div>
+  <script>
+    var data = [["It is very hot today.","আজ প্রচুর গরম"], ["I need a good English book.","আমার একটা ভাল ইংলিশ বই লাগবে"], ["I did not do the work.","আমি এই কাজ টা করিনি"], ["Where are you now?","তুমি এখন কোথায় আছো"], ["When will you talk to me?","আমার সাথে তুমি কখন কথা বলবে"], ["Girl, why are you crying / weeping?","মেয়ে তুমি কাঁদছ কেন?"], ["Is your mood off like me?","মন কি খারাপ আমারই মতো?"], ["Then let’s go outing","তবে চল ঘুরতে যাই"], ["Say, what the things do you want","বল তোমার কি কি চাই ?"], ["Say , if you need anything more","যদি আরো কিছু লাগে বল"], ["There is nothing to feel shame","লজ্জা পাওয়ার কিছু নাই"], ["I am also gloomy / sad like you","আমিও তোমারই মতো দু:খী"], ["I can feel your pain / stress.","আমি তোমার কষ্ট বুঝি"], ["Please speak slower.","অনুগ্রহকরে একটু আস্তে বলুন"], ["Please tell me.","আমাকে বলুন"]]
+  </script>
+</body>
+</html>

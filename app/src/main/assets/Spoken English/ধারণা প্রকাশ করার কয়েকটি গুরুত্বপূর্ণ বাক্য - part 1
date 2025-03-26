@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">ধারণা প্রকাশ করার কয়েকটি গুরুত্বপূর্ণ বাক্য - part 1</div>
+  <div id="data"></div>
+  <script>
+ const d = new Date();
+    var hour = d.getHours();
+    var data = [["I guess he was lying.", "আমার মনে হয় সে মিথ্যা বলছিল।"], ["I’d say she is 18.", "আমার ধারণায় তার বয়স ১৮।"], ["Chances are he is 25.", "তার বয়স ২৫ হওয়ার সম্ভাবনা।"], [`I guess it is about ${hour} o’clock.`, `আমার ধারণা এখন ${hour} টা বাজে।`], ["I guess he will come.","আমার মনে হয় সে আসবে।"], ["I guess its true.","আমার মনে হয় এটা সত্য।"], ["I guess that will do.","আমার ধারণা এটা কাজ করবে।"], ["I guess this's a good question.","আমার ধারণা এইটা একটা ভালো প্রশ্ন।"], ["I think she is the girl I’m looking for.","আমার মনে হয় এই সেই মেয়ে যাকে আমি খুঁজছি।"], ["Probably I’ll get the job.","সম্ভবত, আমি চাকরিটা পেয়ে যাব।"], ["I guess you are right.","আমার ধারণা তুমিই সঠিক।"]]
+  </script>
+</body>
+</html>

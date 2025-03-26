@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `From Father To Son Asking Him To Become A Doctor`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+ Dear Nadeem,<br>
+Your mother got operated yesterday. She is now better improving gradually. I hope you would be enjoying the of your health. <br>
+During my few minutes’ meeting with the doctor yesterday, I felt the necessity and importance of a doctor’s services to mankind. Besides, it’s a very respectable and paying profession too. I wish, Azeem, you could as well become a doctor one day. How proud I would be of you! Your sister is taking care of your mother in the hospital. Sara remembers you very much.
+<br><br>
+Yours sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

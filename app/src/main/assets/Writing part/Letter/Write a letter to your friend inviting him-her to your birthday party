@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend inviting him-her to your birthday party`;
+  var body = `My dear Muhin,<br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah. You will be glad to know that I am going to be a girl/boy of twelve on Monday next. My parents will arrange a birthday party for this purpose. I invite you to join my birthday party. Please come with your younger brother. This is all for today. Best wishes to you and all.
+<br>
+No more today. More when we shall meet you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

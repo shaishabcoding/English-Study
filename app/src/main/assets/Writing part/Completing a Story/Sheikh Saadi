@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Sheikh Saadi";
+  var text = `Sheikh Saadi was a famous poet, an earnest devotee and a great saint. His thirst for knowledge was unbounded and he travelled far and wide. He was held in high esteem by all for his wisdom, learning and piety.
+ <br>
+
+Once, at the invitation of King Jalaluddin Saiyuti, Sa’adi was going to his court. On his way, he took shelter for a night in the house of a noble man. But he was, as usual, in his simple dress and was mot warmly received there.
+<br>
+The noble man took him for an ordinary man. The great man passed the might in care of the servants and left the house at dawn.
+
+ 
+<br>
+A few days later, the great poet was returning home from the royal court. The time he was in a costly dress. At dusk he reached that noble man’s house and wanted to pass the might there.
+<br>
+The noble man himself stepped down and gave him a warm reception. He ordered all sorts of preparations for the entertainment and comfort of the honorable guest.
+
+ <br>
+
+A grand feast was arranged. At night, he sat to sup with the host. He was served rich dishes but he was not eating. He was taking food off the plates and putting them in his pockets. The noble man saw this and was surprised. “What are you doing, Sir? Why don’t you eat?” asked he.
+ <br>
+
+“I am doing the right thing, oh noble man, my dress deserves these rich dishes. So, I’m putting the food in my pockets,” replied the poet.
+
+ <br>
+“I don’t understand what you mean to say, Sir.” Said the noble man, “and I’m sorry.”
+<br>
+ 
+“You need not be sorry,” said the poet. “I’m doing so, for a very simple reason and you should well understand this. A few days ago, on my way to the royal court, I put up for a night in your house. That time, I was in a simple dress and I was given an ordinary dish. Then I could not understand that the food was meant for my dress and I ate that. But now the rich dishes have opened my eyes and as such, I’m putting the food in my pockets.”
+
+ <br>
+At this the head of the noble man bent down with shame. He realized his fault and begged pardon on his noble guest. 
+<br><br>
+<b>Moral</b> ᐅ Dress doesn't make a man great.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

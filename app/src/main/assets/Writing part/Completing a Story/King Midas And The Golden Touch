@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "King Midas And The Golden Touch";
+  var text = `Long, long ago, in the ancient land of Greece, there lived a king called Midas. He was a fair King and he ruled his kingdom wisely. The people were prosperous and content. 
+<br>
+The King had one little daughter called marigold, whom he loved dearly. 
+<br>
+One day, as King Midas was returning after doing a survey of his kingdom, he found Silenus (He was companion and tutor of God Dionysus) wandering alone, close to the border. Silenus was God Dionysus (The god of wine) best friend. Midas brought him to his palace and treated him as a royal guest. 
+<br>
+When Dionysus realized that his friend was missing, he set out to look for him. He was overjoyed to see Silenus being treated so well. He thanked King Midas for his kindness and granted him a wish. 
+<br>
+King Midas was excited. Trembling with excitement he said, “Let whatever I touch to turn to beautiful; Yellow gold." “From sunrise tomorrow morning your slightest touch will turn everything into gold” Dionysus granted his wish. 
+<br>
+Midas was very excited; he could barely sleep that night. At the break of the day, he jumped out of bed. The moment his feet touched the floor, it turned to gold. 
+<br>
+Then he touched his bed, pillow, and couches everything turned into beautiful yellow gold. 
+<br>
+He rushed out of the palace straight to his garden. He stopped to pick a flower, it turned into gold. King Midas ran round the garden touching everything he could see. The pebbles, the bushes, the fountain everything turned to gold. 
+<br>
+As he was hungry, he hurried back to have his breakfast. The moment he raised a glass of clear cold water to his lips, it became solid gold. The bread turned into gold. 
+<br>
+Whatever he touched to eat, turned into gold. 
+<br>
+He pushed back his golden chair in disappointment. “Oh, What have I done? How foolish I have been,” he cried. 
+<br>
+Just then, his little daughter came running into the room and hugged him. The princess turned into a golden statue. 
+<br>
+He cried and ran out of the palace and prayed for Dionysus to appear before him. The god appeared, Midas threw himself at Dionysus' feet and begged him to undo his wish. “Are you sure you no longer wish to have the golden touch?” asked Dionysus. “No. I have learned my lesson; I no longer think gold is the greatest thing in the world.”
+<br>
+Finally, Dionysus said “Go and have a bath in the water of the River Pactolus. You will become normal again.” Then sprinkle some of that water on everything that had transformed into gold. The king rushed to the river and had a bath. 
+<br>
+Filling a pitcher with the water from that river, he sprinkled it on marigold first. 
+<br>
+Instantly, she returned to her normal and gave him a kiss. The king then went around the palace sprinkling water on everything he had touched. Then he and marigold had their delicious breakfast.
+<br><br>
+<b>Moral Of the Story</b> ᐅ  Don’t be greedy in life, be happy with what you have.People who want to get everything all at once usually end up getting nothing in life.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

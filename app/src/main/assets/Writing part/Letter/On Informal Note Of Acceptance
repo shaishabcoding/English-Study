@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Informal Note Of Acceptance`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+My pricy, <br>
+Numerous thanks for your humane invitation to dinner on the 9th present at 8 P.M. I shall be delighted to arise.
+Thanking you erstwhile author for your openhearted invitation.
+<br><br>
+Yours sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

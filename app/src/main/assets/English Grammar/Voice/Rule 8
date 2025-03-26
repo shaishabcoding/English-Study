@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-8 ᐅ </b>
+  Complex এবং compound sentence-যুক্ত Active voice-কে passive-এ পরিণত করার সময় উভয় clause-এর voice পরিবর্তন করা হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>I know that he sang the song. (Active)</li>
+  <li>It is known to me that the song was sung by him. (Passive)</li>
+ </ul>
+ <p>
+  <b>Note ᐅ</b>
+  Active voice যদি “People say” দিয়ে শুরু হয়, তবে একে passive করতে হলে, এর শুরুতে “It is said that” ব্যবহৃত হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>People say that Dhaka is the city of mosques. (Active)</li>
+  <li>It is said that Dhaka is the city of mosques. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

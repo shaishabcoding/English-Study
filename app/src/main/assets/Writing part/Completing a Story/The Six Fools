@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Six Fools";
+  var text = `One day, six fools from a certain village set out for pilgrimage. On their way, they had to cross a river swimming. After crossing the river, one of them counted them, not counting himself. He counted five. They were very upset at losing one of them. To be sure, each one of them counted again in the same way that the first one did and counted five. They informed the matter to a passerby. The passerby was amused at their stupidity. He agreed to produce the lost man. He took a stick and gave a blow on each head until he counted six. The six fools thanked him again and again for producing the lost man ‘miraculously’.<br><br><b>Moral</b> ᐅ The stupids are stock of laughter.
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

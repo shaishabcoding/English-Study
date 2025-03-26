@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Titumir, the Great Freedom Fighter";
+  var text = `You must have heard the name of Titumir. He was a great freedom fighter. His real name was Mir Nair Ali. He was born in 1782 in the district of 24 Parganas. He was healthy, strong, brave and energetic. He felt deeply for the suffering of the people of Bengal under British rule. The chief aim of his life was to review the glorious past of the Muslims. He built a fort of bamboo at Narkelbaria, village near Calcutta. He collected war materials and began to fight against the Zaminders and the British. The English considered him a great enemy and sent their soldiers to fight. Titumir fought bravely with his freedom-loving soldiers but was defeated. His fort of bamboo was leveled to the ground and he was imprisoned with a number of his soldiers.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

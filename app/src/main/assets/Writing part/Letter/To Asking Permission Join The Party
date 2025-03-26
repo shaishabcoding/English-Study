@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Asking Permission Join The Party`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+Dear Father, <br>
+It has been nearly two months since I last heard from you. I hope every-body at home is doing well Our end-of-the- year examination is over, and I hope to have done well at it. <br>
+Daddy, the Geography club of our school is organizing a trip to Islamabad during the forthcoming holidays I have been invited to join the party traveling to Islamabad and I have tentatively accepted the invitation. The total cost per head will be Rs. 2500. <br>
+Through the efforts of our Geography Master, our trip has been sponsored by the Royal College of Islamabad Throughout our visit to that city, we shall be provided with an official guide Some of my classmates who are very good cooks are also included the party We shall cook our own food, and live In youth hostels, during our tour. Thus our trip will be comfortable as well as inexpensive. <br>
+The party (it is likely to include 38 pupils and two teachers) will travel in a chartered bus, and will leave for Faizabad on the first day of the December holidays. During our one-weeks stay in the Bangladesh’s capital, we shall visit the parliament house, and a number of other places and a number of other places of cultural significance. We are also scheduled to pay a visit to the Geography Faculty of the Islamic University, where some eminent professors will address us on some geographical aspects of the Islamabad From Islamabad we shall move out and see Rawalpindi. After a few days leisurely drive through the countryside, we shall reach Murree , an interesting center of Tourism. <br>
+After a few days rest and sightseeing in around Islamabad the party will drive down to Peshawar We propose spending a week or so there near the Peshawar border before taking leave of our guide and setting oft for home. I may be able to come home only in the last week of the holidays. <br>
+So Daddy, this s how I propose spending the December holidays. Kindly confirm your approval of my decision, so that I may be able to make the necessary preparations for the trip. <br>
+Please convey my best regards to Mum and love to brothers and sisters.
+<br><br>
+Your affectionate son,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

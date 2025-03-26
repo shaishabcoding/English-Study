@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Principal Of Your College For Free Ship On The Grounds Of Your Efficiency In Sports`;
+  var body = `25 January 2023 <br>
+To,<br>
+The Principal,<br>
+Govt: Degree College <br>
+Islamabad
+<br><br>
+Subject: Prayer for the grant of free ship on the grounds of efficiency in sports.
+<br><br>
+Sir, <br>
+Most humbly and respectfully, I beg to submit that I am a bonafide student of your college. I have been taking active part in the games since school life. I had the honour of a captain of school cricket team. <br>
+I also played hockey and football. I also a regular member of the college cricket team. My sports record is excellent. Besides, I belong to a poor family. I cannot pay the college dues. <br>
+It is therefore requested to your gracious honour kindly to grant me freeship on the grounds of my efficiency in sports enabling me to continue my studies.
+<br>
+For the above act of kindness I shall ever remain grateful to your honour.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

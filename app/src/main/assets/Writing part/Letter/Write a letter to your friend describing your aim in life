@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing your aim in life`;
+  var body = `My dear Emon,<br><br>
+At first take my cordial love from my anchor of my heart. Your letter is just to hand. You wanted to know about my aim in life. Today I am glad to tell you about my aim in life. Perhaps you know that the people of our country meet premature death without proper medical treatment. This is due to the death of qualified doctors. This, I feel very much. I have there for, made up my mind to be a doctor. I do not like to be doctor earns money but I like to serve the suffering of the humanity.After completing my course I shall go to the village to serve the poor villagers .I Shall take any fees from them. They will pray for me from their heart.This is in short the aim of my life.
+<br>
+Please write to me about your ambition in life. With love to you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

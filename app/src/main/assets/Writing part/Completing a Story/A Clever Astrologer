@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Clever Astrologer";
+  var text = `Once there was a king who was very fond of knowing his future from the astrologers. A famous astrologer happened to stop at his Capital on his way to Banaras. The king called on him to know his future and the astrologer said something unpleasant. At this the king got furious and condemned him to death saying “Men like you shouldn’t live to spoil the peace of world. But another thought had crossed his mind before the astrologer was taken away for execution. “How long would you live? asked the king. The astrologer mused for a while for some way to escape, as he was sure the king would prove him a liar putting him to death then and there, if he would live longer than that day. With ready wit he said, The stars declare that I shall die only a week before your majesty, so good bye. I shall wait to receive your majesty where you have been sending me. At this the king turned pale as dead and shouted, Drive this wretch away, let him not come again.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

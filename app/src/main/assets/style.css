@@ -1,0 +1,45 @@
+*{
+ font-family:  bn ;
+ box-sizing: border-box;
+}
+@font-face {
+ font-family: bn;
+ src: url("FL Mahfuj Brush Unicode.ttf");
+}
+i{
+  font-style: normal;
+  font-weight: bold;
+  color : #00B9FF;
+}
+b{
+ color: deeppink;
+}
+card{
+ box-shadow: 0 0 5px #000;
+ display: block;
+ padding: 5px;
+ border-radius: 10px;
+}
+div{
+ overflow: scroll;
+}
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even),.even{background-color: #f2f2ff;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}

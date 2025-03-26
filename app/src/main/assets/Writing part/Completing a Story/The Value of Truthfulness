@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Value of Truthfulness";
+  var text = `There was a thief in Saudi Arabia. He used to steal every night. People could not sleep in peace in fear of the thief. The people grew so much annoyed that they told this to Prophet Mohammad (sm). Hazrat Mohammad (sm) sent for him. He asked the thief to give up the habit of stealing. The thief bent on his knees and said, “Please, tell me to do whatever you like me to. But don’t tell me to stop stealing”. The Prophet (sm) thought for a while and said, “O.k. I ask you. To do only one thing. It is you will never tell a lie.” He promised to abide by and went away. Now, when the day was over and night came, a man saw the thief going along the street. The man said “Where are you going?” He replied, “I am going to….” He could not tell a lie as he promised to the Prophet of Islam not to tell a lie. So, he went back home without stealing. The same incident happened in every night. The man could not steal. So, he went to the Prophet (sm) and begged his pardon. He gave up stealing and became a good and pious man.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

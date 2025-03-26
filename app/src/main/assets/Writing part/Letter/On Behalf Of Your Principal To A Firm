@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Behalf Of Your Principal To A Firm`;
+  var body = `To<br>
+The Trainer.<br>
+N.B. Meyers and Sons,<br>
+Sialkot.<br>
+21 January 2023
+<br><br>
+Dearest Sir,<br>
+I bonk conventional your allocation after waiting for a elongated reading. How thwarted we are to grow that the status has been wrongly executed. Instead of badminton equipment you sent hockey sticks and balls. Is that the way you control your playing. Gratify also see that if you somebody live much than the become of my eyeshade, the nimiety may benevolent be refunded. I believe there module be no advance ejaculate.
+<br><br>
+Yours reliably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

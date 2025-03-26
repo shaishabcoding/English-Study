@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Cunning Fox and the Stupid Crow";
+  var text = `One day, a hungry fox was wandering in search of food. It hadn’t eaten anything since the past three days. Suddenly, it caught sight of a crow with  piece of bread/meat in its beak. It wished to have the piece of bread/meat. It hit upon a plan. It praised the crow saying that it had a sweet voice. It persuaded the crow to sing a song. As soon as the crow opened its beak to sing, the piece of bread/meat fell down on the ground. The fox took/picked it up and went/walked away merrily.<br><br><b>Moral</b> ᐅ Never believe a stranger fully.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

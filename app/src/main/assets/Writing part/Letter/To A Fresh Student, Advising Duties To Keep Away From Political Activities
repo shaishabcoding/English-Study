@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Fresh Student, Advising Duties To Keep Away From Political Activities`;
+  var body = `A/SI 1/H,<br>
+North Nasirabad, <br>
+Chittagong. <br>
+26 January 2023 <br>
+<br><br>
+My dear Farhan,<br>
+At the advent of your new academic life, I feel it befitting to tip you off about the parlous college life. At this junction of educational life, the abrupt laxity of the discipline, restrains and trims of school life is preponderate to drift a boy to the inexpedient life of an indiscipline, unwary and uncircumspect ruffian. Misled, misguided and misdirected by hi wrongful notion and his friends as he is, he neglects this duties as a student and evades his responsibilities as a learner. Much given to indiscipline, rowdyism and senseless pursuits, he forgets to real is what his future demands from him and what his parents expect. <br>
+You are the scion of our family and have to render your filial duties. Father undergoes financial hardships to educate you, so that you may be able to lead a better life in future and help your parents at the time-of their need in senility. Hence you must realize your duties as a good student and devote your time in your studies of course, you must play games also, but do not waste time in idle talks with your friends or indulging in foolish pursuits and companies of unscrupulous friends. You must go to your college library and borrow books on the subjects you have taken for study so that you may be acquainted with opinions and views of different authors on the subject. Be respectful to your teachers as showing disrespect to your teachers is forbidden by God and will definitely earn hell for you. <br>
+Almost all the political parties have established their student wings in colleges. These parties, in order to serve the end of the parent parties, create chaos; to join a student political party or to take part in their demonstrations, and activities is mere waste of time and misplacement of energy. It does not end here. It also teaches in-discipline and implants the tendency to getting things done impolitely. <br>
+Hope you will be an ideal student.
+<br><br>
+From your loving brother,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

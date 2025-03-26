@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Think before you leap";
+  var text = `Once in summer day, a fox was very thirsty. He looked about all day for water to drink. At last he came to a well. The well was very deep. He tried to get water. He tumbled in. There was a little water. So he was not drowned. He drank all he could. Then he tried to get out. But he could not. A goat came to the well to drink water. He saw the fox and said, “I could not get any water. Is there water to drink?” The cunning fox was glad to see the goat and at once made a plan. He invited the goat and said, “My friend, this well is famous for its sweet water. I have jumped in and I’m drinking water to my heart’s content. If you want a taste of it yourself, please jump into it.” Without a second thought, the foolish goat jumped into the well. The fox at once leaped on the goat’s back, then got on to his long horns and got out at the well. Before leaving the place, he looked into the well and said, Foolish goat, look before you leap. The goat at last cried to come out and wanted to get help from the fox but the fox went away.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

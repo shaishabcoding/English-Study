@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Narrow Escape From Death";
+  var text = `Nandan and Akhil were close friends. One day, they planned to go into the nearby forest just for pleasure. When they were travelling, they suddenly confronted a grizzly bear. Nandan jumped back and climbed a tree. But, Akhil didn’t know how to climb trees. He suddenly remembered that he had read about bears in his textbook and that bears don’t eat carcasses or deadbodies. He immediately fell flat on the ground as dead. The bear came near him, smelled him all over and left him unhurt. Nandan came down from the tree surprised. He asked Akhil what the bear had whispered into his ears.<br><br><b>Moral</b> ᐅ Knowledge is power`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Virtuous Boy";
+  var text = `A minibus was on its way from Khanapara to Adabari. It was full of passengers. Many of them were standing. Aminul could somehow get a seat. The bus was moving very fast. Near Paltan Bazar, the bus takes a sharp turn at full speed. It luckily didn’t overturn. An old woman who was standing inside the bus lost her balance and was about to fall. Aminul didn’t lose a single second. He stood up and grabbed the old woman by her hands. Then, he offered her his seat. The old lady was very much pleased with the help and behavior of Aminul. She gave him her address and contact number to contact later.
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

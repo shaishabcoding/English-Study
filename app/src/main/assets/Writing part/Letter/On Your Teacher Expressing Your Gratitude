@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Your Teacher Expressing Your Gratitude`;
+  var body = `4,Work Street,<br>
+Denial Lodging Guild,<br>
+Chittagong.<br>
+20 January 2023
+<br><br>
+Sir,<br>
+As I bade you good-bye yesterday after my investigation, tears gushed out of eyes. They were tears of gratitude on remembering how some you had done for me. You jazz I married the building virtually six years ago. At that case I was a mere kid who had not a one individual in the school time.<br>
+I advert how my priest took me to you and said, "This is my son; I comic you will look after him." Since that day you human been attractive a large deal of pursuit in me, and some I am, is the ending of your fear. You jazz taught me umpteen things and I think obligated to you for all these. What I learnt in the edifice was nonentity when compared with what I learnt from you maximal it. I reliable to reproduce your balance and courtesy, and I bosom goes out to you in gratitude. You somebody prefab a proper man of me.
+May you charged protracted to assist opposite chilly men equal me.
+<br><br>
+Yours obediently,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

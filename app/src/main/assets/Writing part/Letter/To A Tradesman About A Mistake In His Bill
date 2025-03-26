@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Tradesman About A Mistake In His Bill`;
+  var body = `23, Nasirabad. <br>
+Ak Road,<br>
+Chittagong. <br>
+25 January 2023 <br>
+To <br>
+Messrs General Metal Works,<br>
+S-28, S.LT.E., <br>
+Estate Avenue,
+<br><br>
+Dear Sirs,<br>
+I acknowledge the receipt of one steel-door and five grills manufactured by your firm in connection with our contract. I am thankful to you for executing this contract according to the specifications and time-limit.
+I am to point out a mistake in your bill N. 3271E, dated the 5th August, 2019. According to our contract you were to supply us with the manufactured steel-door and grills at the rate of Rs. 120 per square foot. In this way the total amount of your goods comes up to Rupees 7561- (Rupees seven hundred and fifty six only) for 108 square ft. But the rate shown in your bill is Rs. 120 per square ft. But the amount in your bill is 783/- instead of Rs. 756/- This appears to be an oversight of your office. It is therefore, requested that the necessary correction may please be made in your bill after due verification from your office record and the revised bill may be sent at your earliest convenience to enable me to make payment.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

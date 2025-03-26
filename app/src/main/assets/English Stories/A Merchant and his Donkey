@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUdIjFMgSJiDSfps5clcQ7z8IWjgiJzxV0Q&usqp=CAU"/></div>
+  <div class="title">A Merchant and his Donkey</div>
+  <div class="en">A Merchant and his Donkey
+  One beautiful spring morning, a merchant loaded his donkey with bags of salt to go to the market, in order to sell the salt. The merchant and his donkey were walking along together. They had not walked far when they reached a river on the way.
+  <br><br>
+  Unfortunately, the donkey slipped and fell into the river. As it scrambled up the bank of the river, it noticed that the bags of salt loaded on his back had become lighter.
+  <br><br>
+  There was nothing the merchant could do except return home, where he loaded his donkey with more bags of salt. As they reached the slippery riverbank again, the donkey fell into the river, this time deliberately. Thus the salt was wasted again.
+  <br><br>
+  By now the merchant knew the donkey's trick. He wanted to teach the animal a lesson. As he returned home the second time with the donkey, the merchant loaded bags of sponges on its back.
+  <br><br>
+  The duo set out on their trip to the market a third time. On reaching the river, the donkey very cleverly fell into the water again. But now, instead of the load becoming lighter, it became heavier.
+  <br><br>
+  The merchant laughed at the donkey and said, "You foolish donkey, your trick has been discovered. You should know that you cannot fool anyone too many times."</div>
+  <div class="title">একজন বণিক এবং তার গাধা</div>
+  <div class="bn">
+এক সুন্দর বসন্তের সকালে, একজন ব্যবসায়ী তার গাধাকে লবণের ব্যাগ বোঝাই করে বাজারে যেতো, লবণ বিক্রি করার জন্য। বণিক ও তার গাধা একসাথে হাঁটছিল। পথিমধ্যে একটি নদীতে পৌঁছলে তারা বেশিদূর হেঁটেনি।
+<br><br>
+দুর্ভাগ্যবশত, গাধাটি পিছলে নদীতে পড়ে গেল। নদীর তীর ঘেঁষে উঠতে গিয়ে লক্ষ্য করল তার পিঠে বোঝাই লবণের ব্যাগগুলো হালকা হয়ে গেছে।
+<br><br>
+বাড়ি ফেরা ছাড়া বণিকের আর কিছুই করার ছিল না, যেখানে সে তার গাধাকে আরো ব্যাগ লবণ দিয়ে বোঝাই করে। তারা আবার পিচ্ছিল নদীতীরে পৌঁছতেই গাধাটি এবার ইচ্ছাকৃতভাবে নদীতে পড়ে গেল। এভাবে আবার লবণ নষ্ট হলো।
+<br><br>
+এতক্ষণে বণিক গাধার কৌশল জেনে গেল। তিনি প্রাণীটিকে একটি শিক্ষা দিতে চেয়েছিলেন। যখন সে গাধাটিকে নিয়ে দ্বিতীয়বার বাড়ি ফিরল, তখন বণিক তার পিঠে স্পঞ্জের ব্যাগ বোঝাই করল।
+<br><br>
+এই জুটি তৃতীয়বারের মতো বাজারে তাদের যাত্রা শুরু করেছিল। নদীতে পৌঁছে গাধাটি খুব চালাকি করে আবার পানিতে পড়ে গেল। কিন্তু এখন ভার হালকা হওয়ার বদলে ভারী হয়ে উঠেছে।
+ <br><br>
+বণিক গাধাকে দেখে হেসে বলল, "তুমি বোকা গাধা, তোমার কৌশল আবিষ্কৃত হয়েছে। তোমার জানা উচিত যে তুমি কাউকে অনেকবার বোকা বানাতে পারবে না।"</div>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-16 ᐅ </b>
+  One+ should-যুক্ত active voice-এর Passive কাঠামো ᐅ 
+ </p>
+ <card>Object-এর subject+ should be+ Verb-এর past participle.</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>One should perform one’s prayers. (Active)</li>
+  <li>Prayers should be performed. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

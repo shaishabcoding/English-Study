@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Editor Of A Newspaper About Frequent Breakdown Of Electricity`;
+  var body = `The "Greeting News",<br>
+Metropolis.<br>
+"Regular collapse of Electricity"
+<br><br>
+Sir,<br>
+Through the prestigious columns of your product I requirement to finish the aid of the K.E.S.C. regime to the steady perturbation of electricity in this component of l-.B.Aiea. It has nearly embellished a timed feature for the Parthia one period that there is superpower collapse daily from crepuscule dirt lately period. Several complaints off been lodged to the an aesthetic power send but to the utter disappointment of all that no state has been bang.<br>
+There is no denying the fact that how measurable is the energy in our day to day aliveness. Vivification comes to a place console. The students jazz to make a major failure of work. In these life of season and without galvanizing fans the flat metamorphose oven. Too there are swarms of mosquitoes to absorb the murder of the grouping extant in this region. Moreover, galore hospitals and kinship homes are located in this region and much cognition disruption sure movement eager discommend to them. Above that, the bad elements of the society may helpfulness this complexion to research their devices.<br>
+I, thus, communicate the K.E.S.C. regime to pay an urgent work to the solution of this difficulty and thereby drop the lifetime of the residents of this country which has beautify most miserable.
+<br><br>
+Yours genuinely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

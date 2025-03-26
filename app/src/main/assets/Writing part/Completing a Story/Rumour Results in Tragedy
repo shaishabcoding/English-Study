@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[Combined Board Exam-2018]"
+  var men = [
+    js.getRandomName(),js.getRandomName()
+  ]
+  var title = "Rumour Results in Tragedy";
+  var text = `${men[0]} is a worker in a big garment factory. More than five thousand workers work in that factory. One
+day while he was busy in work a sound was heard, “Fire! Fire! Help! Help”. As ill news runs apace,
+the news spread very fast among the workers. Naturally all the workers got into a panic. They
+started to run at a time towards the gate of the garments factory. There was only one gate to come
+out of the factory and only one stair to come down to the gate. So while all the workers were trying to
+come out of the factory using the only stair, some workers fell down. ${men[1]} was one of them. They
+were trodden down by other workers. At least ten workers were severely injured and
+two faced death. But fortunately ${men[1]}'s injury was not fatal. It was irony of the
+fate that there was actually no fire. In fact, a naughty young worker out of jest cried out saying “fire,
+fire”. The other workers took it true and started to come out of the factory resulting in a tragic
+accident.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

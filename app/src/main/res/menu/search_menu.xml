@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/bar_search" android:icon="@drawable/search36" android:title="@string/search" app:actionViewClass="android.widget.SearchView" app:showAsAction="ifRoom"/>
+
+</menu>

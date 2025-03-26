@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Alexander, the Great Hero";
+  var text = `Alexander was the king of Mecedonia. He was a great hero who conquered many countries as a great warrior. He invaded India, killed many people and destroyed many cities of India.
+
+<br>
+In the valleys of the Punjab there ruled a king named Puru. Puru loved his country very much. He was a great patriot. He opposed Alexander and he did not like that Alexander should invade his country.
+<br>
+
+Puru came forward with a troop of army to fight the invader Alexander. He fought bravely and was defeated in the battle. He was taken as a prisoner and brought before Alexander. Alexander asked him what sort of treatment he expected from him.
+<br>
+
+“Like a king” was the reply. It pleased Alexander who was really a lofty-minded hero. He set Puru free and allowed him to rule his country as before. Besides, as a reward he was made king of other provinces as well.
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

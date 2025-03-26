@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Accepting His or Her Invitation`;
+  var body = `My dear Nila,<br><br>
+Your sweet note has just kissed my hands. Thank you very much for your invitation. I am very glad to know that you have invited me to attend your fifteenth birthday party. I have long wished to visit your place. So it’s a golden opportunity for me to pay a visit to your place. Besides, it will be a great get-together as you have said. I don’t want to miss the chance of feeling the joy of togetherness. I have already approached my parents for their kind consent. And it’s a matter of great pleasure that they have happily consented to send me to your place on the eventful day. So practically, there is no bar to my attending your birthday party. I am positively attending your birthday party to enjoy the great hungama there.
+<br>
+No more today. More when we meet next.
+<br>
+Tender my best compliments to uncle and aunt. With best wishes to you and love to Tukai.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

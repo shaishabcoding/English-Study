@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 1</div>
+  <div id="data"></div>
+  <script>
+    var data = [["If anything happen I will be at the sharp end.","যদি কিছু ঘটে আমি আটকে যাব।"], ["It's a letdown for me.","এটা আমার জন্য হতাশাজনক।"], ["Keep at it, you will win.","এতে লেগে থাকো, তুমি উন্নতি করবে।"], ["Keep faith on me.","আমার ওপর বিশ্বাস রাখো।"], ["Keep quiet.","চুপ করো।"], ["Watch that!","দেখ!"], ["What a terrific blow on him.","তার উপর কি ভয়ানক আঘাত!"], ["What's going on here?","এখানে কি হচ্ছে?"], ["Who says this to you?","কে তোমাকে বললো একথা?"], ["Why don't you see me often?","তুমি কেন ঘনঘন আমার সাথে দেখা করো না?"], ["Will you be here?","তুমি কি এখানে থাকবে?"], ["You do not love me anymore.","তুমি আমাকে আর ভালোবাসো না।"], ["You got it?","তুমি বুঝতে পেরেছো?"]]
+  </script>
+</body>
+</html>

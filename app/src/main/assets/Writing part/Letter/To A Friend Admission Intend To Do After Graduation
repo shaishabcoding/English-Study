@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Friend Admission Intend To Do After Graduation`;
+  var body = `My dear Samar,<br>
+Your letter is to hand. To be very true, I have yet not decided what profession I should choose for myself. To get a government job is out of question. The rate of unemployment is so high that in every house there are two to three graduates who are unemployed. In a country, where those, who are at the helm of affairs, are interested in raising their allowance tremendously, how can one expect that jobs for the common man will be created. So I am hopeless about getting a job.
+I had a talk with father on the point, he is of the opinion that I should start some business, of course, on a very small scale in the beginning, to gain experience and then to expand it. But the problem is that for hiring a small shop in an ordinary market 10 to 12 lack of rupees are needed as pagri. To furnish the shop and purchase goods for sale, it also needs another to lack. So in Chittagong, starting a business is not possible for a man of ordinary means, it needs millionaire to start business.
+Now the question arises what shall then I do. My cousin who is at Al-Khabar in Saudi - Arabia has written me that he would get me a job in his office. He is in a travelling agency there. At present I intend to go to him after graduation and win try to save enough money to come to Bangladesh and start some business. <br>
+I am sorry to give you the desperate position of young men in Bangladesh in general and in Chittagong in particular whose future is murky and uncertain but I could not help letting you have the facts.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

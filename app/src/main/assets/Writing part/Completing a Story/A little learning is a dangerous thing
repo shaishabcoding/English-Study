@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A little learning is a dangerous thing";
+  var text = `There lived a man in a village. He had a great attraction for English and so he went to a teacher. The teacher began to teach him, but the man was dull-headed. After a long effort of the teacher, the man learnt only three words. They were ‘Yes’, ‘No’ and ‘Very good’. With these three words he came to his village. He thought he had learnt quite a good amount of English. He began using these three English words most of the time irrelevantly. He did not think whether they were contextually right or wrong. He just used them everywhere. One night a theft was committed in the village. The following day the police came to the village. The policemen asked the man whether he knew about the theft. He answered in his usual way “Yes”. The policemen asked him to tell them about the theft. But the man said “No”. At this the policemen had a doubt about him but they did not want to arrest him. But eventually they arrested him and told him that he was going to the police station with them. He just told them “Very good”. Thus the man fell in danger.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Three Knaves Fool a Brahmin";
+  var text = `One day, a Brahmin named Vishwanath Sharma set out for the livestock market at a distance of  about 10 kilometres to sell off his goat. Three knaves saw the Brahmin and presumed him to be an idiotic person. They made a plan to get the goat with trickery. They moved faster than him and stayed at different
+<br>
+
+Places. When he passed by the first knave, he commented – “My goodness! A Brahmin is carrying a dog!” He ignored his comment and moved on. Going some distance further, another knave commented the same. He became doubtful, but moved on. The third knave made the same comment and laughed heartily. The Brahmin became confirmed that the animal on his back is not a goat, but a dog. He threw away the goat and returned back. Thus, the three knaves took the goat away happily.<br><br><b>Moral</b> ᐅ Never believe a stranger fully`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

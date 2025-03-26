@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend In Describing Your Visit To A Fair`;
+  var body = `My dear Nila,<br><br>
+Your sweet note is just to hand. I am glad that you have enjoyed yourself very much in the â€˜Poushmela’ of Santiniketan.
+<br>
+I have never been to Santiniketan. But once I went to Pir Gorachander Mela, a fair held at Deganga in the North 24 Parganas in honour of a Muslim saint. My father took me there. The fair ground is located on the bank of the Vidyadhari centring a holy mosque. This fair is important for its spirit of religious tolerance and integrity.People from both Hindu and Muslim communities have been taking part in it for centuries. It is also famous for folk singers who assemble here during the fair. I enjoyed my visit to the fair very much. The usual shops in the fair and the huge crowd were also interesting. Before coming back home, I ate very tasteful hot Jilipi’ to my heart’s content.
+<br>
+I take leave here. With lots of love and best wishes.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

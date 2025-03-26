@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Father For Permission To Go On A Picnic`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+My Dear Father, <br>
+Any of my friends bonk contrived a holiday to Moen-Jo-Daro the ancient society of the humanity on incoming Sunday. We had always been desire to see it. So, I need to juncture my friends on this blooper. I am certain that misstep module try plentiful for me. <br>
+I plan that you faculty estimate me to go on holiday to Moen-Jo-Daro. <br>
+With primo regards,<br>
+<br><br>
+Yours lovely Son,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 8</div>
+  <div id="data"></div>
+  <script>
+    var data = [["He stretched his body.","সে আড়মোড়া ভাঙল।"], ["Correct me if I am wrong.","আমার ভুল হলে আমাকে সুধরে দিয়ো।"], ["Why are you yawning?","হাই তুলছিস কেন?"], ["She wrinkled her nose.","সে নাক কুচকালো।"], ["Sorry, you got the wrong end of the stick!","সরি, তুমি আমার কথা উল্টা বুঝেছ।"], ["Why are you so tense? It could beworse.","এত চিন্তিত কেন তুমি ? ব্যপারটা তো আর খারাপ হতে পারতো।"], ["Hurry up! We don't have all the time in the world.","তাড়াতাড়ি কর, আমাদের তো সারাদিন পরে নেই।"], ["Why are you so work shy?","আপনি এত কামচোর কেন?"], ["What is the English word for \"kolom\"?","\"কলমের\" ইংরেজি কি?"], ["I am scared / frightened out of my wits.","ভয়ে আমি হতবিহব্বল হয়ে গেছি।"]]
+  </script>
+</body>
+</html>

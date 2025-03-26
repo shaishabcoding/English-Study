@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+ <b>Future Continuous Tense ᐅ </b>
+ ভবিষ্যৎ কালে কোন কাজ চলতে থাকবে এরূপ বোঝালে Future continuous tense হয়।
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+  বাংলায় ক্রিয়ার শেষে তে থাকিব, তে থাকিবে, তে থাকিবা, তে থাকিবেন এদের যে কোন একটি যুক্ত থাকে।
+ </p>
+ <p>
+  <b>Structure ᐅ </b>
+  Subject + shall be/will be + main verb + ing + object.
+ </p>
+ <card>Subject-এর পর person ও number অনুসারে shall be বা will be বসে এবং মূল verb-এর শেষে ing যোগ হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি বইটি পড়িতে থাকিব – I shall be reading the book.</li>
+  <li>আমি গান গাইতে থাকিব- I shall be singing the song.</li>
+  <li>তারা ফুটবল খেলিতে থাকিবে- They will be playing football.</li>
+  <li>সে কাজটি করিতে থাকিবে- He will be doing the work.</li>
+  <li>তুমি/ তোমরা স্কুলে যাইতে থাকিবে- they will be going to school.</li>
+  <li>তিনি অফিসে যাইতে থাকিবেন- He will be going to office.</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

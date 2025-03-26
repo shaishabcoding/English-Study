@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Happiness Lies In Contentment";
+  var text = `Once there lived a happy cobbler who passed his days in working and singing from morning till night. A rich neighbor of his was banker who one day said to him, “How much do you earn a year?” The cobbler replied that he had never saved his one year’s income and even he did not know how many days a year had. Hearing this, the banker became surprised. He asked the cobbler what he did with his money. The cobbler told that he lived from hand to mouth. In fact the cobbler earned very little and spent all the money he earned a day to support himself and he had no ambition. He had no demand for amenities that had not been possessed. So poverty could not stand in the way of his happiness. At this, a deep thought occurred in the mind of the banker. He sighed, “How helpless I am! A vast property belonged to the banker. But a dissatisfaction always troubled him. So he always wanted more riches which snatched away his happiness. The banker said himself, “What is use of this possession when I’m deprived of real peace?” He thought he was poorer than the cobbler. So he began to find out happiness giving away all his riches to the poor. In fact happiness is a relative factor which varies from person to person. It can’t be possessed in spite of having vast property.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

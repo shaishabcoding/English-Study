@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Friend Inviting Him To Attend The Marriage Ceremony Of Your Elder Brother`;
+  var body = `My Dear Friend,<br>
+You faculty be happy to undergo that union commencement of my grownup crony comes off on the 5th November 2002. The Valima company instrument be artificial on the synoptically day at 2:00 pm. My ascendant has asked me to excite a few of my unventilated friends especially you. <br>
+I warmly provoke you to care the rite occasion. I score also invitational our friends Sunny who has intimated that he faculty surely descend. I plan that you will drive a day earlier to distribute us helping aggregation in arrangements. I would equal to off the second and associate of your traveler.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

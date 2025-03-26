@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Selfless Help Has Its Reward";
+  var text = `Once an ant was very thirsty. He went to a pond to drink water. When he began to drink water, a wave swept him away. He was about to drown. As hard as she tried she could not manage to swim to the bank. At that moment a dove flew by and seeing the struggling ant, took pity on her distress. She broke a branch from a nearby tree and dropped it into the water. The ant did not delay but clambered nimbly on to the branch and at last reached the safety of the bank. Not long after this, the ant was out for a stroll when she came upon the dove again. A hunter was just about to trap the bird. The ant noticed it. At once the ant remembered the great help of the dove. She thought she must do something for the dove. She could not let one die before her eyes who once saved her life. So she hurriedly but on the sly got to the hunter and bit him severely. Being troubled by the ant the hunter moved forward which caused a sound. Hearing the sound the dove could escape from being trapped by flying away. Afterwards the dove met the ant and expressed her gratefulness to her. Since then they became good friends. In fact, helping others selflessly never goes unrewarded. One who helps others selflessly is helped by others somehow, somewhere, some time.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

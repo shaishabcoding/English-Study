@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p id="title"></p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = `<i>Question ᐅ</i> Education is very important for the development of a nation. Suppose, you are ${men[0]} and your friend is ${men[1]}. Now, write a dialogue between you and you friend about » <b>The importance of education in the development of a nation</b>. «`;
+ const data = [
+  "Hello "+men[1]+"! How are you ? ",
+  "Not bad at all. What about you?",
+  "Fine. Thank you. Well, can you tell me about the irnportance of education in the development of a nation?",
+  `Why not ? Education is very important
+  for overall dEvelopment of a nation.Without
+  education, we cannot go ahead.`,
+  `Can you show any ground?`,
+  `Actually education widens our outlook and orientation. It broadens our mind and mentality. It refines our sense and sensibilíty. It helps us how to eam and spend.`,
+  `Right you are. Education helps us to get job. We can earn our bread and butter and play
+a significant role in strengthening our national economy if we take education.`,
+`Yes, I agree with you. An educated person is not a burden to his / her family as well as country.Rather he / she tries his / her best remove the burdensome conditions of his /
+  her family as well as country.`,
+  `In fact, we can stand upright and create coruscation all over the world
+  if we take
+  education.`,
+  `Therefore, everyone of us should take education.`,
+  `Yeah, thank you very much.`,
+  "Thank you too."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

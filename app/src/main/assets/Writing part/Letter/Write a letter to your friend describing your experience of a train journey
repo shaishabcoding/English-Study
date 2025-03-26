@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing your experience of a train journey`;
+  var body = `My dear Jisan,<br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah. You wanted to know how I enjoyed the last train journey fro comilla to chittagong. You will be glad to know that I had a chance to have a journey from Comilla to Chittagong. We were 5 in number. We hired a tickets from Comilla railway station on the 3rd instant. Our journey started from Comilla railway station at about 10 a.m. When the train started moving we all felt joyous and pleasant. All the trees and buildings, roads and people seemed to pass back rapidly. The green paddy fields beside the both sides of the train charmed us. We reached Chittagong at about 3 p.m. The journey was really a wonder for me. This is all for today. Best wishes to you and all.
+<br>
+
+No more today. More when we shall meet you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

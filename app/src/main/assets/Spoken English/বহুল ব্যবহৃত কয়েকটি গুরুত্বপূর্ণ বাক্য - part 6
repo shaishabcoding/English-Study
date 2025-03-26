@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 6</div>
+  <div id="data"></div>
+  <script>
+    var data = [["My ear is itching.","আমার কান চুলকাচ্ছে"], ["Don’t pick your nose.","নাকে হাত দিও না"], ["I have a sore throat.","আমার গলা ব্যথা আছে"], ["Please massage my leg.","পা টা একটু টিপে দাও"], ["It’s a leftover from yesterday.","এটা কালকের বেচে যাওয়া"], ["Be careful! You’re bending my arm.","আস্তে ধরো হাত বাঁকা হয়ে যাচ্ছে"], ["I have a very bad headache.","আমার প্রচন্ড মাথাব্যথা"], ["Turn down the volume of the TV.","টিভির শব্দটা কমিয়ে দাও"], ["Don’t crack your knuckles.","হাতের আঙ্গুল ফুটাইও  না"], ["Your hair is messed up.","তোমার চুল এলোমেলো"], ["My shoe ripped!","আমার জুতা ছিড়ে গেছে"], ["Don’t bite your nails.","নখ কামড়াবে না"], ["Don’t chew loudly.","চিবানোর সময় শব্দ করবে না"], ["She will not spare me.","সে আমাকে ছাড়বে না"], ["The milk is piping hot.","দুধ অনেক গরম"], ["Let’s play peekaboo.","চলো লুকোচুরি খেলি"], ["Don’t step on it.","এটার ওপর পা দিও না"], ["I have a sweet tooth.","(sweet tooth - মানে মিষ্টি দাঁত না ❌) -> আমার মিষ্টি পছন্দ✅"], ["All the flavors are mouthwatering.","সব ফ্লেভার মুখে পানি আনছে"], ["I think I left the door open.","মনে হচ্ছে আমি দরজা খোলা রেখে এসেছি"]]
+  </script>
+</body>
+</html>

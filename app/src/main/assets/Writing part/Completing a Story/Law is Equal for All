@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Law is Equal for All";
+  var text = `Long ago, there was a sultan in Bengal. His name was Giasuddin Azam. His capital was Sonargaon near Dhaka. He was a very just and kind ruler. The Sultan’s hobby was hunting. Very often he went on hunting. One day he was on hunting deer in a jungle. Aiming at a fawn he shot but missed. The arrow by chance pierced a son of a widow. Hearing the news, the widow was very much shocked and disappointed. Because the victim was her only child. So she went to the King to pray for justice. She complained against the Sultan. The Kazi was moved to pity hearing the shocking news. But he could not decide what to do. Because the complaint was against the Sultan. If he did justice to the widow, the Sultan might be displeased. Again if he did not do it, he would remain guilty to the widow and to almighty Allah. At last he made up his mind to bring the Sultan for justice. The King stood before the Kazi. The Kazi asked him whether the complaint was true. The Sultan answered in the affirmative and he was ordered to compensate the widow for the loss. The Sultan happily accepted the proposal and compensated the widow. Being pleased, the widow went home. The Kazi thanked the Sultan for his justice. The King also thanked the Kazi for his sense of duty.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

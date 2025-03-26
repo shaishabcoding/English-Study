@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Inviting nephew to a hill station`;
+  var body = `Dear Shahid, <br>
+I have rented a big house for the whole year in Murree. How nice it will be of your if you all could grant us the pleasure of your company. It must be very hot in Peshawar and I think you will not find any difficulty in getting leave from your office since you have not taken any earned leave during the last three years. We feel quite lonely here. Your Auntie remember you very much. Faiza and her husband are expected next week.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

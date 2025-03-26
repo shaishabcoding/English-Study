@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques =`To Editor Of Some Newspaper Complaining Against The Trouble Caused By Stray Dogs In Our Town`;
+  var body = `169, Zia Park,<br>
+Chittagong. <br>
+25 January 2023 <br>
+To <br>
+The Editor,<br>
+The News,<br>
+Chittagong. <br><br>
+
+Sir,<br>
+I crave the hospitality of the columns of your esteemed paper to call attention to the greatest nuisance of our town. I mean the hundreds of the stray dogs who have practically taken the administration of the town in their own hands. <br>
+If you are a stranger you cannot pass by any street without getting into trouble, Even the inhabitants of this town always go in fear of those dogs, they are noisy, dirty, quarrelsome and filthy. You can see them always roaming, barking, fighting and spreading filth and diseases in this town. <br>
+The case of small school-going children is very serious. An elder member of a family has to escort a minor to school lest he should be bitten by any stray dog. Those who travel by night trains have to face a lot of difficulty in having their way to station or back, Then, off and on, one or the other dog goes mad. <br>
+This is serious and dangerous all the more. It spreads panic in the town. Everybody looks horrified. Our town councilors are requested to look into the matter seriously and rid the people of this constant source of worry and danger.
+<br><br>
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

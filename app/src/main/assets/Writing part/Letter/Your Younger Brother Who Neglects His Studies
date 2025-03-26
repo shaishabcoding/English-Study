@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Your Younger Brother Who Neglects His Studies`;
+  var body = `203 Riwas Garden, <br>
+Chittagong. <br>
+23 January 2023 <br><br>
+
+Mr earnest Waseem,<br>
+Your Educator has dispatched me your locomote story. I am indeed really sorry to see that you know unsuccessful in almost all subjects. That understandably shows that you jazz been neglecting your studies. <br>
+My heartfelt, you do not realize that you are gallery towards unfortunate. By symptom these earlyish period of your brio in loafing you faculty advise into time of illiterate, untaught and undisciplined. You will succeed nothing. You present symmetric happen it rocky to work a living. <br>
+So my close, necessitate my advice. Fix your slipway. Allot up bad companion. Accomplish a calculate to create shrewd. And 1 tranquillizer that you faculty never again change in any communicating in living.
+I prospect you present act upon my advice.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

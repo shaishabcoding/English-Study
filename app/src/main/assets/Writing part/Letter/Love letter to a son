@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter to a son`;
+  var body = `Jamal Hossain <br>
+Banskhali,Chattogram <br>
+PC-Banigram,PS-Banskhali <br><br>
+
+
+Dear Jamal Hossain,<br>
+Ten years ago, you were just a baby swaddled in warm blankets depending so much on my presence.
+<br>
+Now, you can go on for a couple of days without me by your side. I know you're growing up, but I want you to know I'll always be here for you. You'll forever be my little boy.
+<br><br>
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

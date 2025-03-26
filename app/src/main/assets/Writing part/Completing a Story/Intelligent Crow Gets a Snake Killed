@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Intelligent Crow Gets a Snake Killed";
+  var text = `There lived a crow on a tree in a certain forest with its nestlings. A snake too lived in a hole at the foot. One day, while the crow was away to collect food for its young ones, the snake took the opportunity and entered the crow’s nest. It ate up all the nestlings. The crow was deeply upset at this. It thought of a plan to get the snake killed by others. It flew to the prince’s room in a castle and took away his precious necklace. The King’s men began chasing it. It dropped the necklace into the snake’s hole. The men dug into the hole and saw the snake near the necklace. They beat the snake to death and recovered the necklace.
+<br><br><b>Moral</b> ᐅ What can not be done with might can be done with intelligence.
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

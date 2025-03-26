@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Rule-2 ᐅ </h3>
+ <p>Indefinite tense-এর ক্ষেত্রে passive voice-এর structure ᐅ</p>
+ <p>1. <b>Present</b>- Object’s subject+ am/is/are+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She praises me. (Active)</li>
+  <li>I am praised by her. (Passive)</li>
+ </ul>
+ <p>2. <b>Past</b>- Object’s subject+ was/were+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She praised me. (Active)</li>
+  <li>I was praised by her. (Passive)</li>
+ </ul>
+ <p>
+  3. <b>Future</b>- Object’s subject+ shall be/will be+ Verb’s past participle+ by+ subject’s object
+ </p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She will praise me. (Active)</li>
+  <li>I shall be praised by her. (Passive)</li>
+ </ul>
+ <hr>
+ <p>Continuous tense-এর ক্ষেত্রে passive voice-এর structure ᐅ </p>
+ <p>
+  1. <b>Present</b>- Object’s subject+ am being/is being/are being+ Verb’s past participle+ by+ subject’s object
+ </p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She is praising me. (Active)</li>
+  <li>I am being praised by her. (Passive)</li>
+ </ul>
+ <p>2. <b>Past</b>- Object’s subject+ was being/ were being+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>She was praising me. (Active)</li>
+  <li>I was being praised by her. (Passive)</li>
+ </ol>
+ <p>2. <b>Future</b>- Object’s subject+ shall be being/will be being+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She will be praising me. (Active)</li>
+  <li>I shall be being praised by her. (Passive)</li>
+ </ul>
+ <hr>
+ <p>Perfect tense-এর ক্ষেত্রে passive voice-এর structure ᐅ </p>
+ <p>1. <b>Present</b>- Object’s subject+ has been/ have been+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>She has praised him. (Active)</li>
+  <li>He has been praised by her. (Passive)</li>
+ </ul>
+ <p>2. <b>Past</b>- Object’s subject+ had been+ Verb’s past participle+ by+ subject’s object</p>
+ <h3>Example ᐅ </h3>
+<ul>
+ <li>She had praised me. (Active)</li>
+ <li>I had been praised by her. (Passive)</li>
+</ul>
+<p>3. <b>Future</b>- Object’s subject+ shall have been/ will have been+ Verb’s past participle+ by+ subject’s object</p>
+<h3>Example ᐅ </h3>
+<ul>
+ <li>She will have praised me. (Active)</li>
+ <li>I shall have been praised by her. (Passive)</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

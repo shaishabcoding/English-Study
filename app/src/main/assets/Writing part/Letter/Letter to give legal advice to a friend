@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Letter to give legal advice to a friend`;
+  var body = `Dear Kamrul,<br>
+I am glad that you have turned to me for my professional advice. I have known your family for a long time and think I can provide the legal guidance you are after.
+<br>
+Firstly I must put your mind at rest you will not need to make use of me as an attorney, as your issue should be resolved in the small claims court. In fact, if you turn up at the hearing and follow my guidance notes, you should have only a small fee to pay for resolving the claim.
+<br>
+You will need to attend the county courthouse to pick up the forms required to set a hearing date. In the small claims court, you will then need to retell your side of the issue to the presiding judge. A carpet that claims to be a Persian and is not should be easy enough to prove, as long as you have kept the receipts and other paperwork. The statement from the expert confirming your assertion is also critical and must be included.
+<br>
+Following my advice should see you win your case and also avoid the need to pay for attorney's fees. All the best and don't worry.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Cock Befools the Jackal";
+  var text = `There lived a jackal in the jungle near a rich man’s house. The rich man had a number of pet birds like cock, hen, duck, etc. The jackal saw a big and healthy cock and wanted to have a feast of it. He was looking for an opportunity to prey the cock. One day jackal was lucky enough to catch the cock. The people raised hue and cry and ran after the jackal. In such danger, the cock did not lose heart. With courage and wisdom, he politely told the jackal, “My lord, so long the rich man was my master. But the foolish people do not realize that I no longer belong to him. Now you are my master and the rich man has no right on me. So instead of running away, please tell them that I am no longer their cock. You are my master now the jackal could not understand the trick of the cock. In good faith, he opened his mouth to forbid the men to chase him. As soon as he opened his mouth the cock flew on the branch of a tree and crowed; kak-ku-ru-tur-ku… The jackal only looked and repented.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

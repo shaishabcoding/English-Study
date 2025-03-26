@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Past Perfect Tense ᐅ </b>
+  অতীত কালে দুটি কাজ সম্পন্ন হয়ে থাকলে তাদের মধ্যে যেটি আগে ঘটেছিল তা Past perfect tense হয় এবং যেটি পরে হয়েছিল তা simple past tense হয়।
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+  বাংলায় ক্রিয়ার শেষে কোন নির্দিষ্ট অতীত ঘটনার পূর্বে, ছিল, ছিলাম, ছিলে, ছিলেন, ল, লাম, লে, লেন, তাম, তে, তেন এদের যে কোন একটি যোগ থাকে।
+ </p>
+ <p>
+  <b>Structure ᐅ </b>
+  1st subject + had + verb এর past participle + 2nd subject + verb এর past form +2nd object.
+ </p>
+ <card>Subject-এর পর had বসে এবং মূল verb-এর past participle form ব্যবহূত হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি ভাত খাওয়ার পূর্বে সে বাড়ি আসল – He had come home before I ate rice.</li>
+  <li>আমি স্কুলে যাওয়ার পূর্বে সে মারা গেল – He had died before I went to school.</li>
+  <li>ঘণ্টা পড়ার পূর্বে তারা স্টেশনে পৌঁছল – They had reached the station before the bell rang.</li>
+  <li>ডাক্তার আসিবার পূর্বে রোগীটি মারা গেল – The patient had died before the doctor came.</li>
+  <li>ডাক্তার আসিবার পরে রোগীটি মারা গেল – The doctor had come before the patient died.</li>
+  <li>বিছানায় শুতে যাবার পূর্বে আমি দরজাটা বন্ধ করিলাম – I had shut the door before I got into bed.</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

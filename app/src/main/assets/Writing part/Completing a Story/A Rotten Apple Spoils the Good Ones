@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Rotten Apple Spoils the Good Ones";
+  var text = `Latif was a sincere, punctual, studious, and obedient boy. His parents were proud of him. He showed brilliant performance in the matriculation examination. He was admitted in a renowned college at his town. Within some weeks of attending college, he came in contact with some bad boys who had the habits of smoking, drinking, fighting and using foul language. Latif began to accompany them and follow their life of freedom. His marks in the examinations began deteriorating. His father noticed this and grew tense. He identified the reason and wanted to teach his son through examples rather than words. He called him in one day. He gave him some good apples and told him to lay them aside. Then he places among them a rotten apple. The rotten apple spoiled the good ones within a few days. The father called his son again and showed it to him. Latif understood the underlying message. He repented for his misdeeds and promised to leave bad company.<br><br><b>Moral</b> ᐅ We should stay away from bad company`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

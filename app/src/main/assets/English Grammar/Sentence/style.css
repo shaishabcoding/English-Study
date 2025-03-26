@@ -1,0 +1,80 @@
+:root {
+  background: #ddd;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+  padding: 10px;
+  background: #fff;
+  margin-bottom: 10px;
+  overflow: scroll;
+}
+
+.title {
+  text-align: center;
+  font-size: 180%;
+}
+
+.sub {
+  font-size: 140%;
+}
+
+.lable {
+  margin: 10px;
+  border: 2px solid #00b9ff;
+  background: #00b9ff;
+  border-radius: 10px 10px 0 0;
+  border-bottom: none;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px #000;
+  color: #fff;
+  box-shadow: 1px 1px 3px #000;
+}
+
+.example {
+  margin: 10px;
+  margin-top: -10px;
+  border: 2px solid #00b9ff;
+  border-radius: 0 0 10px 10px;
+  border-top: none;
+  box-shadow: 1px 1px 3px #000;
+}
+.mark{
+  font-weight: bold;
+  color: #00b9ff;
+  border-bottom: dashed 1px #00b9ff;
+}
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:nth-child(even),.even{background-color: #f2f2ff;}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #479FD9;
+  color: white;
+}
+div.mark{
+  color: #0010C0;
+  background: yellow;
+}
+.note{
+  color: #000;
+}

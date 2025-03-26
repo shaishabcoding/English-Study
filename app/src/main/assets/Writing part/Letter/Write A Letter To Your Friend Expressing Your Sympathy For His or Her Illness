@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Expressing Your Sympathy For His or Her Illness`;
+  var body = `My dear Nila,<br><br>
+I am shocked to learn that you are now laid in a hospital bed with an attack of malaria and have lost all hopes in life. Don’t be so much depressed and frustrated about your life, my friend. For, malaria is a curable disease. Proper and sustained treatment will heal you up. So why are you losing heart? Please strictly follow the advice of the doctors and you will recover soon. It’s just a matter of time, you know. So there is nothing to worry. Don’t be anxious about your studies right at this moment. Even if you fail to sit for the First Unit Test, you will be able to avail yourself of the Remedial Test at the end of the Second Unit Test. So don’t worry.
+<br>
+Expecting your speedy recovery.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

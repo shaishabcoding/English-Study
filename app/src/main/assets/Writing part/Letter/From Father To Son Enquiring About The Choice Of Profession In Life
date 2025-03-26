@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `From Father To Son Enquiring About The Choice Of Profession In Life`;
+  var body = `Town Garden,
+City.<br>
+22 January 2023
+<br><br>
+Dear son,<br>
+I was away to England when you left this place for college. I returned only last week and could not write to you earlier owing to certain office work.<br>
+I am glad you have been able to secure admission in â€˜he’ college. Since you are just starting the college career and this you might have to start your professional career, I would like to know what subjects you have and what is in your mind to do after completing your. No doubt, I have always desired you to be a but your choice stands first.<br>
+Give me your frank opinion. Do not hesitate. As all parents w.int to see their children prosper, so do we. You are passing through the most critical stage of your life. If you are sensible and responsible, for which, of course, I am proud, you can make your career, otherwise these college days never come back and so does not come one’s career.<br>
+I shall await your early reply.<br>
+Love from Mummy and Sajjad.
+<br><br>
+Your loving father,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

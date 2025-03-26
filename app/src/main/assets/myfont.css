@@ -1,0 +1,8 @@
+*{
+ font-family:  bn ;
+ box-sizing: border-box;
+}
+@font-face {
+ font-family: bn;
+ src: url("FL Mahfuj Brush Unicode.ttf");
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLN5NTCwfDBDvj-P37K5wemIlbzK2bm1rLYg&usqp=CAU"/></div>
+  <div class="title">Unhelpful Friends</div>
+  <div class="en">
+Bunny rabbit lived in the forest. He had many friends. He was proud of his friends. One day Bunny rabbit heard the loud barking of wild dogs. He was very scared. He decided to ask for help. He quickly went to his friend deer. He said, "Dear friend, some wild dogs are chasing me. Can you chase them away with your sharp antlers?"
+<br><br>
+The deer said, "That is right, I can. But now I am busy. Why don't you ask bear for help?"
+<br><br>
+Bunny rabbit ran to the bear. "My dear friend, you are very strong. Please help me. Some wild dogs are after me. Please chase them away," he requested to the bear.
+<br><br>
+The bear replied, "I am sorry. I am hungry and tired. I need to find some food. Please ask the monkey for help."
+<br><br>
+Poor Bunny went to the monkey, the elephant, the goat and all his other friends. Bunny felt sad that nobody was ready to help him.
+<br><br>
+He understood that he had to think of a way out by himself. He hid under a bush. He lay very still. The wild dogs did not find the bunny. They went chasing other animals.
+<br><br>
+Bunny rabbit learnt that he had to learn to survive by himself, not depending on his unhelpful friends.
+<br><br>
+Moral:  It is better to rely on yourself than depend on others.</div>
+  <div class="title">অসহায় বন্ধু</div>
+  <div class="bn">
+খরগোশ বনে থাকত। তার অনেক বন্ধু ছিল। সে তার বন্ধুদের নিয়ে গর্বিত ছিল। একদিন খরগোশ বুনো কুকুরের ঘেউ ঘেউ শুনতে পেল। তিনি খুব ভয় পেয়েছিলেন। সে সাহায্য চাওয়ার সিদ্ধান্ত নিয়েছে। সে দ্রুত তার বন্ধু হরিণের কাছে গেল। তিনি বললেন, "প্রিয় বন্ধু, কিছু বন্য কুকুর আমাকে তাড়া করছে। তুমি কি তোমার ধারালো শিং দিয়ে তাদের তাড়াতে পারবে?"
+<br><br>
+হরিণ বলল, "ঠিক আছে, আমি পারব। কিন্তু এখন আমি ব্যস্ত। তুমি ভালুকের কাছে সাহায্য চাও না কেন?"
+<br><br>
+খরগোশ ভল্লুকের কাছে দৌড়ে গেল। "আমার প্রিয় বন্ধু, আপনি খুব শক্তিশালী। দয়া করে আমাকে সাহায্য করুন। কিছু বন্য কুকুর আমার পিছনে আছে। দয়া করে তাদের তাড়ান," তিনি ভালুকের কাছে অনুরোধ করলেন।
+<br><br>
+ভাল্লুক উত্তর দিল, "আমি দুঃখিত। আমি ক্ষুধার্ত এবং ক্লান্ত। আমার কিছু খাবার খুঁজে বের করতে হবে। দয়া করে বানরের কাছে সাহায্যের জন্য বলুন।"
+<br><br>
+গরীব খরগোশ বানর, হাতি, ছাগল এবং তার অন্যান্য বন্ধুদের কাছে গেল। খরগোশ দুঃখ অনুভব করেছিল যে কেউ তাকে সাহায্য করতে প্রস্তুত ছিল না।
+<br><br>
+তিনি বুঝতে পেরেছিলেন যে তাকে নিজেই একটি উপায় ভাবতে হবে। সে একটা ঝোপের নিচে লুকিয়ে ছিল। সে খুব স্থির হয়ে শুয়েছিল। বন্য কুকুররা খরগোশের সন্ধান পায়নি। তারা অন্য প্রাণীদের তাড়া করতে গেল।
+<br><br>
+খরগোশ খরগোশ শিখেছিল যে তাকে তার অসহায় বন্ধুদের উপর নির্ভর না করে নিজের দ্বারা বেঁচে থাকতে শিখতে হবে।
+<br><br>
+নৈতিকতা: অন্যের উপর নির্ভর হওয়ার চেয়ে নিজের উপর নির্ভর হওয়া ভালো।</div>
+  <script src="main.js"></script>
+</body>
+</html>

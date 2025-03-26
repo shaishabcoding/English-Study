@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Money Does Not Bring Happiness";
+  var text = `Once there lived a happy cobbler, who passed his days in working and singing. A rich neighbor of him was a banker who one day said to him, “How much a year do you earn?” The cobbler replied that he earned very little. The banker felt pity for the cobbler and gave him one thousand rupees. The cobbler became happy to get the money. He went to his home and told the matter to his wife. At night, the cobbler could not sleep at all. He thought that someone might steal the money. He guarded the money the whole night. He realized that the money had snatched his happy sleep. Therefore, in the morning he returned the money to the banker.
+
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Pretending Beggar Gets Caught";
+  var text = `A beggar named Rehman used to sit in a corner of the Mosque Street begging for alms. One rainy day, he begged till noon but couldn’t gather much alms. Then, a trick quickly got into his wicked mind. He began pretending to be dumb. After some time, a gentleman was seen passing through that street. He saw the ‘dumb’ beggar, became sympathetic and handed him a banknote of a hundred rupees. Another beggar named Abdul, who was begging on the opposite side of the road, noticed this and grew jealous. He approached the gentleman and told him the real fact. Rehman grew angry at this and called Abdul a liar. The gentleman immediately understood who was lying. He caught hold of the pretending beggar Rehman and handed him over to police.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

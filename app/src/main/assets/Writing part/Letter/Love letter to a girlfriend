@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter to a girlfriend`;
+  var body = `Nasreen <br>
+Banskhali,Chattogram <br>
+PC-Banigram,PS-Banskhali
+
+<br><br>
+Dear Nasreen,<br>
+Every time I go to bed, you're the last thing on my mind. I keep telling myself just how lucky I am to be your man.
+<br><br>
+I say to myself over and over that I will take care of your precious heart. I've worked so hard just to win your love, and there's no way I'm going to screw things up.
+<br><br>
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

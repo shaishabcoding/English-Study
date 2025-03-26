@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-6 ᐅ </b>
+  কোন sentence-এ যদি yesterday, ago, then, in those days, at that time, last+সময় প্রভৃতি word / words-এর কোন একটি word / words ব্যবহৃত হয়, তবে bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর দুই নম্বর বা past indefinite tense হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>I (come) home yesterday. – I <i>came</i> home <b>yesterday</b>.</li>
+  <li>I (not come) home yesterday. – I <i>did not come</i> home <b>yesterday</b>.</li>
+  <li>I (come) home yesterday? – <i>Did</i> I <i>come</i> home <b>yesterday</b>?</li>
+  <li>Then I (understand) your problem. – <b>Then</b> I <i>understood</i> your problem.</li>
+  <li>I (think) you (be) right yesterday. – I <i>thought</i> you were right <b>yesterday</b>.</li>
+  <li>In those days there (be) no mobile phone. – <b>In those days</b> there <i>was</i> no mobile phone.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-7 ᐅ </b>
+  কোন কাজ পূর্বে আরম্ভ হয়ে এখন পর্যন্ত চলমান অবস্থায় আছে বুঝালে bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর present perfect continuous tense-এ হবে। এক্ষেত্রে বাক্যে for / since + সময় / দিন / মাস প্রভৃতির উল্লেখ থাকবে। এখান for-এর অর্থ ‘ধরিয়া’ এবং since-এর অর্থ ‘থেকে বা হতে’।
+  <br><br>
+  এছাড়াও দিনের নাম / মাসের নাম + last, যেমন, Sunday last, February last প্রভৃতি থাকলেও bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর present perfect continuous tense-এ হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>The children (play) for two hours. – The children <i>have been playing</i> <b>for</b> two hours.</li>
+  <li>It (rain) since Friday. – It <i>has been raining</i> <b>since</b> Friday.</li>
+  <li>Rahim (suffer) from a fever since Thursday last. – Rahim <i>has been suffering</i> from a fever <b>since</b> Thursday last.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-8 ᐅ </b>
+  Asked, believed, forgot, knew, remembered, reported, said, thought, told প্রভৃতি past verb-এর কোন একটি verb যদি বাক্যের প্রথম verb হিসাবে ব্যবহৃত হয়, তবে that / if যুক্ত clause-এর verb-এর রুপ past indefinite বা past perfect tense হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>I thought that he (come) by that time. – I <b>thought</b> that he <i>came</i> by that time. Or: I <b>thought</b> he <i>had come</i> by that time.</li>
+  <li>Our teacher said that Rahim (fail) in the examination. – Our teacher <b>said</b> that Rahim <i>failed</i> the examination. Or: Our teacher <b>said</b> that Rahim <i>had failed</i> the examination.</li>
+  <li>When he told me that everything (be) ready, we (go) into the dining room. – When he <b>told</b> me that everything <i>was</i> ready, we <i>went</i> into the dining room.</li>
+  <li>They asked him if he (help) us. – They <b>asked</b> me he <i>helped</i> us.</li>
+ </ol>
+ <p>
+  <b>Note ᐅ </b> Narration-এর নিয়ম অনুযায়ী বাক্যের প্রথম verb past-এ থাকলে দ্বিতীয় verb-টি past perfect tense হয়। তবে বাক্যের প্রথম verb past-এ থাকলে দ্বিতীয় verb-কেও past indefinite tense-এ লিখা যায়, তাতে কোন ভূল নাই।
+ </p>
+ <hr>
+ <p>
+  <b>Rule-9 ᐅ </b>
+  (a) And শব্দ দ্বারা যুক্ত পৃথক দুটি noun শব্দ পৃথক ব্যক্তি বা বস্তুকে বুঝালে sentence-এর <i>verb</i>-এর রুপ হবে plural.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>William and I (be) going to school. — William <b>and</b> I <i>are</i> going to school.</li>
+ </ol>
+ <p>(b) কিন্তু and দ্বারা যুক্ত পৃথক দুইটি subject-কে একই ব্যক্তি বা একই ধরনের বস্তুকে বুঝানোর জন্য বা একই ধারনা প্রকাশের জন্য ব্যবহৃত হলে সেই subject-এর জন্য singular <i>verb</i> ব্যবহার করা যেতে পারে।</p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Bread and butter (be) essential for our health. — Bread <b>and</b> butter <i>is</i> essential for our health.</li>
+  <li>Time and tide (wait) for none / nobody. — Time <b>and</b> tide <i>waits</i> for none / nobody.</li>
+ </ol>
+ <p>
+  <b>Remember ᐅ </b> (a) আমাদের উপমহাদেশীয় স্কুল কলেজ গুলোতে শিক্ষকেরা ‘bread and butter’ অথবা ‘time and tide’-এর ন্যায় দুইটি subject-কে এক বা অভিন্ন বলে মনে করে, তাই তাঁরা subject ঐ গুলির জন্য singular <i>verb</i> ব্যবহার করতে শিখায়। কিন্তু নেটিভ ইংরেজরা bread এবং butter-কে অথবা time এবং tide-কে দুইটি পৃথক বস্তু বুঝায়। তাই তারা বলে: Bread and butter are essential for our health. Time and tide wait for none/nobody/no man.
+  <br><br>
+  (b) একইভাবে যদি একের অধিক gerund শব্দ অথবা একের অধিক infinitive পৃথক বস্তু বা কাজকে বুঝায়, তবে sentence-এর bracket-এর মধ্যকার <i>verb</i>-এর রুপ হবে plural.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Learning English and speaking English (be) different things. Learning English <b>and</b> speaking English <i>are</i> different things.</li>
+  <li>To learn English and to speak English (be) different things. To learn English <b>and</b> to speak English <i>are</i> different things.</li>
+  <li>Reading, writing, and speaking (be) my favorite activities. Reading, writing <b>and</b> speaking <i>are</i> my favorite activities.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-10 ᐅ </b>
+  ‘That’ conjunction দ্বারা দুটি clause যুক্ত হলে that-এর আগের clause-টি past indefinite হলে এবং that-এর পরের clause-এ যদি next + সময়, যেমন, next day, next week, next month, next year প্রভৃতির কোন একটি থাকে, তবে bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর রুপ হবে would + <i>verb</i>-এক নম্বর।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>He said that he (buy) a house next year. – He said that he <b>would</b> <i>buy</i> a house next year.</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

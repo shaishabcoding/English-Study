@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+
+<body>
+  <div class="title">
+    Complex Sentence
+  </div>
+  <div>
+    যে বাক্য main clause ও subordinate clause নিয়ে গঠিত হয়, তাকে Complex Sentence বলে।
+    <div class="lable">Example</div>
+    <div class="example">
+      I saw that he was going.
+    </div>
+    বাক্যটিতে ‘saw’, ‘was’ এবং ‘going’ তিনটি Verb ব্যবহার করা হয়েছে। কিন্ত, Finite Verb দুটি ‘saw’ এবং ‘was’ এবং উহাদের Subject ও আছে। ‘saw’ Verb-এর Subject হল ‘I’ এবং ‘was’ Verb-এর Subject হল ‘he’। সুতরাং, বাক্যটি দুটি Clause নিয়ে গঠিত। Clause দুটি হল I saw এবং he was going। ‘that’ Clause দুটিকে সংযুক্ত করেছে। ‘that’ এখানে Conjunction। সুতরাং, বাক্যটি দুটি Clause ও ১টি Subordinating Conjunction দ্বারা গঠিত তাই  উহা Complex Sentence।
+  </div>
+  <br><br>
+  <div class="title sub">
+    বৈশিষ্ট্য - feature
+  </div>
+  <div>
+    Complex  sentence এ সাধারণত নিমোক্ত Sub- ordinate conjunction গুলোর উপস্থিতি লক্ষ্য করা যায় – since, as, when ,while, if , so that, so…..that, though, although, which, that, when, who, after, before, where, how, unless, why. till, until ইত্যাদি।
+  </div>
+</body>
+
+</html>

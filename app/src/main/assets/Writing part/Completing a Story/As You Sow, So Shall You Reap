@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "As You Sow, So Shall You Reap";
+  var text = `Once there were two farmers. They were Mr. Kamal and Mr. Kazal. They were very good friends. But they were a very different nature. Mr. Karnal was a very hard working person but Mr. Kazal was very lazy. Mr. Kamal worked hard in his fields. He dug the soil, plowed it, leveled and sowed seeds in it. So during the harvesting season, he had plenty of rice in his store. He sold some and kept the rest against the rainy season. He had no crisis of food during the crisis period. On the other hand, Mr. Kazal spent his time idly. He did not work in his field; rather he passed his time merrily. But when the crisis period came, he had no food in his house. He had to beg food from Mr. Kamal. He chided him for his laziness and sent him away empty-handed. Mr. Kazal had to go from door to door.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

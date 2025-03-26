@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Ungrateful Snake";
+  var text = `It was bitter cold. A farmer was passing by a bush. He saw a snake almost dead in cold. The farmer felt pity for the snake and brought it home. He lit a fire and warmed the snake up. He gave a cup of milk to the snake to drink. The snake became alright. The farmer’s young son liked the snake and wanted to play with it No sooner had he approached near it than the snake spread its hood and was about to bite him. That farmer was standing nearby. He realized that a venomous snake should not be believed. So he took a stick and hit the snake with it. The snake lay dead.
+
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

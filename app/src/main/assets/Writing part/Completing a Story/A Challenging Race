@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Challenging Race";
+  var text = `Once upon a time there lived a hare in a certain jungle who was very proud of his swiftness. One day, when he was hopping by a grassland he saw a tortoise walking very slowly and couldn’t help himself laughing. He made insulting comments on the tortoise. The tortoise got very angry and challenged the hare to run a race. The hare laughed to his heart’s content once again and accepted the challenge. On the appointed day the race began. The hare hopped quite fast and moved far ahead. But the tortoise walked slowly and steadily. The hare thought that he should not waste his energy by running fast. He lied down under a tree to take rest. But, unfortunately, he fell in deep sleep. In the meantime, the tortoise walked on and finally reached the destination. When the hare got up, he was tense and ran faster and faster. But he found the tortoise already at the destination and was very ashamed.<br><br><b>Moral</b> ᐅ Slow and steady wins the race`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

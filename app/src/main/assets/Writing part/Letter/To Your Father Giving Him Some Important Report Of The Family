@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Father Giving Him Some Important Report Of The Family`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+ My dear Father, <br>
+I am in receipt of your letter of the 8th instant in which have enquired about the affairs of the family. I would like to give you an important report. Two days after your departure, Multan was suddenly overtaken by a wind-storm which was followed by a heavy and constant rain. The night was about to fall when the storm came and it blew so horribly that the electric supply was cut off and it was pitch dark in the house. You know we have a bundle of wax candles reserved for such emergencies. So I lit a candle and placed in the candlestick which was lying near the table. <br>
+The candle went on burning and the baby played under the circle of its light. As ill luck would have it, the foot of the baby slipped and he fell on the floor. He struck against the candlestick which fell on the table and the table cloth immediately caught fire. Unfortunately my books and exercise books were also lying on the table and they too caught fire before I was in a position to compose myself and control the fire. <br>
+I raised a cry upon which all the members of the family rushed and helped me in extinguishing the fire. Thank God that it was raining and the air was damp enough. So the fire could not spread. My books and the table cloth were burnt. The top of the table was also partly burnt, Two fingers of my hand were burnt but not very seriously. I got my hand bandaged the next day any now I am making steady progress. You need not worry about that. Thank God we brought the fire under control without any serious damage. <br>
+There is a happy news too. The result of Hassan has been declared and he has been placed in the second division. He is now waiting for you to decide about his future programme. <br>
+Mother and baby are all right. They offer their compliments to you. I hope you will be back by the end of this month according to your schedule. Please write to me about the date and train of your arrival so that I may be able to receive you at the railway station.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

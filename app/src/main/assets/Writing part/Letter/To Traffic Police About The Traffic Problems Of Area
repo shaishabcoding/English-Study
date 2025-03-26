@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Traffic Police About The Traffic Problems Of Area`;
+  var body = `Wrold Trade Centre,<br>
+lChittagong. <br>
+25 January 2023 <br>
+The Superintendent of Police (Traffic),<br>
+Police Head Quarters,<br>
+I. I. Chundrigar Road,<br>
+Chittagong. <br><br>
+
+Dear Sir,<br>
+I draw you kind attention to the difficulties the residence of Nazimahad No.5 are facing due to the irregularities committed by car owners, bus drivers, wagon drivers and rickshaw drivers. The main road that passes through chandni chowk is narrow and hardly sufficient for two ways traffic. Despite this the car owners who come for shopping park their cars on both sides of the road. The bus drivers and the wagon drivers wait for passengers for long at Khilafat chowk barring the flow of traffic and Jamming the road. To make the matter worse, theta walas selling fruits, cosmetics, shoes and readymade garments etc. occupy the road from the National Bank of Bangladesh to Khilafat chowk on both sides. <br>
+I shall request you to kindly look into the matter and take appropriate steps to ease the situation.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

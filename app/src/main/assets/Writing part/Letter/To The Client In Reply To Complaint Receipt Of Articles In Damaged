@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To The Client In Reply To Complaint Receipt Of Articles In Damaged`;
+  var body = `203 XYZ Glass,<br>
+Manufacturers,<br>
+Hyderabad,<br>
+22 January 2023<br>
+M/s. Welcome and Welcome,<br>
+Chittagong.
+<br><br>
+Gentlemen,<br>
+Re : Receipt of broken articles - our invoice no.64756 dated 10-11-23.<br><br>
+We are in receipt of your letter dated 16th of November 1994 and are sorry to learn that some of the articles were broken in transit. We had packed the articles very cautiously and had pasted the warning Handle with Care Glass wares.<br>
+It is not our policy to replace the broken articles when we are cautious enough to pack the article with care, We, therefore, suggest you to approach the Railway Authorities for the breakage is due to mishandling in transit.
+<br><br>
+Yours faithfully,<br>
+For Tipu Glass <br>
+Manufacturers,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend About The Importance Of Communicative English`;
+  var body = `My dear Nasim,<br><br>
+Your letter of the 5th instant in to hand. In your letter you wrote about communicative English. In the letter you have asked me to write about the advantages of it. Now I am writing about it. Communicative English in a newly introduced English learning method through which one can communicate with other easily. Actually it is the purpose of any language. The method has some advantages. In the communicative method at dents understanding power can be tasted more than the previous method. When a student fails to understand seen or unseen comprehension, he will be unable to answer the question that follow. A student has to fill in the gaps of cloze test from his understanding taking word from his vocabulary. In the previous course we got the letters and applications by heart. But in communicative English their situations are not common. While writing we have to add something. It increases our creative power. It encourages us to write free hand. In true sense it is the ultimate goal of any language learning. So the importance of communicative English can never be denied.
+<br>
+No more today. Meet when our meeting will be held again . With best regards to your parents and love to you and all . hoping to have a few lines from you in reply.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJMrV6YVLMBtHCNY4WO3s95nbfdT1FrDdUQ&usqp=CAU"/></div>
+  <div class="title">The Milkmaid and her Pail</div>
+  <div class="en">
+Patty the Milkmaid was going to the market carrying milk in a pail on her head.
+<br><br>
+As she went along, she began calculating what she would do with the money she would get for the milk. "I'll buy some fowls from Farmer Brown," said she, "and they will lay eggs each morning, which I will sell to the parson's wife. With the money that I get from the sale of these eggs, I'll buy myself a new dimity frock and a chip hat, and when I go to the market, won't all the young men come up and speak to me! Polly Shaw will be so jealous, but I don't care. I shall just look at her and toss my head like this." Short Stories
+<br><br>
+As she spoke that, she tossed her head back and the pail fell off it, and all the milk was spilt!
+<br><br>
+Moral: Do Not Count Your Chickens Before They Are Hatched.</div>
+  <div class="title">মিল্কমেইড এবং তার পায়েল</div>
+  <div class="bn">
+ প্যাটি দ্য মিল্কমেইড মাথায় দুধ নিয়ে বাজারে যাচ্ছিল।
+<br><br>
+ সে যেতে যেতে, সে হিসেব করতে লাগল যে সে দুধের জন্য যে টাকা পাবে তা দিয়ে সে কী করবে।  "আমি ফার্মার ব্রাউনের কাছ থেকে কিছু পাখি কিনব," সে বলল, "এবং তারা প্রতিদিন সকালে ডিম পাড়বে, যা আমি পার্সনের স্ত্রীর কাছে বিক্রি করব। এই ডিম বিক্রি থেকে যে টাকা পাব তা দিয়ে আমি কিনব।  আমি একটি নতুন ডিমের ফ্রক এবং একটি চিপ টুপি, এবং যখন আমি বাজারে যাব, তখন কি সব যুবক এসে আমার সাথে কথা বলবে না! পলি শ খুব ঈর্ষান্বিত হবে, কিন্তু আমি পাত্তা দিব না। আমি শুধু দেখব  তার দিকে এবং এইভাবে আমার মাথা নিক্ষেপ।"  ছোট গল্প
+<br><br>
+ সে কথা বলার সাথে সাথে সে তার মাথাটি পিছনে ফেলে দিল এবং বাটিটি পড়ে গেল এবং সমস্ত দুধ ছিটকে গেল!
+<br><br>
+ নৈতিকতা: বাচ্চা বের হওয়ার আগে আপনার মুরগি গণনা করবেন না।</div>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Father Asking Permission To Join The Cadet Of Your School`;
+  var body = `My Dear Father,<br><br>
+I am keeping well. The atmosphere in the new school is good. Lessons have begun and I am studying them well.
+Next week they are selecting pupils for Cadet of our school. I am eager to join the Cadet and get military training. They will give a certificate at the end of two years. It will be very useful in future. I am sure the Cadet classes will in no way affect my studies.
+I request you to give me permission to join the Cadet.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

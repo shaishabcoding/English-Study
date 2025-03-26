@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Prudence of a Judge";
+  var text = `Once a man lost his purse. He complained to a judge about the fact. The judge gave each servant of the man a stick. He asked them to appear before him the next day along with their sticks. He also said that the stick of the thief would be longer by an inch. And so the real thief shortened his stick by cutting it an inch. The next day all the servants along with their sticks appeared before the judge. The judge observed all the sticks and found a stick an inch shorter. Thus the thief was detected and sent to jail.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

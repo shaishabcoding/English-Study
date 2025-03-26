@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Help each other in danger";
+  var text = `Once an ant was very thirsty. He went to a pond to drink water. When he began to drink water, a wave swept him away. He was about to drown. There was a tree on the bank of the pond. A dove was sitting on a branch of the tree. He noticed the ant was about to drown. The dove felt pity for the ant. He wanted to save the ant. So he dropped a leaf of the ant. The ant got on the leaf and saved his life. Another day the ant was seeking food under that tree. Then he noticed that a hunter had aimed at the dove. The dove did not know it. The ant thought, “I must save the life of the dove.” So he bit on the right leg of the hunter. At this the hunter’s hands trembled and the bullet missed its aim. Then the dove flew away and saved his life.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To The Postmaster Informing Him About The Change Of Your Address`;
+  var body = `56, Urdu Road. <br>
+Bahawalnagar. <br>
+25 January 2023 <br>
+To <br>
+The postmaster,<br>
+Bahawlangar. <br><br>
+
+Sir,<br>
+I have recently shifted from 27, Muhajir Colony, Bahawalnagar to 56, Urdu Bazar, Bahawalnagar. My change of address may very kindly be noted and all my letters and parcels etc., may please by redirected. Thanks. <br>
+I have the honour to be,<br>
+Sir,
+<br><br>
+Your most obedient servant,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Advise To Change Decision And Continue Studies`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+My dear Tanveer,<br>
+The other day I happened to meet Qamar and I was very shocked to learn from him that you have decided to give up your studies. I do not find any earthly reason for your this hasty and unwise decision. Your father is a well-to-do man and he can easily bear the expenses of your education. <br>
+Dear Tanveer, it is an age of competition. You may not feel now but I assure you that you will repent at the later stage of life. Education is a great blessing. It makes a man perfect. I know how a good student you are. I simply wonder what made you to take such a decision. Please do not ruin your future. I would advise you to continue your studies for your own well-being. <br>
+With best wishes, 
+<br><br>
+Yours most sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

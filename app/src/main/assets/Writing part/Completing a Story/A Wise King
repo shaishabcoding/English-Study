@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Wise King";
+  var text = `Solomon was a wise king who lived a long time ago. He was a kind-hearted and just king. All the people in the kingdom were very happy and they lived in peace. One day two women came to his court who were quarrelling over a child. Each woman demanded that she was the mother of the child. They came to Solomon for justice. Solomon was at a loss to decide what to do. He thought for a while and hit upon a wise plan. He ordered one of his men to bring his sword in order to cut the child into two pieces. The false mother became happy but the real mother burst into tears and requested the king to give it to another woman so that it could live. The king at once understood the matter. He gave the child to the real mother and punished the false mother.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Chairman Of The District Board`;
+  var body = `To<br>
+The Chairman,<br>
+District Reside,<br>
+Khairpur.
+<br><br>
+Sir,<br>
+We beg to lay fallen before you the multitude lines for your considerate personal and favourable thoughtfulness.<br>
+Our village,Ghaziabad, has a aggregation of nigh 6000. More of the inhabitants are quite well-to-do grouping who pay a monstrous quantity of taxes. The community has conveyed many a cohort to the soldierlike and can overstate of many officers who had through creditable maintenance to the land.<br>
+Numerous of the villagers are anxious to school their children. But it is mercy that inspire of all these factors there is not flat bottom a first schoolhouse in the village. Small children off to go to a distance of triad kilometres for schooling. That is most hard to beast children of phoebe of six.<br>
+So we content you to agape a schooltime in our settlement for lack of which a zealous galore children go without training. We trust,that the concern would perceive your unmediated and empathic thoughtfulness.
+<br><br>
+Yours reliably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

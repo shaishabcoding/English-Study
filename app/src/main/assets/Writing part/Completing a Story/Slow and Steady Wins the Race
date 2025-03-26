@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Slow and Steady Wins the Race";
+  var text = `Once there was a hare. He was very proud of his speed. One day he was going back to his house. A tortoise was also returning to his house. Suddenly the hare stopped the tortoise and said, You slow coach! I feel pity for your speed. You need not worry friend, hare, said the tortoise. If you like I can run a race with you. Ok, I am ready, said the hare. At once both of them started. In a moment the hare got ahead of the tortoise. The hare stopped half way and looked back. “I may easily take a short nap and then overtake him,” the hare said to herself. Then in no time she fell fast asleep. The tortoise was moving slowly with his little feet. He came creeping up the place, never stopping to look behind. The hare awoke and looked forward to see the tortoise. She sprang up and attempted to start on like the wind. She said, “Where is the tortoise?” From the end of the field the tortoise replied, “Hare, hare, I am winning the race.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

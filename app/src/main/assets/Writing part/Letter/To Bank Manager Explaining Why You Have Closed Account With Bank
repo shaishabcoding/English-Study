@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Bank Manager Explaining Why You Have Closed Account With Bank`;
+  var body = `6, Boulevard Way,<br>
+Paradise Housing Society,<br>
+Chittagong. <br>
+25 January 2023 <br>
+The Manager,<br>
+Manhattan Bank. <br>
+Chittagong. <br>
+<br>
+Dear Sir,<br>
+Re : Closure of my PLS Account No.912 <br>
+While acknowledging receipt of your letter dated 6.7.94 enclosing there with a demand draft of Rs.62401-beiflg the amount of my balance outstanding at the close of business on 6.7.94, 1 have to advise that the service rendered by your bank is wonderfully excellent and prompt. The treatment cooperation and reverence I received from your staff is exemplary. I have not closed my account for any grievance but the reason for it is that we are shifting to a village in Punjab where we have acquired a farm. <br>
+I once again thank you and your staff for the cooperation extended to me.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

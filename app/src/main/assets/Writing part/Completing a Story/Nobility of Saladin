@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Nobility of Saladin";
+  var text = `A long and terrible fight was going on between the Muslims and the Christians for taking the possession of the holy place, Jerusalem. Both the parties wanted to have it under them singly.
+<br>
+
+One day, all on a sudden, the fight came to a stop. A white flag was found flying on the Christian camp. For king Richard, the General of the Christian  army was seriously ill.
+
+<br>
+Physicians were engaged for treatment. But the condition of the patient was going from bad to worse day by day. One night at that time a darvish  came. He was taken to the king. The darvish gave him medicine with proper instruction. He would go to the patient every night. Gradually the condition of the patient was improving. Thus the patient recovered in a few days.
+
+<br>
+The king expressed his gratitude to the darvish for his proper treatment and wanted to reward him. The darvish refused with thanks. The king then asked the darvish who he was. The darvish told him that he was Saladin, his great enemy. The king became surprised. He cordially embraced Saladin and said that he would no more fight against Saladin.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

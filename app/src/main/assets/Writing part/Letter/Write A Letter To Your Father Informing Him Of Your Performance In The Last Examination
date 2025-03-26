@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<p id="ques">Write A Letter To Your Father Informing Him Of Your Performance In The Last Examination</p>
+<br><br><br>
+<p>My dear father,<br>
+Hope this will find everyone at home in good health. The result of the 1st Unit Test has just been out. I have secured 70% marks in the grand total with highest marks in English and Bengali. But I have got very poor marks in Mathematics. You know very well that I am weak in Math. However, I am trying my level best to improve my performance in the subject. I hope I’ll do better in the next Unit Test. I am sending my progress report by post for your signature. I am well and I am getting on well with my studies. No more now.
+<br>
+My heart-felt love to you and mother.
+<br><br>
+Yours affectionately,<br>
+Shaishab Chandra Shil</p></body>
+</html>

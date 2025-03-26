@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To The Manager Complaining Of Insufficient Number Of Buses`;
+  var body = `Street
+Chittagong. <br>
+23 January 2023 <br>
+The Manager. <br>
+New Khan Bus Company. <br><br>
+
+Dear Sir, <br>
+After travelling in your buses for the last one and a half years, I feel compelled to bring a few facts to your notice. In the hope that you will act early to make your service more efficient than it is now. <br>
+One feels that you have not enough buses to serve all your routes efficiently. The intervals between the buses on almost all the suburban routes are intolerably long. If for example a person happens to miss one bus, he may have to wait for an hour, or even longer, to catch the next bus Consequently there are very long queues at every stop. <br>
+A the buses are not permitted to take more than 40 passengers each, they are filled up either at the starting points, or at the stops immediately next to them The people at intermediate stops can catch a bus only if some passengers get down where they are waiting. Thus a passenger may have to wait many hours before being able to catch a bus. I know by experience, that often it is faster 10 travel on foot than in your buses. So please try to acquire as many more buses as you can so that it may be possible for you to give more efficient service to the public. Alternatively, why don’t you give up some of the routes so that some other company may operate along them, and you may be able to operate more efficiently along the rest? You will, I may assure you, lose no revenue as a result of this arrangement, as you are losing thousands of passengers daily because of the poor service you are able to offer at the moment.
+Your buses fail to stop at the official stops, apparently, in order to avoid being mobbed by the people waiting there. But they stop within a few hundred yards of them, to drop some passengers and to pick up others who turn up there it is a blatant case of favoritism.
+Most of your conductors and ticket-checkers are young men still in their teens. The way they talk to each other, and to passengers, is hardly commendable Their conduct towards the women passengers is particularly deplorable. <br>
+I sincerely hope that you will personally look into all these complaints, and remedy them as soon as possible.
+<br><br>
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

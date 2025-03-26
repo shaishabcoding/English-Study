@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Interjection কাকে বলে?</h3>
+ <p>Interjection একটি part of speech যা আকস্মিক অনুভূতি যেমন আনন্দ, বিস্ময়, দুঃখ, প্রভৃতি বোঝাতে ব্যবহৃত হয় এবং এটি ব্যাকরণগতভাবে sentence এর বাকি অংশের সাথে সম্পর্কযুক্ত নয়।
+</p>
+<card>Wow!, Hey!, Hurray!, Alas!, Yippee!, etc. are some commonly used interjections.</card>
+<h4>Example ᐅ</h4>
+<ul>
+ <li>Wow! The movie was really (Showing surprise)
+</li>
+ <li>Hurray! Bangladesh has won the match. (Showing joy)</li>
+ <li>Alas! Her father died yesterday. (Showing sadness)</li>
+</ul>
+<br><br>
+<h3>Classification of Interjections ᐅ
+</h3>
+<ol>
+ <li>Interjections for Greeting
+</li>
+ <li>Interjections for Joy
+</li>
+ <li>Interjections for Approval</li>
+ <li>Interjections for Surprise</li>
+ <li>Interjections for Grief/Pain</li>
+ <li>Interjections for Attention</li>
+</ol>
+<br><br>
+<h4>Interjections for Greeting ᐅ</h4>
+<p>যে interjection কাউকে সম্বোধন করে ঐ ব্যক্তির প্রতি সৌহার্দের অনুভূতি বোঝাতে ব্যবহৃত হয় তাকে interjection for greeting বলে ।</p>
+<card>
+Hi!, Hello!, Hey!, etc. are some interjections for greeting.</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>Hi! How are you doing?</li>
+ <li>Hello! I am Sohana.</li>
+ <li>Hey! I am just kidding.</li>
+</ul>
+<br><br>
+<h4>Interjections for Joy ᐅ</h4>
+<p>
+যে interjection হঠাৎ ঘটে যাওয়া কোনো আনন্দের ঘটনার কারণে আনন্দ বা সুখ বোঝাতে ব্যবহৃত হয় তাকে interjection for joy বলে ।</p>
+<card>Hurray!, Yippee!, Wow!, etc. are some interjections for joy.</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>Hurray! Bangladesh has won the match.</li>
+ <li>Wow! The movie was really awesome.</li>
+ <li>Yippee! We are going on a vacation.
+</li>
+</ul>
+<br><br>
+<h4>Interjections for Approval ᐅ</h4>
+<p>যে interjection বক্তার দ্বারা কোনোকিছু ঘটে যাওয়ার পক্ষে তীব্র সমর্থন বোঝায় তাকে interjections for approval বলে ।</p>
+<card>Well done!, Bravo!, Brilliant!, Splendid!, etc. are some interjections for approval.</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>Bravo! Shakib has taken a wicket.</li>
+ <li>Well done! You have stood first.</li>
+ <li>Brilliant! You have done a terrific job.</li>
+</ul>
+<br><br>
+<h4>Interjections for Surprise ᐅ</h4>
+<p>যে interjection বক্তার দ্বারা কোনোকিছু ঘটে যাওয়ার জন্য তীব্র বিস্ময় বোঝায় তাকে interjection for surprise বলে।</p>
+<card>What!, Eh!, Ah!, Oh!, Hey!, etc. are some interjections for surprises.
+</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>What! You have done this.</li>
+ <li>Hey! What are you doing?</li>
+</ul>
+<br><br>
+<h4>Interjections for Grief/Pain ᐅ</h4>
+<p>
+যে interjection বক্তার দ্বারা কোনো দুঃখের বা বেদনাদায়ক ঘটনা ঘটে যাওয়ার জন্য তীব্র দুঃখের বা বেদনার অনুভূতি বোঝায় তাকে interjection for grief/pain বলে ।</p>
+<card>Alas!, Oh!, Ouch!, Ah!, etc. are some interjections for grief/pain.
+</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>Ah! We have lost the game.</li>
+ <li>Alas! He died yesterday.</li>
+ <li>Ouch! I hurt my knee.</li>
+</ul>
+<br><br>
+<h4>Interjections for Attention ᐅ</h4>
+<p>যে interjection বক্তার দ্বারা কোনোকিছুর প্রতি শ্রোতাদের দৃষ্টি আকর্ষণ করা বোঝায় তাকে interjection for attention  বলে ।</p>
+<card>Listen!, Look!, Behold!, Hush!, etc. are some interjections for attention.</card>
+<h5>Examples ᐅ</h5>
+<ul>
+ <li>Listen! I am warning you for the last time.
+</li>
+ <li>Look! The singer is coming.
+</li>
+ <li>Hush! Someone is there.
+</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

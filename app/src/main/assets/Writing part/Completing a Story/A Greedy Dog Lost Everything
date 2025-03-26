@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Greedy Dog Lost Everything";
+  var text = `Once there was a greedy dog. One day he stole a piece of meat from a farmer’s kitchen. Taking it in his mouth he started to run away from the place. While he was running with it, on the way he had to cross a bridge over a small stream. While he was near about the middle of the bridge, he looked down and saw his own reflection in the water below. He thought it must be another dog with another piece of meat in its mouth. He was very greedy. So he wished to have that piece of meat also. He jumped into the water with a loud bark. As soon as he opened his mouth. the piece of meat dropped from his mouth and was taken away by the current of the stream. Thus the greedy dog lost his own piece of meat.<br><br><b>Moral</b> ᐅ Don’t be Greedy.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

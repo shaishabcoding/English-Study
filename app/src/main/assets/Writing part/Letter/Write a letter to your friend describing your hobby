@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing your hobby`;
+  var body = `My dear Jisa,<br><br>
+Your letter is just to hand. You have wanted to know about my hobby. Today I am writing to you about my hobby. My hobby is gardening. I am giving you a short description of my garden.
+<br>
+My garden is in front of my reading room. I work in my garden in the morning and evening. I make the soil loose with a spade and weed out the grass. I water the garden regularly and nurse the plant with care. There are many flowers in my garden. Among them the roses, the sunflowers, the marigold and champa are most prominent. My garden is of a source of pleasure to me. I feel happy when the flowers bloom and I can give more attention to my studies.
+<br>
+No more today. Waiting to hear from you, of late. Think you are well by the grace of Allah.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

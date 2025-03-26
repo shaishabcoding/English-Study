@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p id="title"></p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  "Myself","Doctor"
+];
+const title = `<i>Question ᐅ</i> Suppose, your exam is knocking at the door.You need to work hard but you are suffering from fever / various physical problems. Now, write a dialogue » <b>between you and a doctor</b>. «`;
+ const data = [
+  "May I come in, doctor?",
+  "Please do.",
+  "Can I have a seat?",
+  "Of course, well, what's your problem?",
+  "My examination is knocking at the door. But I am suffering from various phyical problem. So I am anxious about my health.",
+  "Ok, let ine feel your pulse, measure temparature and blood pressure.",
+  "Please check me thoroughly.",
+  "Ok, I am checking, No, you don't have any problem.",
+  "I really feel sick.",
+  "It's all your nervousness. As you are an examinee, you are getting much worried about it. That's why you feel sick.",
+  "May be.",
+  "Yes, you're all right. It is for your over work and anxiety for the exam.",
+  "Really!",
+  "Yeah, Take light exercise regularly, eat balanced diet and take proper rest and sleep.",
+  "Ok, doctor. I'll follow your advices.",
+  "Thank you.",
+  "Thanks to you too."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

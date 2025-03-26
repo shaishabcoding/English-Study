@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-11 ᐅ </b>
+  ‘Since’ conjunction দ্বারা দুটি clause যুক্ত হলে since-এর আগের clause-টি present indefinite বা present perfect হলে এবং since-এর পরের clause-এর bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর past indefinite tense.
+  <br><br>
+  কিন্তু যদি since-এর আগের clause-টিই past indefinite হয় তখন since-এর পরের clause-এর bracket-এর মধ্যকার <i>verb</i>-টি <i>verb</i>-এর past perfect tense.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Many years have passed since he (retire) from his job. – Many years have passed <b>since</b> he <i>retired</i> from his job.</li>
+  <li>It is many years since I (see) you. – It is many years <b>since</b> I <i>saw</i> you.</li>
+  <li>A good many years have passed since his father (die). – A good many years have passed <b>since</b> his father <i>died</i>.</li>
+  <li>It was long since I (see) Rahima last. – It was long <b>since</b> I <i>had seen</i> Rahima last.</li>
+  <li>It was many years since we first (meet). – It was many years <b>since</b> we had first <i>met</i>.</li>
+  <li>Many years (pass) since his father died. – Many years <i>have passed</i> <b>since</b> his father died.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-12 ᐅ </b>
+  বাক্যের ‘since clause’-টি যদি কোন কারন বর্ণনা করে, এবং অপর clause-টি যদি উক্ত কারনের ফল (result) বর্ণনা করে, তবে ‘since clause’-এর verb-টি যে tense-এ থাকবে result clause-টিও সেই একই tense-এ হবে।
+<br><br>
+একইভাবে, বাক্যের ‘as clause’ অথবা ’because clause‘-টি যদি কোন কারন বর্ণনা করে, এবং অপর clause-টি যদি উক্ত কারনের ফল (result) বর্ণনা করে, তবে ‘as clause/because clause’-এর verb-টি যে tense-এ থাকবে result clause-টির verb-টিও সাধারনত: সেই একই tense-এ হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Rahim (to pass) the examination since he did not study. – Rahim <i>did not pass</i> the examination <b>since</b> he did not study.</li>
+  <li>As Rahim did not study, he (not pass) the examination. – <b>As</b> Rahim did not study, he <i>did not pass</i> the examination.</li>
+  <li>Since Rahim was tired, he (take) a break to take some rest. – <b>Since</b> Rahim was tired, he <i>took</i> a break to take some rest.</li>
+  <li>Rahim could not come to the class because he (be) ill. – Rahim could not come to the class <b>because</b> he <i>was</i> ill.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-13 ᐅ </b>
+  Main clause-টি future indefinite tense-এ থাকলে subordinate clause-এর when, until, as soon as, before এবং after-যুক্ত clause-টি present indefinite tense-এ হবে।
+<br><br>
+অন্য কথায় subordinate clause-এর when, until, as soon as, before এবং after-যুক্ত clause-টি present indefinite tense-এ থাকলে main clause-টি future indefinite tense-এ হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Rahim will stay there until you (come). – Rahim will stay there <b>until</b> you <i>come</i>.</li>
+  <li>Rahim (stay) there until you come. – Rahim <i>will stay</i> there <b>until</b> you come.</li>
+  <li>I (come) and see you when I have time. – I <i>will come</i> and see you <b>when</b> I have time.</li>
+  <li>They (not go) there until the sun rises. – They <i>will not go</i> there <b>until</b> the sun rises.</li>
+  <li>I (give) you a phone call as soon as I reach Dhaka. – I <i>will give</i> you a phone call <b>as soon as</b> I reach Dhaka.</li>
+  <li>I (give) you a phone call before I leave Dhaka. – I <i>will give</i> you a phone call <b>before</b> I leave Dhaka.</li>
+  <li>We shall go as soon as you (be) ready. – We shall go <b>as soon as</b> you <i>are</i> ready.</li>
+ </ol>
+ <p>অনেক সময় main clause-এ must+verb, should+ verb, don’t+verb, can’t+verb, won’t/will not+ verb, let’s+verb প্রভৃতি থাকতে পারে। এক্ষেত্রেও subordinate clause-এর when, until, as soon as, before এবং after-যুক্ত clause-টি present indefinite tense-এ হবে।
+</p>
+<ol>
+ <li>Car drivers must wait until the signal light (change) to green. – Car drivers must wait until the signal light <i>changes</i> to green.</li>
+ <li>Don’t speak loudly when you (be) in the hospital. – Don’t speak loudly when you <i>are</i> in the hospital.</li>
+ <li>Let’s go to the coffee shop when our class (be) over. – Let’s go to the coffee shop when our class <i>is</i> over.</li>
+ <li>You (not move) from here until he gets back. – You <i>should not move</i> from here until he gets back.</li>
+ <li>He won’t express his personal opinion until he (know) the facts. – He won’t express his personal opinion until he <i>knows</i> the facts.</li>
+</ol>
+ <hr>
+ <p>
+  <b>Rule-14 ᐅ </b>
+  No sooner had…………………than………… ……অথবা scarcely had ……… when…………..কিংবা hardly had………………..when……………….. দ্বারা গঠিত বাক্যগুলিতে দুটি বাকাংশ থাকে। এক্ষেত্রে প্রথম বাকাংশটির verb সাধারনত: past perfect tense-এ থাকে। এই বাকাংশের subject-কে সাহায্যকারী ও মূল verb-এর মধ্যে রাখতে হয়।
+
+<br><br>
+
+পরের বাকাংশটি যা than কিংবা when দ্বারা আরম্ভ হয়, তা past indefinite tense-এ হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>No sooner had I received his phone call than I (go) to help him. – No sooner had I received his phone call than I <i>went</i> to help him.</li>
+  <li>No sooner I (receive) his phone call than I went to help him. – No sooner <i>had</i> I <i>received</i> his phone call than I went to help him.</li>
+  <li>Scarcely had I reached the station when the train (leave) the station. – Scarcely had I reached the station when the train <i>left</i> the station.</li>
+  <li>Hardly had I reached home when he (call) me. – Hardly had I reached home when he <i>called</i> me.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-15 ᐅ </b>
+  Admit, advise, appreciate, begin, complete, consider, delay, deny, discuss, enjoy, finish, feel, feel like, like, mind, miss, practise, quit, recall, recommend, risk, stop, suggest, tolerate, understand, worth প্রভৃতি verb-এর পরপরই যদি bracket-এ verb দেয়া থাকে, তবে তার রুপ হবে verb-এর -ing.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Would you mind (have) a cup of coffee? – Would you mind <i>having</i> a cup of coffee?</li>
+  <li>The doctor suggested/advised (drink) milk twice a day. – The doctor suggested <i>drinking</i> milk twice a day.</li>
+  <li>We enjoyed (talk) with your friend. – We enjoyed <i>talking</i> with your friend.</li>
+  <li>Rahim completed (write) an essay on his favorite poet. – Rahim completed <i>writing</i> an essay on his favorite poet.</li>
+  <li>I miss (watch) the news when I am away from home. – I miss <i>watching</i> the news when I am away from home.</li>
+  <li>He began (learn) English when he was five. – He began <i>learning</i> English when he was five.</li>
+  <li>We wouldn’t mind (wait). – We wouldn’t mind <i>waiting</i>.</li>
+ </ol>
+ <p>
+  এছাড়াও মনে রাখতে হবে যে, যে কোন verb-এর পরপরই যদি bracket-এ কোন verb word দেয়া থাকে, তবে তার রুপ হবে verb-এর -ing.
+ </p>
+ <ol>
+  <li>The boys came (run) to meet us. The boys came <i>running</i> to meet us.</li>
+  <li>He lay (smile) at me. He lay <i>smiling</i> at me.</li>
+  <li>Do you like go (sing)? Do you like go <i>singing</i>?</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

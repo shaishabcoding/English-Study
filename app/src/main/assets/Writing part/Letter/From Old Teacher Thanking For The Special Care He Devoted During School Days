@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `From Old Teacher Thanking For The Special Care He Devoted During School Days`;
+  var body = `Examination hail,<br>
+Chittagong.<br>
+22 January 2023
+<br><br>
+Reverent Jafari,<br>
+I am obliged to put into words my feelings of obligation, reverence and affection for you, out of the deep gratitude I have for you. During my stay at the hotel you showed special interest in my welfare, my academic progress and character building.<br>
+I acknowledge that what I am to-day it is all due to your kind guidance and â€˜instructions. Had you not been slightly, strict, sometimes, I would have gone astray, It was your strict watch and special care that I refrained from making friendship with bad boys. Your strict maintenance of discipline made me a well disciplined man and I am proud of having been a disciple of yours.
+Respected sir, I cannot forget the love, the sincerity and the warmth you had for your students. Your smiling face, your sweet soft tone, your lovable method of guidance, your fatherly concern for us are the things I shall bear in my heart for ever. Words fail to express my feelings of the deep gratitude, the never dying affection, the never remitting feeling of obligation and the never abating warmth I have for you.
+<br><br>l am,
+<br>
+Yours most obedient pupil,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Of Protest To A Neighbour Who Keeps His Radio On Even After Mid-night`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+Dear Mr. Shahnawaz,<br>
+I am really very sorry to have to write this letter to you. I am sure, however, that you will not misunderstand me. You have always been a kind and considerate neighbor to us. <br>
+I am busy preparing myself for the coming annual examination. The high sound of your radio set up to the late hours of night disturbs me. I cannot concentrate on my books. Perhaps, you are not aware of the unusual loudness of your set. I should be greatly obliged if you tone down your set in such a way that you may easily listen to it and at the same time leave me to read in peace. <br>
+With kind regards.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

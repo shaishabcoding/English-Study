@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[DB-16;RB-17;BB-17]"
+  var title = "Nobody believes a liar";
+  var text = `Once there lived a cowboy in a village. He used to graze cattle near a forest. It was not very far away from his vllage. Besides his usual duty, he sang and played the flute.But the boy hada bad habit. He used to tell lies just to make fun. One day he wanted to make fun with the villagers. So, he began to shout, “Wolf! Wolf Help! Help!” The villagers heard the cry. They would corme running to help him. Then the cowboy would begin to laugh and say that he only made fun with them. Being disgusted the people would go back. At last the annoyed men went away saying, “If the rascal cries out again, we won't go for his help.” One day a tiger really came and the boy cried out, “Wolf! Wolf! Please help me!” The people heard him shouting but they did not come. They thought that the boy was again playing his trick to make joke with them. The tiger fell upon his cows and killed many of them. At last, it fell upon the boy and tore him into pieces.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

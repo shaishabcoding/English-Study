@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Noun</b> ᐅ
+  যে word দ্বারা কোন কিছুর নাম প্রকাশ করা হয় তাকেই noun বলে । আমাদের চোখের সামনে যা দেখি সেগুলোর নামকেই noun বলে। এটি দ্বারা কোন ব্যক্তি, বস্তু, প্রাণী ,স্থান ,ঘটনা ইত্যাদির নাম বোঝায়। যেমন ᐅ
+ </p>
+ <ul>
+  <li>Karim does not like to go to school. এই বাক্যে Karim একজন ব্যক্তির নাম।</li>
+  <li>Kuwait is a Muslim country. এখানে কুয়েত একটি দেশের নাম।</li>
+  <li>Diamond is very valuable. ডায়মন্ড একটি বস্তুর নাম।</li>
+ </ul>
+ <p>Noun এর প্রকারভেদ ᐅ</p>
+ <ul>
+  <li>Proper Noun (নাম বাচক বিশেষ্য)</li>
+  <li>Common Noun (জাতিবাচক বিশেষ্য)</li>
+  <li>Collective Noun (সমষ্টিবাচক বিশেষ্য)</li>
+  <li>Material Noun (বস্তুবাচক বিশেষ্য)</li>
+  <li>Abstract Noun (গুণবাচক বিশেষ্য)</li>
+ </ul>
+ <br>
+ <p>
+  <b>Proper Noun</b> ᐅ
+  যে Noun দ্বারা কোন নির্দিষ্ট ব্যক্তি, বস্তু বা স্থানের নাম বোঝায় তাকে Proper Noun বলে। যেমন ᐅ
+ </p>
+ <ul>
+  <li>I like the story of Shakespeare. (Shakespeare নির্দিষ্ট একজন ব্যক্তির নাম)</li>
+  <li>We planned to visit Sylhet. ( Sylhet নির্দিষ্ট একটি জায়গার নাম)</li>
+  <li>Have you ever seen the Tajmahal? (Tajmahal একটি স্থাপনার নাম)</li>
+ </ul>
+ <br>
+ <p>
+  <b>Common Noun</b> ᐅ
+  যে Noun দ্বারা একই জাতীয় কোন ব্যক্তি, বস্তু বা প্রাণীকে নির্দিষ্ট করে না বুঝিয়ে সে জাতীয় সকলকে একসাথে বুঝায় তাকেই Common Noun বলে । যেমন ᐅ
+ </p>
+ <ul>
+  <li>Alex is a student. (Student দ্বারা সকল ছাত্র-ছাত্রীদেরকেই বুঝানো হয়েছে। নির্দিষ্ট কোন ছাত্র কিংবা ছাত্রী কে আলাদা করে বুঝায়নি)</li>
+ </ul>
+ <br>
+ <p>
+  <b>Collective Noun</b> ᐅ
+  Collective Noun দ্বারা কোন ব্যক্তি, বস্তু বা প্রাণীর সমষ্টি কে বুঝায়। যেমন ᐅ
+ </p>
+ <ul>
+  <li>Our class took a trip to Sundarbans.</li>
+  <li>Bangladeshi Army is doing a great job in UN mission.
+</li>
+  <li>Each team contains eleven players.</li>
+ </ul>
+ <br>
+ <p>
+  <b>Material Noun</b> ᐅ
+  যে Noun দ্বারা ওজন আছে কিন্তু গণনা করা যায় না এমন কিছুর নাম বোঝায় তাকেই Material Noun বলে। যেমন ᐅ
+ </p>
+<ul>
+ <li>You can purchase a <b>gold</b> ring for your sister.</li>
+ <li>We may attain <b>salt</b> from sea-water.
+</li>
+ <li><b>Cotton</b> dress is my favorite.
+</li>
+</ul>
+<br>
+<p>
+ <b>Abstract Noun</b> ᐅ
+ যে Noun দ্বারা কোন ব্যক্তি কিংবা বস্তুর গুণ, কাজের নাম কিংবা অবস্থা প্রকাশ করা হয় তাকে Abstract Noun বলে। যেমন ᐅ
+</p>
+<ul>
+ <li>My <b>love</b> for you cannot be measured.
+</li>
+ <li>His <b>kindness</b> is his real beauty.</li>
+ <li>Her <b>beauty</b> makes me crazy.</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

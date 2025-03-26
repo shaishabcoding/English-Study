@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Brother Advising To Prepare For The Civil Service Examination`;
+  var body = `
+23 January 2023 <br>
+Noakhali <br><br>
+My dear Amir,<br>
+I am over joked to learn that you have secured first class in your M.S.C exam mat ion. White congratulating on your achievement and appreciating the hard work you have done in this respect, I shall advise you to plan for your future. Brilliant and diligent as you arc, I shall advise you to start your preparations for the service examination earnestly right now so that you are completely ready for the examination when it is held.
+As regards books needed for your preparations you can borrow most of them from Liquet Public Library. In case, you need to purchase some books,
+I shall send you necessary money when you ask for it.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

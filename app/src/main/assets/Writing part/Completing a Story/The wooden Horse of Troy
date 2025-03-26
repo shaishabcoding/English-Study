@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The wooden Horse of Troy";
+  var text = `Long long ago Helen was the princess of Greece. She was a beautiful of Greece. She was kidnapped buy the prince of Troy.
+
+<br>
+On this issue a war broke out between the Greeks and the Trojans. The Greek soldiers advanced to Troy on ships. They wanted to enter the city. But it was impossible as it was well protected by a strong wall. So the fighting was going on outside the wall for years together. 
+<br>
+
+After ten years the Greek lost, their patience and got tired. The soldiers were unwilling to stay any longer. At last they hit upon a trick to enter the city. They built a wooden horse. Some best soldiers were put into the body of the horse. The Greeks left the war field leaving the wooden horse. The Trojans came out of the four walls of the city, saw the horse and took it into the city. While the Trojans were in deep sleep at night, the soldiers came out of the body of the horse and opened the gate of the city. The waiting Greek soldiers entered the city and attacked the Trojans. They began to kill the Trojans. Most of the people of Troy were killed and Helen was rescued. Before leaving the city the Greeks set it on fire.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

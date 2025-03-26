@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Judgment of King Solomon";
+  var text = `Once two quarrelling women came to King Solomon with a baby. Each of them claimed to be the child’s mother. Solomon asked them different questions to decide the dispute but it came to nothing. Finding no other way to solve the problem Solomon ordered to cut the child in two halves. An executioner was sent for. Solomon said to the executioner, “Cut the child in two equal halves and then give one half to each of them. On hearing the order one of the women began to wail. Throwing herself at the feet of the King she said, “Pleas, don’t cut the baby, give the child alive to the other woman. I don’t claim the child. The other woman remained silent. So, King Solomon could make out who the real mother was and handed over the child to the wailing woman who was the real mother. The false mother was duly punished.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

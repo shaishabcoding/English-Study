@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `One-year anniversary love letter`;
+  var body = `Nasreen <br>
+Banskhali,Chattogram <br>
+PC-Banigram,PS-Banskhali
+
+<br><br>
+Dear Nasreen,<br>
+Today is a special day for the both of us, and I can't wait to spend the whole day with you.
+<br>
+Happy one year anniversary, my love. I just want you to know that I appreciate the patience and unselfishness you have shown since the day that we got together.
+<br>
+You have shown to me how lucky I am to have you in my life.
+<br>
+I love you even more today, and I am sure that my feelings for you will stay for the rest of my life.
+<br><br>
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

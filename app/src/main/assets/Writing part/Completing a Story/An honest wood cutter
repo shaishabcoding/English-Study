@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An honest wood cutter";
+  var text = `Then a wonderful thing happened. The river goddess appeared before him. She asked him why he was crying. The wood cutter told her everything. The river goddess took pity on him. She went in to the river and came back with a “golden axe”. She asked him if it was his axe. The wood cutter replied in the negative. Then she again went in to the water and returned with a silver one. This time also the wood cutter refused to take it.
+
+<br>
+Finally she brought the axe of the wood cutter. The wood cutter was delighted to get back his iron axe. The river goddess became pleased with the wood cutter and gives him the two other valuable axes as reward.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

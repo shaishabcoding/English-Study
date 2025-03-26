@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Scholar and the Boatman";
+  var text = `Once a flippant scholar was going to a place by boat, it was the beginning of the summer season. The boatman set sail and the boat was advancing smoothly. The scholar said to the boatman, “Did you read history?” The boatman said No The scholar told him that without any knowledge of history one-fourth of his life was spoilt. He looked at the beautiful scenery and asked again whether he had read geography. As usual, the reply of the boatman was in the ‘negative. This time the scholar said that one half of the boatman’s life was spoilt. Then they were silent for some time It was afternoon. The scholar broke the silence and said .to the boatman, “Do you know anything about science?”‘ Nothing does. I know of science”, was the answer to the boatman. The scholar said to him that his life was of no use. Three-fourths of his life was spoilt: Hearing this the boatman remained silent. All on a sudden the sky became covered with dark clouds. The ‘kalboishakhr began to blow in the form of a storm. The scholar was very much frightened. This time the boatman said to him, “Sir, do you know how to swim?” The scholar replied in the negative ‘ in a pitiful voice. The boatman said, “The boat is going to sink. Now I see, the whole of your life is spoiled. Your bookish knowledge is of no use.”`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

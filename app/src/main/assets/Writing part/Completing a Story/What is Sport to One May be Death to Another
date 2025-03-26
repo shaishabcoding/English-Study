@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "What is Sport to One May be Death to Another";
+  var text = `There was a pond full of frogs. Some of them often put their heads out of the water croaked loudly. One day some boys were playing by the side of the pond. When they heard the frogs croaking they began to throw stones as a part of their play. Even they got much pleasure from it. Being injured all the frogs at once went down into the water. But the boy did not leave the place. They remained unmoving. When the frogs raised their heads above the water level, the boys again started to throw the stones. Thus many frogs were hit hard and few were killed instantly. At last an old frog raised its head and said, Oh boy! Please stop the cruel fun. Don’t throw stones to us. It’s just a play and we are enjoying it much, said the boys, Why should we stop it? What is sport to you is death to us. This is why, you should stop it, answer the old frog. The boys were ashamed of this. They went the cruel and went away.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Consoling Him or Her For His or Her Failure In The Examination`;
+  var body = `My dear Nila, <br><br>
+The news of your failure came to me like a bolt from the blue. You never got plucked in any examination before. However, past is past. Don’t brood over the matter. Failures are the pillars of success, you know well. Please keep in mind that examination is a chance and result depends on luck in many cases. Even the meritorious students sometimes cut a sorry figure in the examination. Do you know that Keshab Chandra Nag, the great mathematician, cut a sorry figure in the examination once? Be optimistic in the days to come and success will be yours. Try and you will succeed. I think you have not forgotten the story of Robert Bruce who succeeded in regaining his kingdom even after his six consecutive defeats in the hands of his enemies. So be up and doing from today with an oath to succeed and you will surely come out successful with flying colours.
+<br>
+With best wishes to you and best regards to uncle and aunt.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

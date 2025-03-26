@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing a street accident`;
+  var body = `My dear Nusrat, <br><br>
+It is with a heavy heart that I write a few lines about an accident which happened just before my eyes.Last Monday at 10 a.m. a little boy was crossing the road near our school.A bus was coming with full speed.It ran over the boy.The boy died on the spot.A large crowded gathered there.I could not bear it and left the place.
+<br>
+
+No more today.Be careful while moving the streets.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

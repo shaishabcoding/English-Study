@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main2.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">ইংরেজিতে ১০ প্রকার হাসি</div>
+  <div id="data"></div>
+  <script>
+    var data = [["Smile","মৃদু হাসি"], ["Laugh","শব্দ করে হাসা"], ["Titter","মূর্খ হাসি"], ["Chuckle","মুখ টিপে হাসা"], ["Simper","বোকা হাসি"], ["Guffaw","অট্টহাসি"], ["Grin","দাঁত বের করে হাসা"], ["Snigger","চাপা হাসি"], ["Snort","হো হো করে হাসা"], ["Giggle","ফিকফিক করে হাসা"]]
+  </script>
+</body>
+</html>

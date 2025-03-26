@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Future Indefinite Tense ᐅ </b>
+  ভবিষ্যতে কোন কাজ ঘটবে এরূপ বোঝালে Future indefinite tense
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+  বাংলায় ক্রিয়ার শেষে বে, ব, বা, বি, বেন এদের যে কোন একটি উল্লেখ থাকে।
+ </p>
+ <p>
+  <b>Structure ᐅ </b>
+  Subject + shall/will + verb + object
+ </p>
+ <card>Subject-এর পর person ও number অনুসারে shall বা will বসে এবং মূল verb-এর present form ব্যবহৃত হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি কাজটি করিব- I will/shall do the work.</li>
+  <li>তারা কাজটি করিবে- They will/shall do the work.</li>
+  <li>আমি বিদ্যালয়ে যাব(যাবই)- I shall go to the school.</li>
+  <li>সে বিদ্যালয়ে যাবে(যাবেই)- He will go to the school.</li>
+  <li>তারা বাজারে যাইবে(যাবে) – They will go to the market.</li>
+ </ol>
+ <p>
+  <b>Note ᐅ </b>
+  সাধারনত 1st person এর পর shall বসে। এছাড়া অন্য সব ক্ষেত্রে will বসালেও চলবে।
+ </p>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

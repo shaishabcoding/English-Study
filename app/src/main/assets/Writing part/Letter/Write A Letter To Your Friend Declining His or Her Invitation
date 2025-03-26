@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Declining His or Her Invitation`;
+  var body = `My dear Nila,<br><br>
+Your sweet note has just kissed my hands. Thank you very much for your invitation. I am very glad to learn that you have invited me to attend your fifteenth birthday party. But bad luck for me, I cannot attend your birthday party. My father is out of station. He is away on a piece of urgent business for an indefinite period of time. On the other hand, my mother is seriously ill and almost bed-ridden. There is none to look after her except me. So I have to look after her round the clock. God knows when she will come round. So it is practically impossible on my part to comply with your invitation. Hope you would not misunderstand me. Happy birthday to you. Many happy returns of the day. I am parceling you a gift. Please acknowledge its receipt.
+<br>
+Tender my best compliments to uncle and aunt. With best wishes to you and love to Tukai.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

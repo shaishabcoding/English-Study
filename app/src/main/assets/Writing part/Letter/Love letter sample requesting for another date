@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter sample requesting for another date`;
+  var body = `Dear Nasreen,<br>
+Who knew that laser tag could be so much fun! I certainly didn't until you took me there during our date the other day. I must admit that I was a little tentative when you told me that we were heading there first before drinks. No one has ever brought me to something like that on a date before. But after a few rounds, I was so happy that you did! I totally appreciate your effort and confidence to break the usual dating tradition. I know that I enjoyed running around the course more than I would have if we just sat down to a regular dinner.
+<br>
+
+I think out of all your fantastic traits. I like the fact that you approach the whole dating scene so differently the most. I honestly would not have tried laser tag at all if it hadn't been for you. And if that happened, I wouldn't have been introduced to something so different, yet so enjoyable. I like that you take me places that I've never been before. With you, it's always exciting and every moment is such a breath of fresh air.
+<br>
+
+I hope that I get to spend time with you again soon. How about I cook dinner for you this weekend? I remember you saying that you love Italian food, and I hope to satisfy your taste buds by serving you my version of Pasta Alfredo. All my friends love it, and I hope you'll enjoy it too. Let me know if you're available.
+<br><br>
+
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <h4>Answer the following questions to write a paragraph on ‘Paharpur’. You should write it in about 250 words ᐅ</h4>
+ <ol type="a">
+  <li>What is the Paharpur monastery?</li>
+  <li>What does it consist of?</li>
+  <li>How many cells are there in each direction of the central block?</li>
+  <li>How many floors have been discovered in the monastic cell?</li>
+  <li>What are the sizes of the floor?</li>
+ </ol>
+ <br><br>
+ <h3><center>Paharpur</center></h3>
+ 
+ <p>The entire establishment ( Paharpur monastery ), occupying a quadrangular court, has high enclosure walls, about 5m in thickness and from 3.6m to 4.5m in height. Though the walls are not preserved to a very great height, from their thickness and massiveness, it can be assumed that the structure was storied commensurate with the lofty central shrine. In plan, it consists of rows of cells, each approximately 4.26x4.11m in the area, all connected by a spacious veranda about 2.43 to 2.74m wide, running continuously all around, and approached from the inner courtyard by a flight of steps provided in the middle of each the four sides. There are in all 177 cells, excluding the cells of the central block in each direction; 45 cells on the north and 44 on each of the other three sides. The central block on the east, west, and south sides is marked by a projection in the exterior wall and contains three cells and passage around them, while in the north, there stands a spacious hall. In monastic cell No. 96, three floors have been discovered. Here the level of the last one (upper) is within 30cm from ground level that of the second 1m, while the third (lowest) is about 1.5m from the surface. It appears that this sequence has been generalized in all the monastery cells.
+</p>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

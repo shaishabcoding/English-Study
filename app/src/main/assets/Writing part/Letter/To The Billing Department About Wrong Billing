@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To The Billing Department About Wrong Billing`;
+  var body = `VIE 1/3,<br>
+Nasirabad,<br>
+Chittagong.<br>
+22 January 2023<br>
+The Superintendent,<br>
+Billing Department,<br>
+Chittagong Gas Company,
+<br><br>
+Dear Sir.<br>
+Re: Meter No.334496967<br><br>
+The upper portion of the house where the above meter is installed has been vacant for the last two years and nobody uses the gas. Inspire of this you have been sending me exorbitant bills and I have been paying the same. You may recall that last month T called on you and requested you to disconnect the meter but you told me that even then I would have to pay minimum charges of Rs.451- per month up to the dooms day, as required by your rules and regulations.<br>
+Actually I fail to understand your rules and regulations. Why should one pay you when one is got one’s meter disconnected and does not use the gas. Is your company there to suck blood like leeches. You are requested to disconnect the meter immediately and stop sending me further bills.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

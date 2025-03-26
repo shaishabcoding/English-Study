@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Verb</b> ᐅ
+  যে শব্দ দ্বারা কোন প্রকার কাজ করা/হওয়া বুঝায় তাকেই Verb বলে। যেমন, go, eat, sleep, buy, sell, walk, run, see, play, write, give etc.
+<br>
+Verb কে ইংরেজি sentence এর হৃদয় বলা হয়। Verb ছাড়া কোন sentence গঠন করা সম্ভব নয়। যেমন ᐅ
+ </p>
+ <ul>
+  <li>We <b>play</b> cricket.</li>
+  <li>He <b>writes</b> a letter.</li>
+  <li>He <b>gave</b> me a glass of water.</li>
+ </ul>
+ <br>
+ <p>
+  <b>Finite Verb</b> ᐅ
+  Finite Verb বাক্যের প্রধান verb হতে পারে এবং বাক্য গঠনের ক্ষেত্রে subject এর number এবং person এর সাহায্যে এই verb এর form নির্ধারণ করা হয়।
+ </p>
+ <ul>
+  <li>Afroza <b>works</b> in a bank.</li>
+ </ul>
+ <br>
+ <p>
+  <b>Non-finite Verb</b> ᐅ
+  Non-finite verb কখনো main verb হতে পারে না। Non-finite verb বাক্যে সাধারণত adjective অথবা adverb হিসেবে কাজ করে কিন্তু verb হিসেবে নয়। 
+ </p>
+ <ul>
+  <li>I saw the man <b>running</b> away.</li>
+ </ul>
+ <ol>
+  <li><b>Infinitives</b> ᐅ to do, to eat, to drink, to dance</li>
+  <li><b>Participles</b> ᐅ doing, done, eating, eaten, drinking, drunk</li>
+  <li><b>Gerunds</b> ᐅ walking, swimming, running</li>
+ </ol>
+ <br>
+ <p>
+  <b>Action verb</b> ᐅ
+  Action verb, Subject এর কাজকে বর্ণনা করে। যেকোন কাজকেই action verb হিসেবে বিবেচনা করা যায়।
+ </p>
+ <ul>
+  <li>I’ll <b>do</b> my work.</li>
+  <li>She <b>watches</b> TV.</li>
+ </ul>
+ <br>
+ <p>
+  <b>Transitive Verb</b> ᐅ
+  Transitive verb সবসময় একটি direct object দাবি করে। Direct object না আসলে যে বাক্যটি অসুম্পূর্ন মনে হয়, সেই বাক্যে transitive verb ব্যবহৃত হয়। যেমন ᐅ
+ </p>
+ <ul>
+  <li>He is watching (এখানে, টেলিভিশন একটি direct object. এটি ছাড়া বাক্য অসুম্পূর্ন।)</li>
+  <li>I saw a (এখানে, Tiger একটি object.)</li>
+ </ul>
+ <br>
+ <p>
+  <b>Intransitive Verb</b> ᐅ
+  Intransitive verb এর কোন object প্রয়োজন হয় না। তারা নিজে নিজেই বাক্য সম্পূর্ণ করতে পারে।   
+ </p>
+ <ul>
+  <li>He reached.</li>
+  <li>He goes to school.</li>
+ </ul>
+ <br>
+ <p>
+  <b>Linking verbs</b> ᐅ
+  Linking verb সাধারণত ওই সকল verb কে বুঝায় যেগুলো কোন কাজ সম্পন্ন করে না বরং subject এর সাথে বাক্যের বাকি অংশের যোগাযোগ স্থাপন করে। সাধারণত, Be verb গুলো যখন main verb হিসেবে sentence এ ব্যবহৃত হয় তখন সেগুলোকে Linking Verbs বলা যায়। যেমন ᐅ
+ </p>
+<ul>
+ <li>He is a teacher.</li>
+ <li>They have three children.</li>
+</ul>
+<br>
+<p>
+ <b>Auxiliary Verb</b> ᐅ
+ Auxiliary Verb হচ্ছে সাহায্যকারী verb। তারা present participle এবং past participle কে বাক্যে verb হিসেবে কাজ করতে সাহায্য করে। তাদের নিজস্ব কোন সম্পূর্ণ অর্থ না থাকলেও ব্যাকরণগত দিক থেকে বাক্যের গঠণ নির্মানে তাদের গুরুত্বপূর্ণ ভূমিকা রয়েছে।
+</p>
+<br>
+<p>
+ <b>Primary auxiliary</b> ᐅ
+ Have, has, had, having, had not,
+ Do, does, done, to do, did, did not, does not,
+Am, is, are, was, were, be, to be, been, was not, were not । যেমন ᐅ
+</p>
+<ul>
+ <li>He <b>has</b> bought a new car.</li>
+ <li>He <b>does not</b> keep his work for tomorrow.
+</li>
+ <li>He <b>is</b> watching the tournament.</li>
+</ul>
+<br>
+<p>
+ <b>Modal Auxiliary</b> ᐅ
+ Modal Auxiliary সাধারণত মুল verb এর অর্থকে প্রভাবিত করে কিন্তু তারাও সাহায্যকারী verb হিসেবেই বাক্যে ব্যবহৃত হয়।  যেমন ᐅ
+</p>
+<ul>
+ <li>He <b>may</b> come home tomorrow.
+</li>
+ <li>You <b>should not</b> run in the sun.</li>
+ <li>You <b>can</b> take rest now.</li>
+</ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

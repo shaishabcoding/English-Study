@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Self employment is better than unemployment";
+  var text = `Mr Ahmed just completed his graduation. He has not got any job yet. Some of his friends serve in Dhaka. So he came to Dhaka with a hope that his friends would help him in getting a job. His friends received him cordially and managed a room to live in.Besides, they managed a tuition for him and with it he was able to lead his life. But the sorrowful news for him is that he has applied for many jobs and got a few response. One day, he got an interview card from a commercial bank also faced it with success. In afternoon, he got a letter of appointment. He was said to join on the 25th April 2008 as a probationary officer at Mipur Branch.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

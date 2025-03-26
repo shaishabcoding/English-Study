@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your father informing him about your preparation for the ensuring examination`;
+  var body = `My dear father<br><br>
+At first take my salam. I am very glad to receive your letter and I have read it many a time and felt deeply that you are so much anxious of me. I assure you that you need not think so much about my studies. I am preparing very well for the ensuring examination.
+<br>
+Well, you will be delighted to know that I have got G.P.A.-5:00 in test examination. I am sure now you will be proud of me it I can do better in the SSC examaination. I have completed my revision of English, Bengali and elective subjects. Do pray that I can keep your heads high by the grace of Allah.
+<br>
+
+Covey my salam to mother and love to sony. I am eagerly waiting for your next letter. With lots of love.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

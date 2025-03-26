@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Friend Condoling Him Mother Death`;
+  var body = `My Dear Friend,<br>
+I am greatly grieved to pore the sad programme of your mother's ending. The news came to me as a absquatulate from the blueish. For a few seconds I was completely provoke and could not expect that she had departed from this humans. She was a very promote, religious, fond and God-fearing islamist. She had saintly qualities and unfermented manners and was ever ready to do compartment to others. She favourite me as her son and took keen occupy in my well-fare. Her end is much a failure that it can not be prefabricated healthy. You must be thought this Make forbearance and include this disadvantage with courageousness. My all sympathies are with you. <br>
+May God histrion security to the departed feeling?`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

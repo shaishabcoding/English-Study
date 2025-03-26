@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4tBFUQBS2_6pxfKTrtKMPEK9a9Q9bL5RwWQ&usqp=CAU"/></div>
+  <div class="title">The Lion and the Mouse</div>
+  <div class="en">
+Once when a lion, the king of the jungle, was asleep, a little mouse began running up and down on him. This soon awakened the lion, who placed his huge paw on the mouse, and opened his big jaws to swallow him.
+<br><br>
+"Pardon, O King!" cried the little mouse. "Forgive me this time. I shall never repeat it and I shall never forget your kindness. And who knows, I may be able to do you a good turn one of these days!"
+<br><br>
+The lion was so tickled by the idea of the mouse being able to help him that he lifted his paw and let him go.
+<br><br>
+Sometime later, a few hunters captured the lion, and tied him to a tree. After that they went in search of a wagon, to take him to the zoo.
+<br><br>
+Short StoriesJust then the little mouse happened to pass by. On seeing the lion's plight, he ran up to him and gnawed away the ropes that bound him, the king of the jungle.
+<br><br>
+"Was I not right?" said the little mouse, very happy to help the lion.
+<br><br>
+Moral: Small acts of kindness will be rewarded greatly.</div>
+  <div class="title">সিংহ এবং ইদুর</div>
+  <div class="bn">
+ একবার যখন একটি সিংহ, জঙ্গলের রাজা, ঘুমিয়ে ছিল, তখন একটি ছোট ইঁদুর তার উপর ছুটতে শুরু করে।  এটি শীঘ্রই সিংহকে জাগ্রত করে, যে তার বিশাল থাবাটি ইঁদুরের উপর রেখেছিল এবং তাকে গিলে ফেলার জন্য তার বড় চোয়াল খুলেছিল।
+<br><br>
+ "ক্ষমা করো, হে রাজা!"  ছোট ইঁদুর কেঁদেছিল।  "এবার আমাকে ক্ষমা করুন। আমি এটির পুনরাবৃত্তি করব না এবং আমি কখনই আপনার দয়া ভুলব না। এবং কে জানে, আমি এই দিনগুলির মধ্যে একটি ভাল পালা করতে সক্ষম হতে পারি!"
+<br><br>
+ ইঁদুর তাকে সাহায্য করতে পারবে ভেবে সিংহ এতটাই সুড়সুড়ি দিল যে সে তার থাবা তুলে তাকে ছেড়ে দিল।
+<br><br>
+ কিছুক্ষণ পরে, কয়েকজন শিকারী সিংহটিকে ধরে ফেলে এবং একটি গাছের সাথে বেঁধে রাখে।  এর পরে তারা তাকে চিড়িয়াখানায় নিয়ে যাওয়ার জন্য একটি ওয়াগনের সন্ধানে গিয়েছিল।
+<br><br>
+ ছোট গল্প ঠিক তখনই ছোট্ট ইঁদুরটি পাশ দিয়ে চলে গেল।  সিংহের দুর্দশা দেখে, সে তার কাছে ছুটে গেল এবং জঙ্গলের রাজা তাকে বেঁধে রাখা দড়িগুলো কেটে ফেলল।
+<br><br>
+ "আমি কি ঠিক ছিলাম না?"  ছোট ইঁদুর বলল, সিংহকে সাহায্য করতে পেরে খুব খুশি।
+<br><br>
+ নৈতিক: দয়ার ছোট কাজগুলি প্রচুর পুরস্কৃত হবে।</div>
+  <script src="main.js"></script>
+</body>
+</html>

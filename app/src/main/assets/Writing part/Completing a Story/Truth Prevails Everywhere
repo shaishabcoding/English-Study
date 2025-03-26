@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Truth Prevails Everywhere";
+  var text = `Hazrat Abdul Quader was a famous religious figure in Islam. He was born in Jilan in Iraq. His Father died even before his birth. His mother decided to send him to Bagdad with a view to educating him there. At the time of sending him, his mother sewed forty gold coins in his shirt. She advised him never to tell a lie. At that time the roads were unsafe. Looting was very common. The boy left for Bagdad with a caravan of merchants. On the way, a gang of robbers fell upon them. The robbers looted their money. The gang leader said that the boy might not have anything. The boy said that he had forty gold coins with him. The leader became surprised. He said to the boy that he might not have disclosed the fact. The boy said, “Mother told me never to tell a lie.” The robbers felt ashamed and gave up robbery.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

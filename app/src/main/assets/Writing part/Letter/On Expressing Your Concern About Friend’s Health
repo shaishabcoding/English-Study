@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Expressing Your Concern About Friend’s Health`;
+  var body = `My good Irfan,<br>
+I was just arrogated aback when I learnt from Zahid's character that you soul met with an occurrence and been hospitalised. He has not presented any portion nigh your occurrence. I expectation it is not of any sobering nature. We are all too unquiet nearly you. Delight pen in particular nigh the nature of your harm.
+Nevertheless, one is cagy and painstaking in dynamical yet accident is an occurrence. Let mc to swan you that you are too efflorescence in dynamical. Experience and again, I requested you to be diligent but you compensated no attending. Animation is a artful riches and one must ask repair of it. Select strictly the advices of the doctors and interpret place. Be intrepid and play it cheerfully.<br>
+I shall correspond you within a period. I do hope that by that indication you will arise say. Meantime I shall be anxiously waiting for your reply.
+With incomparable wishes,
+<br><br>
+Yours most sincerely,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Issa Khan’s Greatness";
+  var text = `Issa Khan was one of the twelve independent Jamindars of Bengal. He declared independence from the Mughal rule and Sonargoan his capital. As a result Akbar, the Emperor of Delhi sent Shahbaz Khan to punish Issa Khan. Unfortunately he was defeated. Akbar became very furious and sent his greatest general Maan Singh to Bengal. A battle took place near the fort of Egarosindhu. In the battle Maan Singh’s son-in-law was killed. This made him more angry. Instead of causing the death of poor soldiers, Maan Singh invited Issa Khan to fight a duel. Issa Khan gladly accepted the challenge. The duel started. But no one came out successful. In the meantime the sun was about to set. Suddenly the sword of Maan Singh broke in the middle. Issa Khan could easily cut off his head. But he was so noble that he did not take revenge over an unarmed enemy. He offered Maan Singh his own sword and he personally took another sword. Maan Singh was struck with wonder at the nobility and greatness of Issa Khan. He threw down the sword on the ground and bowed Issa Khan. Issa Khan also came forward and embraced Maan Singh. Thus the deadly enemies became friends.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

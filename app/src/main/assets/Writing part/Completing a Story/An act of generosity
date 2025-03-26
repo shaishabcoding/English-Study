@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An act of generosity";
+  var text = `The mistress of the house became very angry and beat her mercilessly. The master came to know the matter. He was moved. One of his friends had a big garments factory in Dhaka. One day he went to Dhaka with Rina and managed a job for her in his friend’s factory. Thus he saved Rina from the inhuman torture of his wife.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On An Order For Stationery To A Firm`;
+  var body = `Messrs. J.D. Golfer and Co.
+City.<br>
+21 January 2023<br>
+<br>
+Gentlemen,<br>
+I possess more feeling in placing with you the surrounded ordination for commentary papers, registers, envelopes, and new real for our college and shall be more obliged if you kind channel the artefact forthwith, so that I may comprehend them before our college re-opens in the freshman period of Lordly after the summer pass. I wish you give train the homophonic cost as quoted by you.
+The defragment leave be prefabricated within a week of the pass of artifact.
+<br><br>
+Yours reliably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

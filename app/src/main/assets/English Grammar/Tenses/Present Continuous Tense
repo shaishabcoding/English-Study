@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <p>
+  <b>Present Continious Tense ᐅ </b>
+  বর্তমানে কোন কাজ চলছে বা নিকট ভবিষ্যতে চলবে এরূপ বোঝালে present continuous tense হয়।
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+  বাংলায় ক্রিয়া বা verb এর শেষে তেছি, তেছ, তেছে, তেছেন, চ্ছ, চ্ছি, চ্ছে, চ্ছেন, ছি, ছেন, ইত্যাদি থাকে।
+ </p>
+ <p>
+  <b>Structure ᐅ </b>
+  Subject + be verb বা Am/is/are (number ও person অনুযায়ী বসবে) + verb + ing + object.
+ </p>
+ <card>Subject-এর পর person ও number অনুসারে am, is, are বসে এবং মূল verb-এর শেষে ing যোগ হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি ভাত খাইতেছি – I am eating rice.</li>
+  <li>আমি স্কুলে যাইতেছি – I am going to school.</li>
+  <li>সে স্কুলে যাইতেছে – He is going to school.</li>
+  <li>তুমি/ তোমরা বই পড়িতেছ – You are reading book.</li>
+  <li>আমি আজ রাতে আংরাইলে যাব – I am going to Angrail tonight.(Near future বা নিকট ভবিষ্যত)</li>
+  <li>আপনি কি আজ বিকালে মীটিং এ আসছেন – Are you coming to the meeting this afternoon? (Near future)</li>
+ </ol>
+ <p>
+  <b>Note ᐅ </b>
+   I এর পর am বসবে। He, She, it এবং অন্যসব third person singular number এর পর is বসবে। We, you, they এবং Plural subject এর শেষে are বসে।
+ </p>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

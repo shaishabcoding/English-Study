@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiab8bIKUVsZEIWPMyUloh_YIoNjq2PJfhAg&usqp=CAU"/></div>
+  <div class="title">The Fox and the Grapes</div>
+  <div class="en">
+One afternoon, a fox was walking through the forest and spotted a bunch of grapes hanging from a lofty branch. "Just the thing to quench my thirst," said the fox.
+<br><br>
+Taking a few steps back, the fox jumped and just missed the hanging grapes. Again, the fox took a few paces back and tried to reach them, but still failed.
+<br><br>
+Short StoriesFinally, giving up, the fox turned up his nose and said, "They're probably sour anyway." Then he walked away.
+<br><br>
+Moral: It's Easy To Despise What You Cannot Have.
+<br><br>
+A note about the story<br>
+The 'Fox and the Grapes' is often cited as an example for cognitive dissonance: the discomfort people experience when their beliefs/actions are at odds with other beliefs/actions. In the story, the fox sees some grapes on a vine and wants to eat them. He tries to jump up, but cannot reach them because they are too high. When he realizes he will not be able to eat any grapes, the fox becomes disdainful; he tells himself that those grapes were sour and not worthy of desire anyway.
+<br><br>
+Psychologist and teacher Leon Festinger pointed out in 1957, that often, people hold two conflicting beliefs, or they believe one thing but do something that is against that belief. The resulting cognitive dissonance is psychologically distressful, and we often try to alleviate it by justifying our actions or changing our beliefs. Either way, the goal is to get our beliefs and actions in line with each other.</div>
+  <div class="title">শিয়াল এবং আঙ্গুর</div>
+  <div class="bn">
+ একদিন বিকেলে, একটি শিয়াল বনের মধ্য দিয়ে হাঁটছিল এবং একটি উঁচু ডালে ঝুলন্ত আঙ্গুরের গুচ্ছ দেখতে পেল।  "শুধু আমার তৃষ্ণা নিবারণের জিনিস," শিয়াল বলল।
+<br><br>
+ কয়েক কদম পিছিয়ে গিয়ে শেয়াল লাফ দিয়ে ঝুলন্ত আঙ্গুর মিস করল।  আবার, শিয়াল কয়েক গতি পিছিয়ে তাদের কাছে পৌঁছানোর চেষ্টা করেছিল, কিন্তু তবুও ব্যর্থ হয়েছিল।
+<br><br>
+ ছোট গল্প অবশেষে, হাল ছেড়ে দিয়ে, শেয়াল তার নাক ঘুরিয়ে বলল, "তারা সম্ভবত টক।"  তারপর সে চলে গেল।
+<br><br>
+ নৈতিক: আপনার কাছে যা নেই তা তুচ্ছ করা সহজ।
+<br><br>
+ গল্প সম্পর্কে একটি নোট<br>
+ 'ফক্স অ্যান্ড দ্য গ্রেপস' প্রায়শই জ্ঞানীয় অসঙ্গতির উদাহরণ হিসাবে উদ্ধৃত করা হয়: লোকেরা যখন অস্বস্তি অনুভব করে তখন তাদের বিশ্বাস/কর্ম অন্যান্য বিশ্বাস/কর্মের সাথে বিরোধী হয়।  গল্পে, শিয়াল একটি লতার উপর কিছু আঙ্গুর দেখে এবং সেগুলি খেতে চায়।  সে লাফ দেওয়ার চেষ্টা করে, কিন্তু তাদের কাছে পৌঁছাতে পারে না কারণ তারা খুব বেশি।  যখন সে বুঝতে পারে সে কোন আঙ্গুর খেতে পারবে না, তখন শেয়াল ঘৃণা করে;  সে নিজেকে বলে যে সেই আঙ্গুরগুলি টক ছিল এবং যাইহোক ইচ্ছার যোগ্য নয়।
+<br><br>
+ মনোবিজ্ঞানী এবং শিক্ষক লিওন ফেস্টিনগার 1957 সালে উল্লেখ করেছিলেন যে প্রায়শই, লোকেরা দুটি পরস্পরবিরোধী বিশ্বাস রাখে, অথবা তারা একটি জিনিস বিশ্বাস করে কিন্তু এমন কিছু করে যা সেই বিশ্বাসের বিরুদ্ধে।  ফলস্বরূপ জ্ঞানীয় অসঙ্গতি মনস্তাত্ত্বিকভাবে কষ্টদায়ক, এবং আমরা প্রায়শই আমাদের ক্রিয়াকলাপকে ন্যায্যতা দিয়ে বা আমাদের বিশ্বাস পরিবর্তন করে এটি উপশম করার চেষ্টা করি।  যেভাবেই হোক, লক্ষ্য হল আমাদের বিশ্বাস এবং কাজগুলিকে একে অপরের সাথে সঙ্গতিপূর্ণ করা।</div>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Generosity of Caliph Omar";
+  var text = `It was past midnight when the Caliph returned home. His wife. was still waiting for her husband’s return. He told his wife about a poor helpless Beduin woman. On hearing the fact, his wife expressed her eagerness to help the woman. Then they set out. They took some food with them. After a while, they reached the house of the woman. The Beduin woman was walking restlessly. The Caliph gave her food. She was glad to have a meal. She expressed her feelings towards them. She told that the Caliph Omar was a harsh man. Later on, she learned that the visitor was the Caliph himself.
+
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

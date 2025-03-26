@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+   js.getRandomName(),js.getRandomName()
+];
+const title = "Your hobby";
+ const data = [
+  "Hello "+men[1]+"! How are you?",
+  "Fine, by the grace of almighty Allah. And you?",
+  "I am also fine. Let’s play cricket.",
+  "Sorry, I have to go home.",
+  "Why?",
+  "I have a hobby and it is gardening. And I work there in the afternoon.",
+  "Where is your garden?",
+  "In front of my reading room.",
+  "How do you pursue your hobby.",
+  "I plant the seedlings and take care of them regularly. I water them and weed them regularly. I grow flowers and vegetables in my garden. Vegetables are very useful for our health and the flowers are very beautiful. When the flowers bloom, the garden looks very beautiful. The flowers charm and amuse me with their sweet scent and beauty.",
+  "I think your hobby is very interesting.",
+  "What about your hobby?",
+  "My hobby is to play cricket with my friends. In every afternoon I play with my friends. And I keep my body fit by playing cricket. And my mind also remains sound as it lives in a sound body.",
+  "Your hobby is also very interesting.",
+  "Ok. Thanks I have to go now.",
+  "Ok. Bye, see you next time."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

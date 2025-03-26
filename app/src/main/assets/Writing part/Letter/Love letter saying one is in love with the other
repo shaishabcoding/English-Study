@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter saying one is in love with the other`;
+  var body = `Nasreen <br>
+Banskhali,Chattogram <br>
+PC-Banigram,PS-Banskhali
+
+<br><br>
+Dear Nasreen,<br>
+To be honest, the way I feel about you now is not something that I'm used to and was something I didn't want to acknowledge in the beginning. It's just that after so many failed relationships and after getting hurt over and over again, I became cynical and bitter. I tried to create a wall around my heart and emotions and vowed never to put myself in a vulnerable position ever again. But then you walked into my life.
+<br>
+I never really expected to develop these feelings I had now for you when we went out on our first date. I had already programmed my mind to approach you with the utmost caution and not believe everything you say. But after sitting down with you and speaking with you at dinner, I couldn't help but feel so comfortable. You made me feel so warm inside that I couldn't help but begin to lower my defenses. I was pretty upset with myself after that first night with you. I felt like I was smitten already and wanted to kick myself for opening up so quickly. So I put up the walls again. But it's strange because every time we went out or every time you'd call, I'd unknowingly open myself up to you again with absolutely no hesitations. The greatest part about it is that you never took advantage.
+<br>
+But you know what? Despite my reservations, in the beginning, I'm happy that I was able to let you into my life. Because if I hadn't I would've missed out on such a beautiful person. I wouldn't have felt the way I do now ? happy, content, and in love. You had and still have such a strong effect on me, and I feel so blessed that you're with me.
+<br>
+
+We're about to celebrate our tenth month together, and I just want to let you know how crazy I am about you. You have restored my faith in love and relationships. You have proven that not all people are out there to hurt and deceive. You have shown me what it's like to be in a stable, fulfilling relationship, and I will be forever thankful that you asked me to be with you. I hope that we will celebrate many more anniversaries together and that we never stop loving each other. Know that I will be faithful to you and will love you forever.
+<br><br>
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

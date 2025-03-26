@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Requesting To Enhance Monthly Allowance`;
+  var body = ` 
+23 January 2023 <br>
+Noakhali <br><br>
+
+My Dear Father, <br>
+I am in receipt of your remittance of TK 400/= and after paying the tuition fee, and other dues of the hotel and the land lord I am left with TK 20 for meeting my expenditures of the month. <br>
+In this context, I have to point out that the cost of living has terribly gone up and it is not possible to live within Rupees 400 despite economization. I am alive to your difficulties as besides meeting the cost of maintenance of the family, you have to meet the cost of the education of my brothers and sisters, but I am constrained to request you to send me Rupees fifty more as no type of economy can help me to manage with Rupees four hundred per month. <br>
+Father, I am sorry to trouble you but you can see there is no way out.
+<br><br>
+Your loving son,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

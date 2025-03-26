@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Lame excuse";
+  var text = `One day a wolf came to stream for drinking and found a beautiful lamb drinking from the same stream.The wolf thought of killing the lamb and eating the lamb and eating its flesh. So he began to pick a quarrel with the lamb.He shouted, “You rouge, how dare you make the water dirty for me?” The lamb began to tremble in fear.He said, “Excuse me Sir, how can I make the water dirty for you? You are drinking upstream and I am drinking down stream.” The wolf could say nothing to that but shouted, “Oh, I remember, you called me bad names last year about this time.” “How can that be, Sir?”said the lamb mildly.“I was not even born then”.But the wolf paid no heed to his reply.He growled angrily. “Then it must have been your father. And it makes no difference whether it was you or your father.”So saying, he jumped upon the poor lamb and ate him up.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

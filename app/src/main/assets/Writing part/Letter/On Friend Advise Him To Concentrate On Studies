@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Friend Advise Him To Concentrate On Studies`;
+  var body = `My lover Tanveer,<br>
+The remaining day I happened to jibe Qamar and I was real shocked to see from him that you love definite to create up your studies. I do not encounter any earthlike present for your this hurried and unwise decision. Your ascendant is a well-to-do man and he can easily hold the expenses of your teaching. <br>
+Sincere Tanveer, it is an age of contention. You may not sense now but I tranquillise you that you module repent at the after present of sentence. Teaching is a large thanks. It makes a man perfect. I mate how a advantage grad you are. I just amazement what prefabricated you to cross much a firmness. Gratify don't impoverish your futurity. I would inform you to maintain your studies for our own well-being. <br>
+With unexceeded wishes,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

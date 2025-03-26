@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Help A Man While He Is in Danger";
+  var text = `One day a farmer was taking some sacks of wheat to a mill on horseback. The mill was a few kilometers away. On the way, the horse stumbled and one of the sacks fell to the ground. It was too heavy for the farmer to lift and there was nobody around to help him. He was at a loss. Meanwhile, he saw a horseman coming towards him on horseback. The farmer could recognize him. The farmer thought that the man might not help him since he was a very rich man. Therefore, he gave up hope. But when the gentleman came to him, he got down. The man was very kind-hearted. He lifted up the heavy sack and placed on the horseback. The farmer said, ”How can I thank you?” The gentleman replied, “You can thank me by helping someone.”`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

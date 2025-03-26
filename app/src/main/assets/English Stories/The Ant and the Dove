@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfpHspRAj5wMaJY6l-swNlpebuatb7pgapjw&usqp=CAU"/></div>
+  <div class="title">The Ant and the Dove</div>
+  <div class="en">
+One hot day, an ant was searching for some water. After walking around for some time, she came to a spring. To reach the spring, she had to climb up a blade of grass. While making her way up, she slipped and fell into the water.
+<br><br>
+She could have drowned if a dove up a nearby tree had not seen her. Seeing that the ant was in trouble, the dove quickly plucked a leaf and dropped it into the water near the struggling ant. The ant moved towards the leaf and climbed up onto it. Soon, the leaf drifted to dry ground, and the ant jumped out. She was safe at last.
+<br><br>
+Just at that time, a hunter nearby was about to throw his net over the dove, hoping to trap it.
+<br><br>
+Guessing what he was about to do, the ant quickly bit him on the heel. Feeling the pain, the hunter dropped his net. The dove was quick to fly away to safety.
+<br><br>
+One good turn begets another.</div>
+  <div class="title">পিঁপড়া এবং ঘুঘু</div>
+  <div class="bn">
+ একদিন গরমের দিনে একটা পিঁপড়া পানি খুঁজছিল।  কিছুক্ষন ঘোরাঘুরির পর একটা ঝর্ণার কাছে এসে হাজির।  বসন্তে পৌঁছানোর জন্য, তাকে ঘাসের ফলকে উঠতে হয়েছিল।  ওঠার সময় সে পিছলে পানিতে পড়ে যায়।
+<br><br>
+ কাছের গাছে উঠে আসা একটি ঘুঘু তাকে না দেখলে সে ডুবে যেতে পারত।  পিঁপড়াটি সমস্যায় পড়েছে দেখে ঘুঘু দ্রুত একটি পাতা ছিঁড়ে নিয়ে সংগ্রামরত পিঁপড়ার কাছে পানিতে ফেলে দিল।  পিঁপড়া পাতার দিকে এগিয়ে গেল এবং তার উপরে উঠে গেল।  শীঘ্রই, পাতা শুকনো মাটিতে ভেসে গেল, এবং পিঁপড়া লাফ দিয়ে বেরিয়ে গেল।  সে শেষ পর্যন্ত নিরাপদ ছিল।
+<br><br>
+ ঠিক সেই সময়ে, কাছাকাছি একজন শিকারী ঘুঘুর উপর জাল ফেলতে যাচ্ছিল, এটিকে ফাঁদে ফেলার আশায়।
+<br><br>
+ তিনি কি করতে চলেছেন তা অনুমান করে, পিঁপড়াটি দ্রুত তাকে গোড়ালিতে কামড় দিল।  ব্যাথা অনুভব করে শিকারী তার জাল ফেলে দিল।  ঘুঘুটি দ্রুত নিরাপদে উড়ে চলে গেল।
+<br><br>
+ভালো কাজের ভালো ফল। </div>
+  <script src="main.js"></script>
+</body>
+</html>

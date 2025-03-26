@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Voice কি ᐅ </b>
+  Voice হচ্ছে ক্রিয়ার প্রকাশভঙ্গি যার মাধ্যমে বোঝা যায় যে কোন বাক্যের subject কাজটি করছে/করেছে/করবে নাকি কাজটি subject দ্বারা করা হচ্ছে/হয়েছে/হবে।
+ </p>
+ <p>
+  <b>Types of Voice ᐅ </b>
+  Voice দুই প্রকার
+ </p>
+ <ol>
+  <li>Active voice</li>
+  <li>Passive voice</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Active voice ᐅ </b>
+  যে sentence-এ subject নিজে সক্রিয়ভাবে কাজটি করে সেই sentence-এ verb-এর active voice হয়।
+ </p>
+ <p>
+  <b>Sentence Structure ᐅ </b>
+  Subject + Verb + Object
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>I eat rice.</li>
+  <li>They play football.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Passive voice ᐅ </b>
+  যে sentence-এ subject নিজে সক্রিয়ভাবে কাজটি করে না বরং object-এর কাজটি তার দ্বারা করা হয় সেই sentence-এ verb-এর passive voice হয়।
+ </p>
+ <p>
+  <b>Sentence Structure ᐅ </b>
+  Object + be verb+ verb’s past participle + by+ subject
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Rice is eaten by me.</li>
+  <li>Football is played by them.</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

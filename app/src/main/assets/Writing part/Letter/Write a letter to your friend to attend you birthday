@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend to attend you birthday`;
+  var body = `My dear Habiba,<br><br>
+Take my cordial love. I hope that you all are well by the grace of omnipotent Allah. I am fine with my family. You know the 30th September is my birthday. We are going to celebrate the birthday with my friends. As you are also one of my best friends. So no occasion can be joyful without you. I would like to request you to make a point that you will come by 25th September. I can not but stop here today. Convey my regards to your parents and affection to the younger. No more today. More when we shall meet each other.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

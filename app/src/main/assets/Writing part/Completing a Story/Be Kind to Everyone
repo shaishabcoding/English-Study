@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Be Kind to Everyone";
+  var text = `Once there lived a young man named Androcles. Unfortunately, he was caught by a slave merchant. The merchant sold him to a rich man. The man was very rude and cruel. He used to torture him. It was unbearable for Androcles. One day he fled from his master’s house. He took shelter in a cave. A lion lived in that cave. In the evening the lion entered the cave. The lion seemed wounded as he was groaning. Androcles came near the lion. He took the lion’s paw in his hand and removed a big thorn from it. The lion was relieved of his pain. It licked the neck of Androcles. He passed the night with the lion.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

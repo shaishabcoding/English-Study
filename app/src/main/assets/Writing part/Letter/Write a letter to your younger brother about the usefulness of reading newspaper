@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your younger brother about the usefulness of reading newspaper`;
+  var body = `My dear Jisa, <br><br>
+I am very glad to receive your letter and also pleased that you have written it in English.
+<br>
+Well you can improve your English not only studying your text books but also a newspaper. The news paper reading interesting because you are getting the current topics and up to date knowledge and it will also increase your vocabulary, that is, stock of words and also the expression will be enriched. You will learn many things with less conscious effort.you love games and sports and if you read the news you will get both pleasure and language items like new words, new phrases and new structures
+<br>
+No more today. Convey my regards to father and mother with love.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Grasp All, Lose All";
+  var text = `There lived a farmer in a village who had a wonderful goose. Every morning she laid a golden egg. He used to sell the golden egg to the market. He became rich. But by this time the man became very greedy and impatient to have all the eggs at a time. He thought if he cut the goose, he would get all the eggs at a time. And by this way he would be rich overnight. So he cut its stomach with a sharp knife. But alas! There was no egg in it. He was so sorry. Finally he realized that the reason behind losing all is greediness.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

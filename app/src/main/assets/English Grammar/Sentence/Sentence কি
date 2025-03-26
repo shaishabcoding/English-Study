@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>© Shaishab Chandra Shil</title>
+  <script src="main.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="title">Sentence - বাক্য</div>
+  <div>এক বা একাধিক বিভক্তিযুক্ত পদের দ্বারা যখন বক্তার মনোভাব সম্পূর্ণরূপে প্রকাশ পায়, তখন তাকে বাক্য বলে। অথবা যে সুবিন্যস্ত পদসমষ্টি দ্বারা কোনো বিষয়ে বক্তার মনোভাব সম্পূর্ণরুপে প্রকাশিত হয়, তাকে বাক্য বলে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Shaishab has gone there.
+      <br>2. Shaishab eats pizza.
+      <br>3. Shaishab wants to do the work
+    </div>
+  </div>
+  <br><br>
+  <div class="title sub">The basic formula of a sentence</div>
+  <div>
+    Singular subject + Singular verb (with s/es)
+    <div class="lable">Example</div>
+    <div class="example">
+      The owner of the restaurant always rants about his employees.
+    </div>
+  </div>
+  <div>
+    Plural subject + Plural verb (without s/es)
+    <div class="lable">Example</div>
+    <div class="example">
+      The employees have made an arrangement for the customers.
+    </div>
+  </div>
+  <div>
+    একটি বাক্য গঠনের জন্য subject এবং finite verb সমৃদ্ধ একটি principle clause প্রয়োজন।
+    <div class="lable">Example</div>
+    <div class="example">
+      Shaishab wants to do the work.
+      <br>I want to go there.
+    </div>
+  </div>
+  <br><br>
+  <div class="title sub">
+    A sentence has two parts
+  </div>
+  <div>
+    Subject (The person or thing about which something is said in the sentence- যার সম্বন্ধে বা যাকে উদ্দেশ্য করে কিছু বলা হয়)
+  </div>
+  <div>
+    Predicate (What is said about the subject in a sentence- বাক্যের যে অংশে subject সম্পর্কে কিছু বলা হয়)
+  </div>
+  <div>
+    <table>
+      <tr>
+        <th>Subject</th>
+        <th>Predicate</th>
+      </tr>
+      <tr>
+        <td>Shaishab</td>
+        <td>has won the game.</td>
+      </tr>
+    </table>
+  </div>
+  <br><br>
+  <div class="title">Kinds of sentences</div>
+  <div>
+    1. Assertive
+    <br>2. Interrogative
+    <br>3. Imperative
+    <br>4. Optative
+    <br>5. Exclamatory
+  </div>
+  <br>
+  <div class="title sub">
+    1. Assertive Sentence
+  </div>
+  <div>
+    A sentence that makes a statement or assertion is called an Assertive sentence. It is also called “Declarative sentence”.
+    <div class="lable">Example</div>
+    <div class="example">
+      Shaishab speaks English very well.
+    </div>
+    There are two types of assertive sentences.
+  </div>
+  <div>
+    Affirmative: Conveys the validity or truth of a basic assertion.
+    <div class="lable">Example</div>
+    <div class="example">
+      I do have a car.
+      <br>Shaishab knows it well.
+      <br>We have a good neighborhood.
+    </div>
+  </div>
+  <div>
+    Negative: It is formed by placing auxiliary verbs ( am / is / are / was / were / shall / should / could etc. ) + not – before the main verb to express something false.
+    <div class="lable">Example</div>
+    <div class="example">
+      I <span class="mark">do not</span> have a car.
+      <br>Shaishab <span class="mark">does not</span> know it well.
+      <br>We <span class="mark">do not</span> have a good neighborhood.
+    </div>
+  </div>
+  <br>
+  <div class="title sub">
+    2. Interrogative Sentence
+  </div>
+  <div>
+    A sentence that generally asks questions is called an Interrogative sentence.
+    <div class="lable">Example</div>
+    <div class="example">
+      Who are you talking to?
+      <br>Is Shaishab home?
+    </div>
+    Interrogative sentences start with the auxiliary verbs ( to-be verbs )
+    Or, Wh-words / Relative pronouns ( who / when / whom etc. )
+  </div>
+  <br>
+  <div class="title sub">
+    3. Imperative Sentence
+  </div>
+  <div>
+    It is a kind of sentence that gives orders, commands, or advice and expresses proposals, or requests in order to make a statement.
+    <div class="lable">Example</div>
+    <div class="example">
+      Leave the place at once.
+      <br>Always speak the truth.
+    </div>
+    Imperative sentences can be negative too.
+    <br>As a subject, the second person “YOU” stays invisible.
+  </div>
+  <br>
+  <div class="title sub">
+    4. Optative Sentence
+  </div>
+  <div>
+    A type of sentence that expresses a wish, desire, prayer or curse is called an Optative sentence.
+    <div class="lable">Example</div>
+    <div class="example">
+      May God bless you.
+      <br>Long live our president.
+      <br>I hope you do well.
+    </div>
+    Basically starts with “May” but sometimes “May” stays hidden.
+    <br>Simple structure – May /  Wish / Hope + Assertive.
+  </div>
+  <br>
+  <div class="title sub">
+    5. Exclamatory Sentence
+  </div>
+  <div>
+    An exclamatory sentence declares a simple statement but also conveys strong emotion or excitement and always ends with an exclamation (!) mark.
+    <div class="lable">Example</div>
+    <div class="example">
+      How peaceful the scenario is!
+      <br>If I had so much money!
+    </div>
+    Starts with What or How sometimes with “Had”
+Bravo, Alas, Hurrah, Oh, etc. – can also be used to begin the sentence
+
+  </div>
+</body>
+</html>

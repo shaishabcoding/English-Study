@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+ // "Shaishab","Shrabon"
+ js.getRandomName(),js.getRandomName()
+];
+const title = "Future plan of life";
+ const data = [
+  "Hello "+men[1]+"! How are you?",
+  "I am fine. What about you?",
+  "I am fine too. I am very glad at your brilliant result in the HSC examination. Would you please tell me about your future plan of life?",
+  "Yes, I have already made up my mind to study law.",
+  "I see. But why do you want to study law? Is there any specific reason?",
+  "Yes, of course. I would like to join politics after completing my studies. I wish to serve my countrymen by driving away restless politics.",
+  "All these are true. A patriotic leader can stamp out all kinds of corruptions and injustice from society. But it is really a difficult task to become a leader.",
+  "Yes, but do not forget that nothing is impossible for a hardworking and persevering man.",
+  "But have you ever thought over the hard work, it will mean?",
+  "Yes, friend, I think no work is too hard for me in this profession.",
+  "This profession also needs much tolerance and sacrifice. Do you know it?",
+  "Yes, I know. To have much tolerance and sacrifice is a precondition to become a good leader.",
+  "Nice! I am impressed to see your choice as well as determination. I highly appreciate your future plan. Go ahead. I hope you will succeed one day.",
+  "Please, bless for me so that I can make my dream true.",
+  "Absolutely! I must be off now. Thank you very much.",
+  "You are most welcome. See you again."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

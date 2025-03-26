@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Editor About The Pollution Created By A Smoke-emitting Factory`;
+  var body = `Umair Usmami,<br>
+981, Sohrab Colony,<br>
+Chittagong.<br>
+22 January 2023<br>
+The Editor,<br>
+The News,<br>
+Chittagong.<br>
+<br><br>
+Sir<br>,
+Through the columns of your esteemed newspaper, I wish to draw the attention of the authorities to the pollution's created in our colony by Star Textile Mills. Sohrab Colony is a residential area and the residents are at a loss to understand why this factory has been allowed to come in close proximity to this colony. The presence of the Textile Mills is a health hazard to the residents.<br>
+The factory emits smoke day and night and thus pollutes the whole atmosphere. This smoke is very injurious to the health of the residents of this area. Many persons have complained of respiratory and other disease caused by the smoke pollution.
+<br>
+I, on behalf of the residents of this residential area, request the authorities to pay urgent attention to this problem. It would be better if the factory were shifted from here. Or as an alternative, the factory owners should use smokeless fuel for the factory.
+<br><br>
+Yours Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

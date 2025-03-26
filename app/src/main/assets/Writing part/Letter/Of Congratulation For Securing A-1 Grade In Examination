@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Of Congratulation For Securing A-1 Grade In Examination`;
+  var body = `My dear Farhan,<br>
+While over whelming with joy on hearing of your brilliant success in the S.S.C examination, I congratulate you on securing A-1 grade. Diligent, hard working and studious as you are, I expected you to pass your examining on with flying colors. Proud as I am of you. I expect you to achieve more and more success in life.<br>
+As a token of my joy, I am sending a small present of the full set of the dramas of Shaw.
+With love.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

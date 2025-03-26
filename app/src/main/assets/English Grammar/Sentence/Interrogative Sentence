@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>© Shaishab Chandra Shil</title>
+  <script src="main.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="title">Interrogative Sentence</div>
+  <div>
+    যেসব বাক্যের সাহায্যে প্রশ্ন বা জিজ্ঞাসা করা হয় এবং বাক্যের শেষে প্রশ্নবোধক চিহ্ন ( ? ) বসে, তাদেরকে Interrogative sentence বা প্রশ্নবোধক বাক্য বলা হয়।
+  </div>
+  <div>
+    এধরনের বাক্য সাধারনত ‘wh’ words (who, when, why, where, what, which, whose, whom)  এর মতো Interrogative pronouns এর সাহায্যে শুরু হয়ে থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. What is the capital of Bangladesh?<br>
+      2. Who wants a coffee?<br>
+      3. Which train should I take to reach Tokyo?
+    </div>
+  </div>
+  <div>
+    বাক্যের শুরুতে Auxiliary Verb নিয়ে এসেও এধরনের বাক্য গঠন করা যায়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Has anyone seen my english book?<br>
+      2. Do you speak Bangla?
+    </div>
+  </div>
+  <br><br>
+  <div class="title">Structure - গঠন</div>
+  <div>
+    Interrogative sentence এর গঠনের ক্ষেত্রে আমরা মূলত ৩ ধরনের বাক্যগঠন দেখতে পাই। নিচে এদেরকে উদাহরণ সহ উল্লেখ করা হল।<br><br>
+    1. WH + Auxiliary Verb + Subject + Main Verb
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Where did Shaishab go?<br>
+      2. Who has done it?
+    </div><br><br>
+    2. Verb + Subject + Main Verb
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Do you want to stay?<br>
+      2. Does Shaishab want chocolate or ice cream?
+    </div><br><br>
+    3. The verb to Be + Subject
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Is it right?
+      <br>2. Are you upset?
+    </div>
+  </div>
+  <br><br>
+  <div class="title">
+    Types of Question
+  </div>
+  <div>
+    সাধারনত ৩ ধরনের প্রশ্নের সাহায্যে এসব বাক্যকে প্রকাশ করা হয়।
+    <br><br>
+    1. Yes / No Question
+    <div class="lable">Example</div>
+    <div class="example">
+      Question: Is it raining outside?<br>
+      Answer: yes / no.
+    </div>
+    <br><br>
+    2. Question ( Wh ) Word question
+    <div class="lable">Example</div>
+    <div class="example">
+      Question: Where is the next stop?<br>
+      Answer: Chattogram. 
+    </div>
+    <br><br>
+    3. Choice question
+    <div class="lable">Example</div>
+    <div class="example">
+      Question: Do you want tea or coffee?<br>
+      Answer: Tea/ Coffee.
+    </div>
+  </div>
+  <br><br>
+  <div class="title">Interrogative Sentence এর ব্যবহার</div>
+  <div>
+    Direct question - সরাসরি প্রশ্ন করার জন্য ব্যবহার করা হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      Where do you live?
+    </div>
+    <br><br>
+    Indirect question - তুলনামূলক নম্রভাবে জিজ্ঞাসা করার ক্ষেত্রে এধরনের প্রশ্ন ব্যবহার করা হয় থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      Would you mind, if I use your phone for a call?
+    </div>
+    <br><br>
+    Choice question - ২ বা তার অধিক জিনিসের মধ্য থেকে কোন কিছুকে বেঁছে নিতে বোঝানো হলে এমন ধরনের প্রশ্ন ব্যবহার করা হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      What do you like more, pizza or burger?
+    </div>
+    <br><br>
+    Yes - No question - প্রশ্নের উত্তর যদি হ্যাঁ / না তে পাওয়া যায়, সেক্ষেত্রে এধরনের প্রশ্ন করা হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      Do you know where Shaishab live?
+    </div>
+    <br><br>
+    Tag question - কোন বিষয়ে নিশ্চয়তা লাভের জন্য এধরনের বাক্য ব্যবহৃত হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      She is facing some trouble in her recent days, isn't she?
+    </div>
+    <br><br>
+    Rhetorical question - কোন ধারণা, বিশ্বাস, অবিশ্বাসের বিষয় প্রকাশের ক্ষেত্রে এসব বাক্য ব্যবহৃত হয়ে থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      Can you believe Shaishab did so?
+    </div>
+  </div>
+  <br><br>
+  <div class="title">
+    Wh Question
+  </div>
+  <div>
+    যখন কোন তথ্য জানতে চাওয়ার উদ্দেশ্যে who, whom, what, which, when, where, why, how ও whose শব্দের কোন একটি শব্দ দ্বারা প্রশ্ন গঠন করা হয়, তখন সেই প্রশ্নটিকেই wh-question বলে।
+  </div>
+  <br>
+  <div class="title sub">
+    Wh-question গঠন করার সময় চারটি বিষয় লক্ষ্য করতে হয়
+  </div>
+  <div>
+    1. প্রদত্ত বাক্যটির মূল verb হিসাবে কি ব্যবহৃত হয়েছে :
+    <br><br>
+    প্রথমেই লক্ষ্য করতে হয় প্রদত্ত বাক্যটির মূল verb হিসাবে কি verb ব্যবহৃত হয়েছে, কারন মূল verb হিসাবে যদি ‘be’ verb অথবা ‘have’ verb ব্যবহৃত হয়, তবে তার জন্য Wh-question-এর গঠন প্রনালী হবে :
+    <div class="lable">Structure</div>
+    <div class="example">
+      Wh + be / have verb + subject + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি .
+    </div>
+    আর মূল verb হিসাবে ‘be / have’ verb ছাড়া অন্য কোন verb ব্যবহৃত হলে গঠন প্রনালী হবে:
+    <div class="lable">Structure</div>
+    <div class="example">
+      Wh + auxiliary verb + subject + main verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি .
+    </div>
+  </div>
+  <div>
+    2. প্রদত্ত বাক্যটি কোন tense-এর:
+    <br><br>
+    দ্বিতীয়ত: লক্ষ্য করতে হবে প্রদত্ত বাক্যটি কোন tense-এর, কারন tense ঠিক রেখে Wh-question-এর গঠন করতে হয়।
+
+  </div>
+  <div>
+    3. প্রদত্ত বাক্যে কি কি pronoun ব্যবহৃত হয়েছে:
+    <br><br>
+    তারপর লক্ষ্য করতে হয় প্রদত্ত বাক্যটিতে কি কি pronoun ব্যবহৃত হয়েছে, কারন Wh-question-এর গঠন করার সময় সাধারনত: first person-কে second person করতে হয় এবং second person-কে first person-এ পরিবর্তন করতে হয়। এর সাথে একটি বিষয় খেয়াল রাখতে হয়, তা হলো যদি ‘we’ বা ‘our’ শব্দ দ্বারা সকল মানুষকে ‍বুঝানো হয়, তবে এ দুটি pronoun-কে পরিবর্তন করার প্রয়োজন হয় না।
+  </div>
+  <div>
+    4. –প্রদত্ত বাক্যের কোন তথ্যের (information) উপর Wh-question গঠন করবো:
+    <br><br>
+    সবশেষে ঠিক করতে হয় প্রদত্ত বাক্যের কোন তথ্যের উপর Wh-question গঠন করবো। এটি বাক্য পড়ে কোন বিষয় জানতে চাওয়া হয়েছে, তা বুঝার চেষ্টা করতে হয়। কারন তথ্য জানতে চাওয়ার জন্যই Wh-question গঠন করা হয়। তাই, প্রদত্ত বাক্য হতে তথ্য সম্বলিত অংশটুকু চিহ্নিত করতে হয়। এর সাথে এ বিষয়টিও লক্ষ্য রাখতে হয়, যে তথ্যের উপর Wh-question গঠন করলাম, তা যেন গঠনকৃত Wh-question-এর মধ্যে না থাকে। অর্থাৎ প্রদত্ত বাক্যের যে তথ্যের উপর Wh-question করা হলো, তা Wh-question-এ থাকবে না।
+    <div class="lable">Example</div>
+    <div class="example">
+      My name is 𝐒𝐡𝐚𝐢𝐬𝐡𝐚𝐛 𝐂𝐡𝐚𝐧𝐝𝐫𝐚 𝐒𝐡𝐢𝐥.
+    </div>
+    এ বাক্যটিতে যে তথ্য দেওয়া আছে, তা হচ্ছে: 𝐒𝐡𝐚𝐢𝐬𝐡𝐚𝐛 𝐂𝐡𝐚𝐧𝐝𝐫𝐚 𝐒𝐡𝐢𝐥. এই বাক্যটির Wh-question হবে: <span class="mark">What is your name?</span> লক্ষ্য করলে দেখা যাবে Wh-question-টিতে 𝐒𝐡𝐚𝐢𝐬𝐡𝐚𝐛 𝐂𝐡𝐚𝐧𝐝𝐫𝐚 𝐒𝐡𝐢𝐥 নাই।<br><br>
+    Wh-question-এর গঠন করা শেষ হলে বাক্যের শেষে প্রশ্নবোধক চিহ্ন দিতে হয়।
+  </div>
+  <div>
+    Who / what শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    কে কোন কাজ করে, করেছে, করেছিল, করবে প্রভৃতি জানার জন্য বাক্যের subject-এর উপর প্রশ্ন করা হয়। বাক্যের subject যদি কোন ব্যক্তি হয়, তাহলে তার জন্য ‘who’ আর বাক্যের subject যদি কোন বস্তু হয়, তাহলে তার জন্য ‘what’ ব্যবহৃত হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Who / what + verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Someone opened the door. Who opened the door? <br>
+      2. A man standing outside wants to see you. Who wants to see you? <br>
+      3. Something happened last night. What happened last night?
+
+    </div>
+    কিন্তু বাক্যের subject ও verb-এর পর যে ব্যক্তি বা বস্তু থাকে, তা উভয়েই যদি একই ব্যক্তি বা বস্তুকে বুঝায়, তবে subject-এর স্থানে who / what এবং verb-এর পর যে ব্যক্তি বা বস্তু থাকে, তার স্থানে মিল করে pronoun বসাতে হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. They are Shaishab’s son. Who are they?
+      <br> 2. My name is Shaishab. What is your name?
+      <br>3. This is an umbrella. What is this?
+
+    </div>
+  </div>
+  <div>
+    What শব্দ দ্বারা অন্য যে সকল প্রশ্ন তৈরী করা যায়:
+    <br><br>
+    1. কোন ব্যক্তি কি প্রকৃতির বা কোন বস্তু কেমন, তা জানার জন্য What দ্বারা প্রশ্ন করতে হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      What + be + subject + like + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He is a friendly sort of man. What is he like?
+      <br>2. It is very wet and cold today. What is the weather like today?
+    </div>
+    কিন্তু কোন ব্যক্তি দেখতে কেমন বা কোন বস্তু দেখতে কেমন তা জানার জন্য be verb-এর স্থলে tense অনুযায়ী do / does / did প্রভৃতি বসে এবং কর্তার পরে মূল verb হিসাবে ‘look’ বসে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He is tall and thin. What does he look like?
+      <br>2. It looks like cotton wool. What does it look like?
+    </div>
+    <br><br>
+    2. কোন ব্যক্তির পেশা (profession) জানার জন্য what-এর সাহায্যে প্রশ্ন গঠন করা হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      What + be + subject?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. My father is a doctor. What is his father?
+      <br> 2. I am a student. What are you?
+    </div>
+    <br><br>
+    3. কোন স্থান (place) কি জিনিষের জন্য বিখ্যাত, তা জানার জন্য what-এর সাহায্যে প্রশ্ন গঠন করা হয়। এ ছাড়া কোন জিনিষের মূল্য কত তা জানার জন্যও what-এর সাহায্যে প্রশ্ন গঠন করা হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      What + be + subject + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Dhaka is famous for mosques. What is Dhaka famous for?
+      <br>2. Rajshahi is famous for mangoes. What is Rajshahi famous for?
+      <br>3. Potato is ten taka per kg. What is the price of potatoes?
+    </div>
+    <br><br>
+    4. What দ্বারা ঘড়ির সময় (clock time), তারিখ (date) ও দিনের নাম (name of a day) জানা যায়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      What time / date / day + be + subject?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. It is five fifteen. What time is it?
+      <br>2. Today is 21st January. What date is today?
+      <br>3. Today is Sunday. What day is today?
+    </div>
+  </div>
+  <div>
+    Whom / what শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    Object-এর উপর প্রশ্ন করতে ব্যক্তির জন্য ‘whom’ আর বস্তুর জন্য ‘what’ ব্যবহৃত হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Whom / what + auxiliary + subject + verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He met Shaishab at the station. Whom did he meet at the station?
+      <br>2. He needs an umbrella. What does he need?
+      <br>3. I did not think much of it. What did you think?
+      <br>4. They told me exactly what happened. What did they tell you?
+      <br>5. He complained to the manager. Whom did he complain to?
+    </div>
+  </div>
+  <div>
+    Which শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    Who, what ও whom-এর ন্যায় which শব্দ দ্বারাও বাক্যের subject ও object-এর উপর প্রশ্ন করা যায়।
+    <br><br>
+    অনেক ব্যক্তি বা বস্তু হতে যখন এক বা একাধিক বস্তুকে পৃথক করে বুঝাতে চাই, তখন which ব্যবহার করি। কর্তা বা subject-এর উপর প্রশ্ন করলে কোন সাহায্যকারী verb-এর প্রয়োজন হয় না।
+    <div class="lable">Structure</div>
+    <div class="example">
+      which + (noun) + verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Mr. Shaishab teaches us English at our college. Which teacher teaches you English at your college?
+      <br>2. Dhaka is the largest city in Bangladesh. Which city is the largest in Bangladesh? Or: Which is the largest city in Bangladesh?
+    </div>
+    কিন্তু কর্ম বা object-এর উপর প্রশ্ন করলে কর্তার পূর্বে tense অনুযায়ী do/does/did প্রভৃতি বসে।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Which + (noun) + auxiliary + subject + verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He liked the sky-blue shirt. Which shirt did he like?
+      <br>2. He likes English subject. Which subject does he like?
+    </div>
+  </div>
+  <div>
+    Where শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    বাক্যে কোন স্থান সম্পর্কে তথ্য দেয়া থাকলে where শব্দ দ্বারা প্রশ্ন তৈরী করতে হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Where + auxiliary + subject + main verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. I live in Dhaka. Where do you live?
+      <br>2.
+      He kept the book on the table. Where did he keep the book?
+      <br>3.
+      The sound came from a distance. Where did the sound come from?
+      <br>4.
+      Rahima is in Chottrogram. Where is Rahima?
+
+    </div>
+  </div>
+  <div>
+    When শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    বাক্যে সময় সম্পর্কে (at what time) কোন তথ্য দেয়া থাকলে when শব্দ দ্বারা প্রশ্ন করতে হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      When + auxiliary+ subject + main verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. I get up at 7 a.m. When do you get up?
+      <br>2.
+      I can come tomorrow at 5.30 p.m. When can you come?
+      <br>3.
+      Five years ago, I was living in London. When were you living in London?
+    </div>
+  </div>
+  <div>
+    Why শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    দুই ক্ষেত্রের কোন একটি বাক্যে উল্লেখ থাকলে Why দ্বারা প্রশ্ন করা তৈরী করা হয়। এক, কর্তার কোন কাজের বিষয়ে উদ্দেশ্য বর্ণিত হলে। দুই, কোন ঘটনার কারন বর্ণিত হলে। সাধারনত: যে শব্দগুলো দ্বারা উদ্দেশ্য ও কারন বর্ণিত হয়, তারা হলো: as, since, because, because of, on account of, for, infinitive to + verb, in order to + verb, so that + clause প্রভৃতি।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Why + auxiliary + subject + main verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He was late because he missed the bus. Why was he late?
+      <br>2.
+      He went abroad in order to earn money. Why did he go abroad?
+      <br>3.
+      Rahima is learning English to get a good job. Why is Rahima learning English?
+    </div>
+  </div>
+  <div>
+    How শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    প্রথমত, কোন কাজ কিভাবে (in what manner) সম্পন্ন হয় বা হলো তা জানার জন্য how শব্দ দ্বারা প্রশ্ন করতে হয়। সাধারনত: বাক্যের verb-কে বর্ননা করার জন্য বাক্যে যদি ’-ly’ যুক্ত adverb শব্দ থাকে অথবা কোন prepositional phrase থাকে, তাহলে how শব্দ দ্বারা প্রশ্ন করতে হয়।
+    <div class="lable">Structure</div>
+    <div class="example">
+      How + auxiliary + subject + main verb + বাক্যের অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. He spoke loudly. How did he speak?
+      <br>2.
+      I go to the town by bus. How do you go to the town?
+    </div>
+    <br>
+    দ্বিতীয়ত, কোন ব্যক্তির স্বাস্থ্য, শরীর বা মনের অবস্থার বিষয়াদি জানার জন্য how শব্দ দ্বারা প্রশ্ন করতে হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. I feel very nice today. How do you feel today?
+      <br>2.
+      I am so so. / I am okay. / I am well. How are you?
+
+    </div>
+    <br>
+    তৃতীয়ত, কোন ব্যক্তি বা বস্তুর আকার (shape ), ধরন (type), প্রকৃতি (nature), বয়স (age), গভীরতা (depth), উচ্চতা (height), দৈর্ঘ্য (length), প্রস্থ (width), আবহাওয়া (weather) প্রভৃতি বিষয়াদি জানা যায়। এ সকল ক্ষেত্রে বাক্যের মূল verb হিসাবে ‘be’ verb ব্যবহৃত হয় ও ‘be’ verb-এর পরের অংশে একটি adjective শব্দ থাকে।
+    <div class="lable">Structure</div>
+    <div class="example">
+      How + adjective শব্দ + be verb + বাক্যের কর্তা + অবশিষ্ট শব্দ / শব্দ সমষ্টি?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. I am almost five feet tall. How tall are you?
+      <br>2.
+      Rahim was thirty five years old. How old are you?
+      <br>3.
+      The room is very big. How big is the room?
+    </div>
+    <br>
+    চতুর্থত, কত সময় ধরে কোন কাজ চলছে বা চলছিল, তা জানার জন্য ‘how long’ দ্বারা প্রশ্ন করতে হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. For three hours I waited for you. How long did you wait for me?
+      <br>2.
+      They have been married for ten years. How long have they been married?
+    </div>
+    <br>
+    পঞ্চমত, কোন জিনিষের সংখ্যা (number) জানতে চাইলে ‘how many’ এবং কোন জিনিষের পরিমান (amount) জানতে চাইলে ‘how much’ ব্যবহৃত হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. I bought ten pictures. How many pictures did you buy?
+      <br>2.
+      I don’t have much money with me. How much money do you have?
+    </div>
+    <br>
+    ষষ্ঠত, কোন জিনিষ বা বস্তুর মূল্য জানার জন্য ‘how much’ ব্যবহৃত হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      This television cost me five thousand taka. How much did the television cost you?
+    </div>
+  </div>
+  <div>
+    Whose শব্দ দ্বারা প্রশ্ন তৈরী করা:
+    <br><br>
+    বাক্যে noun-এর possessive pronoun ব্যবহার করে যদি কোন তথ্য প্রদান করা হয়, তখন whose শব্দ ব্যবহার করে প্রশ্ন তৈরী করতে হয়। Whose সাধারনত: অধিকার সম্পর্কে  প্রশ্ন করে।
+    <div class="lable">Structure</div>
+    <div class="example">
+      Whose + noun শব্দ + auxiliary verb + main verb + বাক্যের কর্তা?
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. This is my book. Whose book is this?
+      <br>2.
+      He wants my pen. Whose pen do you want?
+    </div>
+    <br>
+    অনেক সময় noun-এর আগে ’of‘ ব্যবহার করে অধিকার বর্ননা করা যায়।
+    <div class="lable">Example</div>
+    <div class="example">
+      The car of Rahim broke down. Whose car broke down?
+    </div>
+  </div>
+
+</body>
+
+</html>

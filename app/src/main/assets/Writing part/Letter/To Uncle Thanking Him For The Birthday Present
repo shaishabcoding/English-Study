@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Uncle Thanking Him For The Birthday Present`;
+  var body = `Wrold Trade Centre, <br>
+Chittagong. <br>
+23 January 2023 <br>
+<br><br>
+My Dear Uncle, <br>
+I received your telegram full of blessings and a parcel delivered to me by a postman containing a beautiful Omega watch. <br>
+Your present reminds me of your deep affection that you have in your heart for me. I liked the watch you has sent for me. I really needed a watch this time. How nice of you that you have fulfilled my need. I shall consider it a precious thing like a diamond. It will also make me punctual. <br>
+Uncle I missed you very much in the happy occasion of my birthday. I have taken many photographs and will send some of the prints to you. My letter is getting long. Allow me to close my letter here.
+With regards an good wishes to you.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

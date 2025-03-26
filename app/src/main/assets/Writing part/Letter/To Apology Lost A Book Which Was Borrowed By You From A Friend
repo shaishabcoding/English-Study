@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Apology Lost A Book Which Was Borrowed By You From A Friend`;
+  var body = `My dear Azim, <br>
+I am in receipt of your letter of the 10th instant in which you asked me to return your book which I borrowed from you before the commencement of the summer vacation. I admit that I promised to return you this book within a fortnight" but I am sorry that I have not been able to abide by my promise. <br>
+Just after the beginning of the summer holidays my uncle came to stay with us with all the members of his family. His young ones were accommodated to study in my room." These children were very mischievous. They removed and misplaced most of my books and other things. Your book is missing and inspire of my best efforts I have not been able to search it out. <br>
+I apologies to you for this unavoidable breach of promise .and delay on my part. I wanted to purchase a new copy of that book, but, unfortunately, it is out of stock. I asked the local dealer to bring my a copy of this book from Chittagong. The bookseller has placed orders with some firm in Chittagong and he is sure to get the book within a week. The book will be sent to you as soon as it is received. I hope you won't mind it.
+How is your father? Pay my salutations to him and other members of your family. Love to your younger brother. With best wishes.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

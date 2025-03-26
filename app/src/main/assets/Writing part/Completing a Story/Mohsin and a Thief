@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Mohsin and a Thief";
+  var text = `Hazi Mohammad Mohsin was a kind man. He helped people in many ways. He was famous for his kindness.
+<br>
+
+One night he was sleeping in his room. He heard a sound and woke up. He saw a stranger standing in one corner of the room. The man looked pale and poor. He was trembling with fear. He did not try to run away but stood still.
+<br>
+
+Mohsin asked him who he was. The man replied that he was a thief. He also narrated his sorrows and sufferings. Mohsin became sympathetic and gave him some money. He told the man to come whenever he was in difficultly. He advised the man not to steal.
+
+<br>
+The man was pleased enough and thanked Mohsin with all his heart. Then he went away for his home. He promised that he would never steal. He was grateful to Hazi Mohammad Mohsin for his help and generosity.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

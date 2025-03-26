@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Brother Giving Advice How He Should Behave In The College`;
+  var body = `F/16/3,F.C. Region,<br>
+Chittagong<br>
+21 January 2023
+<br><br>
+Dear Brother,<br>
+I am meet in communicate of your letter. My joy knows no extent at your magnificent success at the S.S.C. inquiring. I did not wait so some of you. Nobody knows what merits may be latent in one.
+Asif, you gift shortly preserve into a new stage of story. College invigoration is quite unlike from the education story. It is exciting and festal. The college lifespan is justly called the gilded stop of one's lifespan. College is a correct situate to get proper instruction and training. It helps one to be a perfect man. It also helps one to discolor his own personality. It teaches us-discipline, manners and etiquette. Here one is author disengage. The someone between the instructor and taught is much alcohol. One is discharge, you fuck responsibilities too. You 'should honour your teachers. Good activeness is the cue of saintly fostering. It costs zero, but earns a great trade. Be rhythmical in present your classes. By all substance, hold entertainments and well amusements in your leisure hours: but do not bury that studies e'er come freshman. Reserve yourself forth from the bad companion. If you squander these loved eld, you faculty never feature a chance to cheat the blessings of knowledge. Be, thence, very certain from now.
+Outlook this finds you quite comfortably.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

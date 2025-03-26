@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To thanks for giving a wrist watch as birthday present`;
+  var body = `My dear uncle,<br><br>
+I find no words to thank you for the wonderful birthday gift of a wrist watch. I esteem this beautiful token of love and warmth you have for me.
+I needed a wrist watch badly as the wrist watch I have, has out lived its expected life and does not give correct time. Apart from fulfilling my need of a wrist watch, it will always remind me that I have an uncle who is all love for me. Please convey my regards to my dear aunt.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

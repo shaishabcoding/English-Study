@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[BB-15]"
+  var title = "Sense of Responsibility of a Boy";
+  var text = `One day a boy of class eight was going to school. Suddenly he saw a money bag dropped by someone on the road. He was quite at a loss. He waited there for more few minutes for the owner but no one came. Then he decided to go home and discuss with his mother how to find out the owner and refund the bag to him. Reaching home he told his mother about the matter and his mother thanked him for his noble act and desire. But at first he found no way to inform the probable owner about this.  Because there was nothing in the money bag with which the address of the owner could be found.<br>At last his mother gave him an excellent idea. She advised him to give an advertisement in  the local newspaper to draw the attention of the owner of the money bag. In it, they told that he who could show proper evidence, would be proved as the real owner and be given back his money bag.  The advertisement worked well. The next day a middle aged gentleman came to their house and proved himself as the real owner and got back his money bag. He thanked the boy and his mother a lot. He wanted to give some of his lost money as a token of gratitude. But the boy resfused it and told that the things he had done was nothing but his duty.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

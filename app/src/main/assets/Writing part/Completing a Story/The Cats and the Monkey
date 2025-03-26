@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Cats and the Monkey";
+  var text = `One day two cats stole a piece of cake from the kitchen of a householder. They had a dispute over their shares. As a result, they did not come to a decision on how they would divide the cake among themselves. They exchanged a lot of hot words. But all went in vain. Then they were about to fight with each other. At that time a monkey appeared there. He heard the whole thing and told the cats to give the cake to him. He gave them assurance that he would divide it equally among them. The foolish cats could know nothing about his trick. So, they agreed with the monkey and gave the cake to him. The monkey broke the cake into two pieces. But one piece grew a bit larger than the other. At once he bit off a portion from the large piece and it now became a bit smaller than the other piece. He again bit off a portion from the second piece in order to make the two pieces equal. But the second piece grew smaller again. Thus, the monkey tactfully ate the whole cake. The cats could understand their foolishness and be very sorry for losing their cake.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

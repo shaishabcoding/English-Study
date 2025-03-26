@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter Of Condolence Consoling Your Bereaved Friend Who Has Recently Lost His or Her Father or Mother`;
+  var body = `My dear Nila,<br><br>
+Words can hardly give vent to the rude shock the news of your mother’s death gave me. It came to me like a bolt from the blue. I cannot believe my ears till now. It is so sudden and yet so real. The other day I found her quite hale and hearty. Her sad demise is an immeasurable personal loss to me. She was to me like my own mother. I cannot forget her filial love and affection for me. Still it is inevitable and common to all. May God keep her soul rest in eternal peace. Words of consolation will fall flat to you, I know. I am only thinking of your father who loved her with all his heart. I request you not to brood over your personal bereavement. Time will change everything. Please take heart to go ahead. I’ll meet you soon.
+<br>
+No more today. More when we meet.
+<br>
+With best wishes to you and best regards to uncle.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+
+<body>
+  <div class="title">Simple Sentence</div>
+  <div>
+    যে বাক্য একটি মাএ Clause দিয়ে গঠিত অর্থাৎ যে বাক্যে একটি মাএ Finite Verb থাকে, তাকে Simple Sentence বলে।
+    <div class="lable">Example</div>
+    <div class="example">
+      আমি তাকে যেতে দেখেছি - I saw him going.
+    </div>
+    বাক্যটিতে ‘saw’ এবং ‘going’ দুটি verb রয়েছে। কিন্ত, Finite Verb (Finite = Present Form বা Past Form) হচ্ছে ‘saw’। ‘going’ এখানে Non-finite (Present Participle From) এবং উহার কোন Subject ও নেই। পক্ষান্তরে, ‘saw’ verb এর Subject হল ‘I’। সুতরাং, বাক্যটি এক Clause-এর বাক্য এবং উহা Simple Sentence।
+  </div>
+  <br><br>
+  <div class="title sub">
+    বৈশিষ্ট্য - feature 
+  </div>
+  <div>
+    Too…to , participle ,   By + gerund,  Without + gerund,   to + verb এর  present form থাকা,   in spite of , despite of , because of, due to, owing to, at the age of,   at / in যোগে সময়ের উল্লেখ থাকা,  at the time of  থাকা।
+  </div>
+</body>
+
+</html>

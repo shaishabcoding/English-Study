@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Rustam and His Brave Son";
+  var text = `Long long ago, there lived in Iran a brave warrior named Rustam. His courage and strength were more than human.
+
+<br>
+Once he had a long ride. At the end of his ride he came to Turan. The king of Kurdistan in Turan invited him. Rustam accepted the invitation and he was given a warm reception. Then the king gave his daughter Tahmina in marriage with him. Rustom pressed a few months with his wife in Turan and then he again went out in the world in search of adventures. A son was born to him and the mother named the child Sohrab. Rustam did not know it. He was informed that a daughter was born.
+
+<br>
+Sohrab grew up as a warrior. He wanted to see his father. At the age of 18, a war broke out between Iran and Turan. Sohrab fought in favour of  Turan while his father fought for Iran. The father and the son faced directly. Sohrab was killed in the hand of his father. Rustam soon recognized him as his son when it was too late. He became extremely repentant for the tragic incident.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

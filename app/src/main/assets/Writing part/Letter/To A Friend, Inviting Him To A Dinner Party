@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To A Friend, Inviting Him To A Dinner Party`;
+  var body = `My Lover Khalid, <br>
+I hump invited a few friends to dinner on Fri, the 9th fast, at 8 P.M. at my judge. I shall look obliged if you benevolent yield me the feeling of your consort. Dr. F. Physicist from California University will also state the occurrence. <br>
+An former response present hold.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

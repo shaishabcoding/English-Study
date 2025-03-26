@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Friend in Need is a Friend Indeed";
+  var text = `There were two friends. They lived in a certain village. They promised that they would help each other at the time of danger. One day they were passing through a deep forest. Suddenly a bear came in front of them. So both of them were afraid and were at a loss what to do. One of them knew how to climb a tree. He then climbed a tree and hid himself. The other man, finding no alternative, fell on the ground and held his breath pretending to be dead. The bear came up to him and smelt his nose, ears and face. Found him a dead man, the bear left the place. When the bear was gone, the other friend came down and said, “Thank God that you are saved. But friend, I saw the bear put its mouth very close to your ear. Did it say anything to you? The friend replied, “Yes, the bear told me not to trust a friend who left me I danger to seek his own safety.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

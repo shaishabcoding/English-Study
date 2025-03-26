@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+ js.getRandomName(),
+ js.getRandomName()
+];
+const title = "Reading newspaper";
+ const data = [
+  "Hello " + men[1] + "! How are you?",
+  "Thank you. I am fine. How are you?",
+  "I am also fine. Thank you. Where are you going?",
+  "I am going to buy a news paper.",
+  "Do you read newspaper regularly?",
+  "Of course. Don’t you?",
+  "Certainly. You know newspaper is called the store house of knowledge.",
+  "You are right. Without reading newspaper we can’t know about the world.",
+  "They who don’t read newspaper remain frogs of the well. Because they don’t know the current affairs of the country and world.",
+  "At the same time newspapers contains articles related to our study. They are very helpful.",
+  "Which section of newspaper do you like most?",
+  "Certainly the study page. And you?",
+  "I like the general knowledge section and literary articles. Sometimes I send my writings to      newspaper.",
+  "That’s very good. Newspaper up hold people’s view, too. I have to go now.",
+  "Ok. See you later. Bye.",
+  "Bye."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-7 ᐅ </b>
+  Active voice-এর double object থাকলে Passive voice-এর কাঠামো ᐅ 
+ </p>
+ <card>দুটি object-এর যেকোনটি subject হিসেবে নেয়া হয় (ব্যক্তিবাচক object-টি পরিবর্তন করা ভাল) +Tense এবং person-অনুসারে Auxiliary verb +Verb-এর past participle+ অন্য object+ by+ active voice-এর subject-টি object হিসেবে লেখা হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>I gave her a dress. (Active)</li>
+  <li>She was given a dress by me. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

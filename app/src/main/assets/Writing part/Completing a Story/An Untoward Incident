@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An Untoward Incident";
+  var text = `It was a fine day in summer. School was closed due to summer vacation. Ratul and his close friends Arun, Abdul, Ibrahim and Manab planned to go near a stream in the next village. They began playing “gilli danda” with much fun and frolic. Then suddenly an untoward incident happened. Ibrahim slipped his legs and fell straight into the stream. He didn’t know how to swim, nor did anyone of them. The undercurrent was pulling him down and he was just waving his hand. Incidentally, a passers by was passing by the road. They saw him and requested him to save their friend from drowning. The passers by jumped into the stream, swam and dived into the water and pulled Ibrahim out of water. All the boys thanked him. He suggested to them that they should learn the skill of swimming.<br><br><b>Moral</b> ᐅ The careful never fall in trouble`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

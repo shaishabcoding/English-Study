@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a Letter to Your Friend Describing How You Are Staying and Enjoying in Your Village Home`;
+  var body = `Dear Ibrahim,<br><br>
+I am glad to hear that you are enjoying yourself in a tea garden of Sylhet. I am here in our village to which your letter was redirected. I was reluctant to come here, but having done so I feel very happy. Born and brought up in Dhaka as I was, I had never known this village where my father and grandfather had lived. It is such a change for me that I have already liked the place so much and taken decision to spend the rest of the time before the publication of our result here in this village.
+<br>
+The air is fresh here. Here are lots of fresh vegetables that we can eat. My grandmother takes a keen interest in cooking and making cakes. There is a well kept pond beside our house. My cousins take me for a dip everyday and I am trying to learn swimming. The local high school is not far from here and the school has a library. I am getting lots of books to read. Write soon as you can. Best luck.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

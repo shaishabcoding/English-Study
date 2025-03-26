@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing the bad effects of smoking`;
+  var body = `My dear Nasim,<br><br>
+At the beginning of the letter, take my cordial love. I am sorry that you have been addicted to smoking.You know that smoking is a bad habit. It does a lot of harm to us. A single puff of cigarette smoke contains 15 billion particles of substances which are very dangerous for health. Smoking causes cancer,heart attack and other fatal diseases. Excessive smoking may lead a person for premature death.
+<br>
+I would suggest you to give up smoking just now. Firm determination of mind will help you in this respect. Never indulge in such dangerous habit again.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

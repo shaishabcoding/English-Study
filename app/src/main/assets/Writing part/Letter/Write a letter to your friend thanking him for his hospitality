@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend thanking him for his hospitality`;
+  var body = `My dear Nasrin, <br><br>
+I have reached home safely. Now I'm at home but think I left my soul in Magura. I really cannot forget affectionate love that your parents and elder sister showed to me. I'm highly pleased at the entertainment that Sahrin Apu did. It was beyond my expectations. I've never seen like a family like yours. All the members of your family treated me as Ma moni. I found no difference between you and me there. I think your family is also my family. Actually the hospitality you showed , charmed me. I thank you for helping me in visiting all the places. I think it was impossible for me to visit the places without your help. I enjoyed your company very much. I'm feel proud having such a friend like you.
+<br>
+I told much of your hospitality, your family and you to my mother. She is very much curious to see you. If it is possible then come to Dhaka within a short time. I'm looking forward to you.
+<br>
+No more today.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

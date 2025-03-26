@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Friend Who Has Suffered A Severe Pecuniary Loss`;
+  var body = `My honey Ruler,<br>
+At the danger of attending busy, I jeopardize to correspond to you to question whether the bruit which reached me this salutation is echt. Is it a fact that you have suffered a severe pecuniary failure in the enterprise? We trust that the scuttlebutt may channelize out to be fictive or at smallest immoderate. But should it unluckily be sincere, you moldiness let me necessitate the permit of an old friend of your fellowship and bid you specified financial assistance as lies in my state.<br>
+I hump all you give say. Consider it already said, and let us be applicable. Allow m and to put at your direction specified a sum as you may requisite. Do not refuse me this consider.
+With superfine wishes.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

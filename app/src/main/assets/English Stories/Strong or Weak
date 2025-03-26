@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>© Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh9Nbc80mJL4fm0sV4RjMEB7uma8DQdFSuXQ&usqp=CAU"/></div>
+  <div class="title">Strong or Weak</div>
+  <div class="en">Strong or Weak
+There was a proud teak tree in the forest. He was tall and strong. There was a small herb next to the tree.
+<br><br>
+The teak tree said, "I am very handsome and strong. No one can defeat me." Hearing this, the herb replied, "Dear friend, too much pride is harmful. Even the strong will fall one day."
+<br><br>
+The teak ignored the herb's words. He continued to praise himself.
+<br><br>
+A strong wind blew. The teak stood firmly. Even when it rained, the teak stood strong by spreading its leaves.
+<br><br>
+During these times, the herb bowed low. The teak made fun of the herb.
+<br><br>
+One day, there was a storm in the forest. The herb bowed low. As usual, the teak did not want to bow.
+<br><br>
+The storm kept growing stronger. The teak could no longer bear it. He felt his strength giving way.
+<br><br>
+He tried his best to stand upright, but in the end, he fell down. That was the end of the proud tree.
+<br><br>
+When everything was calm again, the herb stood straight. He looked around. He saw that the proud teak had fallen.
+<br><br>
+Moral: Pride goes before a fall.</div>
+  <div class="title">শক্তিশালী বা দুর্বল</div>
+  <div class="bn">
+ বনের মধ্যে একটি গর্বিত সেগুন গাছ ছিল।  তিনি লম্বা এবং শক্তিশালী ছিলেন।  গাছের পাশে একটা ছোট ভেষজ ছিল।
+<br><br>
+ সেগুন গাছ বলল, "আমি খুব সুদর্শন এবং শক্তিশালী। কেউ আমাকে হারাতে পারবে না।"  একথা শুনে ভেষজ উত্তর দিল, "প্রিয় বন্ধু, অত্যধিক অহংকার ক্ষতিকর। এমনকি শক্তিশালীও একদিন পড়ে যাবে।"
+<br><br>
+ সেগুন ভেষজের কথা অগ্রাহ্য করল।  নিজের প্রশংসা করতে থাকেন।
+<br><br>
+ প্রবল বাতাস বয়ে গেল।  সেগুন শক্ত হয়ে দাঁড়াল।  বৃষ্টি হলেও সেগুন তার পাতা ছড়িয়ে শক্ত হয়ে দাঁড়ায়।
+<br><br>
+ এই সময়ে, ভেষজ নত.  সেগুন ভেষজ নিয়ে মজা করেছে।
+<br><br>
+ একদিন জঙ্গলে ঝড় উঠল।  ভেষজ নত.  যথারীতি সেগুন প্রণাম করতে চাইল না।
+<br><br>
+ ঝড় আরও শক্তিশালী হতে থাকে।  সেগুন আর সহ্য করতে পারল না।  সে অনুভব করল তার শক্তি পথ দিচ্ছে।
+<br><br>
+ তিনি সোজা হয়ে দাঁড়ানোর যথাসাধ্য চেষ্টা করেছিলেন, কিন্তু শেষ পর্যন্ত তিনি পড়ে যান।  সেই গর্বিত গাছের সমাপ্তি ছিল।
+<br><br>
+ সবকিছু আবার শান্ত হলে, ভেষজ সোজা হয়ে দাঁড়াল।  সে চারিদিকে তাকাল।  তিনি দেখলেন যে গর্বিত সেগুনটি পড়ে গেছে।
+<br><br>
+ নৈতিক: অহংকার পতনের মূল।</div>
+  <script src="main.js"></script>
+</body>
+</html>

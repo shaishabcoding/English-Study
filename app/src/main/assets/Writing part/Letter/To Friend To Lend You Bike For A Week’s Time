@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Friend To Lend You Bike For A Week’s Time`;
+  var body = `My Dear Friend,<br>
+I am OK here and expectation that this character faculty reach you in unexcelled of your moods. As my fuss is ill and I feature to go to the physician to create medicines for her. Doctor's clinic is longer departed from my sanctuary and my Wheel is out of ordering. So I go there on foot. Would you be kind sufficiency to give me your Bike for one week? I present use it with major charge. <br>
+Please hand it over to my brother the bearer of this letter. <br>
+Hoping to be obliged. `;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

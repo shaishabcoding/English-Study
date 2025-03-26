@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Brother Advising Him To Be Careful About His Health`;
+  var body = `My Dear,<br><br>
+I am very glad to know that you have got high marks in the Exams. I am informed that you were over absorbed in your studies and do not care for your health. It is not good.<br>
+Dear brother, you should know that only a sound body has a sound mind. Try to sleep early. Go outside for a morning walk. You should have light exercises in the morning also. If you keep on reading without taking any exercise, your health will soon break down. I think you will give proper attention to my advises. I am waiting for a good report from you.
+With best wishes,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

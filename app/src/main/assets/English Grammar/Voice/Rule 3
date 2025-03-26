@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-3 ᐅ </b>
+  May/might/can/could/must/ought to/going to-যুক্ত Sentence-এর ক্ষেত্রে passive voice-এর structure ᐅ
+ </p>
+ <card>Object’s subject+ may/might/can/could/ must/ought to/going to+ be+ Verb’s past participle+ by+ subject’s object</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>You must write the poem. (Active)</li>
+  <li>The poem must be written by you. (Passive)</li>
+ </ul>
+ <ul>
+  <li>She may help you. (Active)</li>
+  <li>You may be helped by her. (Passive)</li>
+ </ul>
+ <ul>
+  <li>We ought to obey our parents. (Active)</li>
+  <li>Our parents ought to be obeyed by us. (Passive)</li>
+ </ul>
+ <ul>
+  <li>We are going to organize a party. (Active)</li>
+  <li>A party is going to be organized by us. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

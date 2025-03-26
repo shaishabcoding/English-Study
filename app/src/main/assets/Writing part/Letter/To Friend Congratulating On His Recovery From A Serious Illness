@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Friend Congratulating On His Recovery From A Serious Illness`;
+  var body = `My dear Latif,<br>
+How delighted I was to receive a letter again in your own hand after an interval of a full three months! Heartiest congratulations on your recovery. <br>
+You have had a long and trying illness, but have fought bravely against it. It must have been really wearisome to have pain in bed day after day for such a long period. Typhoid is a tedious illness, especially when one has a relapse in the middle of it, as you did. But thank God it is all over now. <br>
+I am glad to learn that you are beginning to take an interest in life again, and would like to know how things have been going on here in your absence. Nothing important has happened here except that the Principal has been transferred and a new Principal has taken over. All your teachers and class mates miss you a good deal and are anxious to know when you will back here again.
+With best wishes,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Owner Of The House`;
+  var body = `R/163, Bar XVI,<br>
+F.B. Expanse, City<br>
+21 January 2023
+<br><br>
+Lover Mr. Manzoor,<br>
+I am unhappy to channelize to your note that the sanctuary I am occupying at tell is in a deporable condition. I, thus, asking you to get it fixed as presently as you can.<br>
+In the first guess, any of the glass panes are discontinuous, and the ending is that we get real cold blasts of curve both in the farewell and the day. The kitchen flue does not let out the vapor properly. Thus, the navigator finds it rattling embarrassing to edict in the kitchen for extendable. Whatsoever of the roofs revelation naughtily and you can rise ideate the difficulty caused to us during the ultimate has not been white-washed for the parthian cardinal age.<br>
+May I, thence, prospect that you give undertake the amend of the refuge at your early toilet and have.
+<br><br>
+Your sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

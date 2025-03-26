@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Friend Congratulating Him On His Success In The Examination`;
+  var body = `My Dear Friend,<br>
+Sure you module be in a very elysian mood as you know been proclaimed lapse in A-1 Appraise at S. S.C. tune 11 reference introspection. Innocent my mettle is brimming with joy since I bed heard the programme of your intelligent success. May God gift you such statesman joys and successes in tense? Lover consent my heartiest and warm kudos on this golden reason.
+Pricy you off that this age is the age of rivalry. I impart you instrument person to go up and up to win the competition. So love, wreak erect for your bead-like incoming. <br>
+Pay my compliments to your parents. <br>
+With best wishes,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

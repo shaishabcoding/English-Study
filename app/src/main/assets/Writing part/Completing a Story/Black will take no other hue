@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Black will take no other hue";
+  var text = `It was a winter morning. Cold wind was blowing heavily. A farmer was going to his field. He found a snake half dead with cold, laying by the side of the road. He took pity on the of the road. He took pity on the wretched snake. He put it in his basket and brought it home. He warmed the snake with fire and gave it warm milk and made it fresh. It was all right with it and it got quite well very soon. It began to play with the children of the farmer. For the time being, it behaved well but afterwards it showed its actual behavior and forgot the sympathy of the kind farmer. One day while playing with the children of the farmer, it spread out its fang and bit one of them. The farmer realized his mistake. He understood that an evil always remains an evil. So he became very angry and killed the snake with a stick, saying, “Black will take no other hue.”`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

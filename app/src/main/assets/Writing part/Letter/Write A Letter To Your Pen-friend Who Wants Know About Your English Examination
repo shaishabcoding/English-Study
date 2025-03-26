@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Pen-friend Who Wants Know About Your English Examination`;
+  var body = `My dear Nila,<br><br>
+I received your letter in time. Thank you very much for your encouragement and best wishes for my examination. Now that my examination is over, I feel more relaxed. In your letter you wanted to know about my English Examination. Let me tell you about it.
+<br>
+Our English teaching and learning process has undergone a thorough change in 2001. Last year the English question on the new curriculum has been introduced in the Madhyamik Examination. Anyway, there are three sections in our English question paper. The first section is called Reading Comprehension (Seen and Unseen), the second one is called Grammar and Vocabulary and the third section is called Writing. Of all these I like Reading Comprehension and Grammar and Vocabulary sections. I find Writing section a little difficult. In this examination I have fared well in the first two sections as I expected but I could not do so well in the third section. However, the question paper was neither too difficult nor too easy.
+<br>
+How was your examination? Do drop me a few lines by return of post. Awaiting your reply. With lots of love.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

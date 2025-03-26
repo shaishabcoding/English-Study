@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Promised Should Be Kept";
+  var text = `A long time ago, the town of Hamelin in Germany was faced with a great problem. It became full of rats. The rats were so big and fierce that they fought the dogs, killed the cat and bit the babies. At last the people came to the Town Hall and said the Mayor to do something. But the Mayor didn’t know what to do. At that moment a piper came there and said, “People call me pied piper. If you pay me a thousand guilders, I will rid your town of rats. All right, I will pay you the sum, said the Mayor. Then the pied piper went to the street, drew out a pipe from his pocket and began to play on pipe. Soon the rats came out tumbling from every house in Hamelin. There were thousands of rats that followed him. He went down to the bank of the river Weser and waded into the river. And every single rat, which followed him, was drowned. But the Mayor refused to pay the contracted amount of money. At this the pied piper got angry and played on his pipe in another tune. Hearing the strange tune the children came out and followed him. The piper disappeared behind a hill with all the children and did never come back.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

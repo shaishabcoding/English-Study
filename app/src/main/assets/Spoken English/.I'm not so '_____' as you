@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">I'm not so '_____' as you.</div>
+  <div id="data"></div>
+  <script>
+    var data = [["I'm not so handsome as you.","আমি তোমার মতো এতো সুদর্শন নই।"], ["I'm not so beautiful as you.","আমি তোমার মতো এতো সুন্দরী নই।"], ["I'm not so short as you.","আমি তোমার মতো এতো খাটো নই।"], ["I'm not so tall as you.","আমি তোমার মতো এতো লম্বা নই।"], ["I'm not so intelligent  as you.","আমি তোমার মতো এতো বুদ্ধিমতি নই।"], ["I'm not so afraid as you.","আমি তোমার মতো এতো ভীতু নই।"], ["I'm not so selfish as you.","আমি তোমার মতো এতো স্বার্থপর নই।"], ["I'm not so clever as you.","আমি তোমার মতো এতো চালাক নই।"], ["She is not so good as them.","সে তাদের মতো এতো ভালো না।"], ["If i don't help them, who will?","যদি আমি তাদের সাহায্য না করি, তাহলে কে করবে?"]]
+  </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `welcome letter to a new student in university`;
+  var body = `Jamal Hossain <br>
+Banskhali,Chattogram <br>
+PC-Banigram,PS-Banskhali
+<br><br>
+Dear Jamal Hossain, <br> I'm pretty sure you are so looking forward to the new semester! I am enclosing a list of subjects that will be offered and their corresponding course codes. You can also check out books that will be used. These books can be bought at any leading bookstore, or you can also order it online. If you have other inquiries, please don't hesitate to contact me. You can reach me at my office at 2025050 on weekdays from 2:00-5:00 p.m. I'm willing to assist you any way I possibly can. Until then! <br><br> Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

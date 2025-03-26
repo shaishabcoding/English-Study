@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = "The importance of tree plantation";
+ const data = [
+  "Hello "+men[1]+"! How are you ? ",
+  "Fine, by the grace of almighty Allah. And you?",
+  "Well by the grace of Allah.",
+  "Where are you going now "+men[0]+"?",
+  "I am going to the nursery.",
+  "Nursery! But why?",
+  "To buy sapling.",
+  "What will you do with the sapling?",
+  "Tree plantation.",
+  "Please explain.",
+  "Trees are the most important element of our environment. It supplies oxygenand receives carbon dioxide that we always leave.",
+  "What more?",
+  "Tree keeps our ecological balance, protects river erosion, provides sheds to our beasts and birds.",
+  "Does it play any role of filling the demand of food?",
+  "Sure. It supplies us with all kinds of food we eat.",
+  "I am agree with you. But I see something more than oxygen and food.",
+  "What are those?",
+  "Furniture, fuel and medicine. All these are the part and parcel of our daily life.",
+  "I am grateful to you for sharing your valuable views and ideas.",
+  "Thank you "+men[0]+".",
+  "You are most welcome."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

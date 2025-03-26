@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Wit of the Fox";
+  var text = `The lion is known as the king of the beasts. So he does not work. Other animals of the forest sent one animal to him every morning for his eating. One day it was the turn of a fox. As we know the fox is a very clever creature. He did not go in the morning. The lion became very hungry and began to roar in rage. The fox came running at noon and began to tremble. The lion said, “Why are you, so late”. The clever fox put his hands together and said “Sir, so long we knew you to be the only king of the forest. But I was detained today by another lion near the big well on the Eastern part of the forest. I have come to you giving him the undertaking that I would return in an hour”. The lion became furious. He asked the fox to lead him to that wretched fellow. The fox took him to the well and pointed into clean water of the well. The lion looked into the well and saw his own image. He thought it was really his rival. So he said, “Who are you? Don’t you know I am the king?’ The same words resounded from the well. The lion determined to kill him, he jumped into the well. Alas! he was drowned in the water of the well. All other animals admired the fox for his ready wit.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

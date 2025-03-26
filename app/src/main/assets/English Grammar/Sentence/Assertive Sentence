@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>© Shaishab Chandra Shil</title>
+  <script src="main.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="title">Assertive Sentence</div>
+  <div>যে Sentence দ্বারা কোন কিছুর বর্ননা বা বিবৃতি প্রকাশ করে তাকে Assertive sentence বলে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1.আমি বই পড়ি - I read a book.
+      <br>
+      2. সে স্কুলে যায় - He goes to school.
+      <br>
+      3. জেলরা মাছ ধরিতেছে - The fishermen are catching fish.
+      <br>
+      4. মা রান্না করিতেছে - Mother is cooking.
+      <br>
+      5. আলিমা টাইপ করিতেছে - Alima is typing.
+      <br>
+      6. সুইটি খেলিতেছে - Sweety is playing.
+      <br>
+      7. স্বপন কাজটি করিয়াছে - Swapan has done the work.
+      <br>
+      8. রাজু এসেছে - Raju has come.
+      <br>
+      9. সাদিয়া বই পড়িয়াছে - Sadia has read a book.
+      <br>
+      10. ফাতেহা স্কুলে গিয়েছে - Fateha has gone to school.
+    </div>
+  </div>
+  <div class="title sub">Classification</div>
+  <div>
+    Assertive Sentence-এর তিনটি রূপ :
+    <br><br>
+    1. Affirmative ( হ্যাঁ-বোদক );
+    <br>2. Negative ( না-বোদক );
+    <br>3. Emphatic ( জোরালো রূপ );
+  </div>
+  <div>
+    নিচে Assertive Sentence-এর Affirmative, Negative ও Emphatic form দেখানো হলো । <br>
+    Simple present / Simple past tense-এর sentence-গুলোর main verb-এর পূর্বে do ( do / does / did ) বসিয়ে Negative এবং Emphatic sentence করা হয় ( Negative-এর ক্ষেত্রে not যোগ করতে হয় ) :
+    <div class="lable">Example</div>
+    <div class="example">
+      <table>
+        <tr>
+          <th>Affirmative</th>
+          <th>Negative</th>
+          <th>Emphatic</th>
+        </tr>
+        <tr>
+          <td>I like fish.</td>
+          <td>I do not like fish.</td>
+          <td>I do not fish.</td>
+        </tr>
+        <tr>
+          <td>He loves her.</td>
+          <td>He does not love her.</td>
+          <td>He does love her.</td>
+        </tr>
+        <tr>
+          <td>She cooked rice.</td>
+          <td>She did not cook rice.</td>
+          <td>She did cook rice.</td>
+        </tr>
+        <tr>
+          <td>I have a car.</td>
+          <td>I don't have a car.</td>
+          <td>I do have a car.</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div>
+    উপরের  Table-এ Affirmative-কে Negative-এ পরিবর্তন করতে অর্থের পরিবর্তন করা হয়েছে  । <br>
+    কিন্তু  এ অর্থের পরিবর্তন না করেও Negative করা যায় । 
+    <div class="lable">Example</div>
+    <div class="example">
+      <table>
+        <tr>
+          <th>Affirmative</th>
+          <th>Negative</th>
+        </tr>
+        <tr>
+          <td>Raju is a rich man.</td>
+          <td>Raju is not a poor man.</td>
+        </tr>
+        <tr>
+          <td>You are an old man.</td>
+          <td>You are not a young man.</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+
+</html>

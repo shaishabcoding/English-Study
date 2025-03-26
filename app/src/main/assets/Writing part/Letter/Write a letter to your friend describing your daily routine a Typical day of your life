@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing your daily routine a Typical day of your life`;
+  var body = `My dear Jisa,<br><br>
+Your letter is just to hand. You have wanted to know about my typical day.
+I have a daily routine of my own. Everyday I follow it. I get up at 5:30 to 6:00 am. I walk in the open air for half an hour. I take my bath at 7am.Then I have my breakfast. I start for school at 8:00 am. I returned from school at 1:30 pm. After refreshing I take lunch. Then I rest for an hour. I go to play at 4:00 pm. In the evening I come back home. I wash my face and hands. Then I go to my reading room. I study up to 10:00 pm. Then I take my supper and go to bed.
+<br>
+No more today., More will be in the next. Write me back your feelings about writing for your reply.Please come to our house as early as possible.
+<br>
+My best regards to your parents and love to you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

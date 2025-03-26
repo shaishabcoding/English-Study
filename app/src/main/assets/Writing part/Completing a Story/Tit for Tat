@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Tit for Tat";
+  var text = `One day, a grocer borrowed a balance and weights from a fruit seller. After a few days, the fruit seller asked the grocer to return his balance and weights. The grocer said, “The mice ate away your balance and weights.”. So, I cannot return them. ” The lame excuse of the dishonest grocer made the fruit seller very angry. But he controlled his temper. Then one day, the fruit seller said to the grocer “I am going to the town to do some shopping. Please send your son with me to carry my things.” The grocer sent his son with the fruit seller. The next day the fruit seller came back alone from the town. The grocer asked where his son was. The fruit seller replied that a crow had carried away his son. The grocer shouted and asked how a crow had carried his son. The fruit seller replied that just in the same way as mice could eat away balance and weights. The grocer then admitted his fault and returned the balance and weights to the fruit seller.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

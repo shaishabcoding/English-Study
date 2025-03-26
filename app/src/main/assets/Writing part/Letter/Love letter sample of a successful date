@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Love letter sample of a successful date`;
+  var body = `Dear Nasreen,<br>
+I just want to thank you so much for last night. I can't remember the last time I had fun and felt connected with someone. To tell you the truth, I had my reservations when you said that we were heading to the local fair. But any doubts I might have had all disappeared the moment we walked in hand in hand. I enjoyed the Ferris wheel ride with you. It felt nice being close to the stars and hearing your stories about your childhood. I promise I won't tell anyone about that incident you went through when you were nine years old. It cracked me up. I guess, the biggest surprise of the night was just how comfortable I felt with you. I've been so busy lately with work that it's been a while since I last got close to someone. I'm glad that someone was you.
+
+<br>
+I hope you enjoyed my company just as much as I did yours because I want to spend more time with you. There's this musical showing in Addison Theater on Saturday, and I remember you telling me you loved Broadway, so I got us tickets. I hope you can make it. Give me a call soon so we can talk about the details. I can't wait to hear from you.
+<br><br>
+
+
+Sincerely,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

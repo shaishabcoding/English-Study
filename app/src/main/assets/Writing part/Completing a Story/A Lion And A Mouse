@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Lion And A Mouse";
+  var text = `Once a lion was sleeping in a forest. Suddenly a mouse came there. It did not notice the sleeping lion. It was running about and playing happily. By chance it ran over the face of the lion. It awoke the lion. At this lion grew very angry and caught the mouse. Then the mouse prayed meekly, Please let me go. One day you may need my help. The lion laughed and thought, How could a little mouse help a lion? The he said, Well, I will let you go but you must walk carefully. The lion set the mouse free. The mouse was grateful. He thanked the lion. One day the mouse was looking for something edible. Suddenly he saw that the lion was caught in a net in the jungle. The mouse remembered the lion’s assistance and started cutting the net with his sharp teeth. Finally the mouse cut the net and set the lion free. The lion was also grateful to the little creature. So he thanked the mouse and offered him to be his friend.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

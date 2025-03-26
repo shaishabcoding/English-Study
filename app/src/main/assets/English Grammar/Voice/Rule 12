@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-12 ᐅ </b>
+  Cognate object-যুক্ত active voice-এর Passive কাঠামো ᐅ 
+ </p>
+ <card>Object-টি subject হিসেবে ব্যবহৃত হয়+ Tense অনুসারে Auxiliary verb+ Verb-এর past participle+ by+ Subject-এর object.</card>
+ <br>
+ <card><b>Note ᐅ </b>কিছু intransitive verb কিছু সাহায্যকারী object ব্যবহার করে transitive verb-এর মত আচরণ করে। এই সাহায্যকারী object-গুলোকে Cognate object বলে।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>He wrote a poem. (Active)</li>
+  <li>A poem was written by him. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Ready Wit of a Cook";
+  var text = `A cook once roasted a duck for his master. The roast looked very delicious. The cook ate up one of the drumsticks. When his master sat down to eat, he quickly noticed the missing leg. He asked the cook what had happened to the other leg. The cook replied that the duck had one leg only. The master was not be fooled. He said there was no such thing as a one-legged duck. But the cook again said that the duck had only one leg. The master was very annoyed with the stubbornness of the cook. He threatened to fire him from the job. At that moment, the cook looked out of the window and saw some ducks resting outside in the court. One of the ducks was standing on one leg and had the other leg folded inside. He drew the attention of his master and showed him that some ducks did indeed have one leg. The master clapped his hands which startled the duck. It put down its other leg and ran off. The master looked at the cook. The cook replied that his master was right after all. If he had known this trick, he would have clapped his hand too to bring out the other leg. The master was very amused by the ready wit of the cook.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

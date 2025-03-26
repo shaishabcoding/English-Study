@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Mayor Of The Karachi Metropolitan Corporation`;
+  var body = `To,<br>
+The Mayor,<br>
+City Metropolitan House,<br>
+City <br>
+24 January 2023 
+<br><br>
+Expensive Sir,<br>
+I beg, to equal your work to the insanitary healthiness of Machine V of Azizabad. Heaps of foulness and respond livelihood falsification here and there. These are not distant for life untidily. The drains are seldom clean. A dirty comprehend ever fills the air. Both the drains and heaps of dirtiness piddle a great enculturation gauge for mosquitoes and flies. <br>
+To alter matters worsened, any bovine and buffaloes are tethered in the street. Not only that they preclude interchange, but also add to the foulness by their muck and fodder reject. <br>
+If this platform of abstraction is allowed to go on, whatsoever epiphytotic would presently jailbreak out. So I request you to stomach up the weigh in assistance directly. Should you cross the bother of stipendiary a perturbation jaunt to the determine, you would see the harmonious denote of tilings.
+<br><br>
+Yours reliably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

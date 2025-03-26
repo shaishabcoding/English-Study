@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-21 ᐅ </b>
+  If-clause-এর verb present indefinite tense-এ থাকলে bracket-মধ্যকার verb-এর রুপ হবে future indefinite tense.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>If he needs my help, my father (help) you. – If he needs my help, my father <i>will help</i> you.</li>
+  <li>If you go to the town, you (meet) my father. – If you go to the town, you <i>will meet</i> my father.</li>
+  <li>I (finish) the job if I can. – I <i>will finish</i> the job if I can.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-22 ᐅ </b>
+  If-clause-এর verb past indefinite tense-এ থাকলে bracket-মধ্যকার verb-এর রুপ হবে would+verb-এর এক নম্বর।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>If Rahim worked hard, he (pass) the examination. – If Rahim worked hard, he <i>would pass</i> the examination.</li>
+  <li>If he came, I (go). – If he came, I <i>would go</i>.</li>
+  <li>Rahim (help) them if they came. – Rahim <i>would help</i> them if they came.</li>
+  <li>I would help him if he (want). – I <i>would help</i> him if he wanted.</li>
+ </ol>
+ <p>কিন্তু if-clause-এ bracket-মধ্যে ‘be’ দেয়া থাকলে তা পরিবর্তন করে ‘were’ করতে হয়।</p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>If I (be) you, I would accept the job. – If I <i>were</i> you, I would accept the job.</li>
+  <li>I would buy a fine car if I (be) rich. – I would buy a fine car if I <i>were</i> rich.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-23 ᐅ </b>
+  If-clause-এর verb past perfect tense-এ থাকলে bracket-মধ্যকার verb-এর রুপ হবে would have+verb-এর তিন নম্বর।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>If he had tried, he (do) better. – If he had tried, he <i>would have done</i> better.</li>
+  <li>If we had found his address, we (write) him. – If we had found his address, we <i>would have written</i> him.</li>
+  <li>I would have bought a car if I (have) the money. – I would have bought a car if I <i>had had</i> the money.</li>
+  <li>I would have done better if I (take) my father’s advice. – I would have done better if I <i>had taken</i> my father’s advice.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-24 ᐅ </b>
+  As if অথবা as though যদি বাক্যের conjunction হিসাবে ব্যবহৃত হয়, তবে as if অথবা as though-এর আগের clause-এর verb-টি present indefinite হলে as if অথবা as though-এর পরের clause-এর verb-টি past indefinite হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>He speaks as if / as though he (know) everything. – He speaks as if / as though he <i>knew</i> everything.</li>
+  <li>He acts as if / as though he (be) rich. – He acts as if / as though he <i>were</i> rich.</li>
+ </ol>
+ <p>কিন্তু as if অথবা as though-এর আগের clause-এর verb-টি past indefinite হলে as if অথবা as though-এর পরের clause-এর verb-টি past perfect হবে।</p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>He looked as if / as though he (run) ten miles. – He looked as if / as though he <i>had run</i> ten miles.</li>
+  <li>Rahim looked as if / as though he (see) a ghost. – Rahim looked as if / as though he <i>had seen</i> a ghost.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-25 ᐅ </b>
+  Before ও after conjunction দ্বারা অতীতকালে ঘটে যাওয়া দুটি কাজ দুটি clause-এর মাধ্যমে বর্ননা করতে চাইলে যে কাজ আগে ঘটে সে কাজকে past perfect tense-এ লিখতে হয়। আর যে কাজটি পরে ঘটে, তাকে past indefinite tense-এ লিখতে হয়। এক্ষেত্রে, before-এর পূর্বে past perfect tense ও after-এর পরে past perfect tense হয়। অপর clause-টি past indefinite tense-এ হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>The patient had died before the doctor (come). – The patient had died <b>before</b> the doctor <i>came</i>.</li>
+  <li>The patient died after the doctor (come). – The patient died <b>after</b> the doctor <i>had come</i>.</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

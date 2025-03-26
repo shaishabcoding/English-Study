@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Dutiful Station Master";
+  var text = `Nipoon was going to Rajshahi from Dhaka by the Padma Express. On the way, the train stopped at Gafargaon first and then at Mymensingh and Jagannathganj. He had to leave the train to cross the river by a railway ferry and board another train on the other side. Unfortunately, he lost his bag on the ferry. In the bag, there were his clothes, money, tickets, etc. He was terribly upset. He did not know what to do. Suddenly an idea came to his mind. He went to the station master. He was very nervous. The station master was a very kind-hearted man. He listened to Nipoon’s description of his bag. He made some telephone calls. He asked his staff to look for the bag and gave a description of it Nipoon was about to burst into tears when a policeman walked into the station master’s room with the bag in his hand. He said that it was found on the ferry and nobody claimed it As Nipoon saw the bag, he had a smile on his face which showed a sign of relief. The master asked Nipoon to open the bag and see if he had all his things in it. Nipoon thanked the station master and the policeman. He thought there are still some people who are really kind in heart.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

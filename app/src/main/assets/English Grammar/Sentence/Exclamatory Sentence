@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+
+<body>
+  <div class="title">
+    Exclamatory Sentence
+  </div>
+  <div>
+    যে সব বাক্যের সাহায্যে বিস্ময়সূচক আবেগের বহিঃপ্রকাশ ঘটে তাদেরকে Exclamatory sentence বা বিস্ময়সূচক বাক্য বলা হয়। এধরনের বাক্যের শেষে বিস্ময়সূচক চিহ্ন (!) বসে।
+    <br><br>
+    বিস্ময়সূচক বাক্যও বিবৃতিমূলক বাক্যের (descriptive sentence) মত বিবৃতি প্রকাশ করে তবে সেই বিবৃতির মাধ্যমে জোরালো আবেগ প্রকাশ করা হয়ে থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. We won! (expresses happiness)
+      <br>
+      2. You're adorable! (expresses love)
+      <br>
+      3. I'm going to miss this place! (expresses sorrow)
+      <br>
+      4. You’re late again! (expresses anger)
+    </div>
+  </div>
+  <div>
+    সাধারনত অনানুষ্ঠানিক লেখার (informal) ক্ষেত্রে বিস্ময়সূচক বাক্য ব্যবহৃত হয়ে থাকে; বিশেষত বিজ্ঞাপনে এধরনের বাক্য ব্যবহারের প্রচলন উল্লেখযোগ্যভাবে লক্ষ্য করা যায়।
+    <br><br>
+    তবে Business writing বা formal writing এ এধরনের বাক্যের প্রয়োগ বর্জন করা হয়।
+  </div>
+  <br><br>
+  <div class="title sub">Structure - গঠন</div>
+  <div>
+    <span class="mark">
+      What
+    </span>
+    <div class="lable">Structure</div>
+    <div class="example">
+      What + Noun + etc + !
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      What chaos they made!
+    </div>
+    <br>
+    <div class="lable">Structure</div>
+    <div class="example">
+      What + Adjective + Noun + etc + !
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      What a beautiful girl she is!
+    </div>
+  </div>
+  <div>
+    <span class="mark">
+      How
+    </span>
+    <div class="lable">Structure</div>
+    <div class="example">
+      How + Adjective + etc + !
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      How joyful it was!
+    </div>
+    <br>
+    <div class="lable">Structure</div>
+    <div class="example">
+      How + Adverb + etc + !
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      How rudely she behaved!
+    </div>
+    <br>
+    <div class="lable">Structure</div>
+    <div class="example">
+      How + Subject + etc + !
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      How she lied!
+    </div>
+  </div>
+  <br><br>
+  <div>
+    বিস্ময়সূচক বাক্যের শুরুতে অনেক সময় interjection ব্যবহার করা হয়। সাধারণত বাক্যে প্রকাশিত বক্তব্যের আবেগ বা অনুভূতিকে জোরালো করতে এই কাজটি করা হয়ে থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Wow! That's amazing!
+      <br>2. Oh! What a miserable result!
+    </div>
+  </div>
+  <div>
+    বিস্ময়সূচক বাক্য যে কোন tense এ প্রয়োগ করা যায়।
+  </div>
+  <div>
+    সীমিতভাবে বিস্ময়সূচক বাক্য ব্যবহার করা উচিৎ; ব্যবহারের সময় কখনোই একাধিকবার বা পর পর ব্যবহার করা উচিৎ নয়।
+  </div>
+  <div>
+    বাক্যের শেষে বিস্ময়সূচক চিহ্ন থাকা মানেই বিস্ময়সূচক বাক্য নয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. Shut the door! (Imperative sentence)
+      <br> 2. Where's the man! (Interrogative sentence)
+    </div>
+  </div>
+</body>
+
+</html>

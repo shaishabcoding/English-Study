@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-6 ᐅ </b>
+  Active sentence যার নিম্নরূপ কাঠামো ᐅ
+  Subject + verb + object +present participle-একে নিম্নরূপে passive করা হয় ᐅ 
+ </p>
+ <card>Object-এর subject+ Tense এবং person-অনুসারে Auxiliary verb + Verb-এর past participle+ present participle-যুক্ত অংশ+ by + subject-এর object।</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>I saw him performing the dance. (Active)</li>
+  <li>He was seen performing the dance by me. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

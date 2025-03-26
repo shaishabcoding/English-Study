@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Who Will Bell The Cat";
+  var text = `Once some mice were having a good time in the house of a rich man. There was no want of food there for them. There they make appropriate port digging hole in the owner’s quilt and blanket. They always roamed about in the house crying and leaping and scaring and biting the children. The owner fell in a great disturbance and at last he brought a cat to drive the rats away. The rats were deprived of their precious facilities. Besides, they failed to run the risk of their own lives. They were being suddenly and frequently killed by the cat. Finding no alternative of saving themselves all the mice sat together in a conference. Most of them present in the conference argued and contrived in many ways. Towards the uncompromising finishing of the conference a young rat vigorously stood up and said that a bell might be tied round the neck of the cat so that they could be easily aware of the sudden appearance of the cat to escape themselves then and there. All clapped merrily seconding him. But soon after this, an old mouse said, “The proposal of the young lad is good and very good, I support. But who will bell the cat? At this all were stone still. There was a pin drop silence in the conference. The meeting ended with no decision and the mice eventually migrated to save their own lives.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Danger comes any time";
+  var text = `Rina  works in a big factory of garments.There are more than five hundred workers in the factory.One day as usual she was busy at work.Suddenly a sound came to her that there was a break out of the fire from the short circuit. As ill news runs fast, the news spread very fast among the workers. But no one noticed whether was actually any fire or not .Rina found dark situation and came out from her floor to their factory’s narrow stair. There a vigorous push was made by frightened workers. They were getting down without showing any sympathy to one another. As a result some workers were trodden and faced unnatural death. Almighty Allah saved Rina.We should remember that danger may come anytime.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

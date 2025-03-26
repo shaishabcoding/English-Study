@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+
+<body>
+  <div class="title">Compound Sentence</div>
+  <div>
+    Compound sentence হল একটি বাক্য যা দুই বা ততোধিক স্বাধীন ক্লস বা প্রভৃতি সমন্বয় করে যোজিত হয়। অর্থাৎ, দুটি বা ততোধিক বাক্য যথাক্রমে একসাথে যোগ করে একটি নতুন বাক্য তৈরি হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. রোহিত গরীব হলেও সে সৎ - Rohit is poor but he is honest.
+    </div>
+    এখানে দুটি বাক্য একসাথে যোগ করে একটি compound sentence তৈরি হয়েছে। দ্বিতীয় বাক্যে "but" একটি coordinating conjunction যা বলে দিচ্ছে যে দুটি বাক্য পরস্পর সম্পৃক্ত হলেও তাদের মধ্যে কোনো সম্পর্ক নেই।
+    <br>
+    <br>
+    Compound sentence এ দুই প্রকার হয়ঃ
+  </div>
+  <div>
+   1. Coordinating conjunction বা সমবেত সংযোজক ব্যবহার করে যোজিত হয়। উদাহরণঃ "and", "or", "but", "so", "yet", "for" ইত্যাদি।
+   <div class="lable">Example</div>
+    <div class="example">
+      ১. মিনা নাচতে পছন্দ করে, আর টিনা গান গাইতে পছন্দ করে - Mina likes to dance, and Tina likes to sing.
+      <br><br> ২. আমি ঘুরতে যেতে চাই, কিন্তু আমাকে কাজ করতে হবে - I want to travel, but I have to work.
+    </div>
+  </div>
+  <div>
+    যুক্ত বাক্যে যুক্ত সংযোজক ব্যবহার করে যোজিত হয়। উদাহরণঃ "however", "nevertheless", "therefore", "moreover", "furthermore" ইত্যাদি।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. আমি কফি পছন্দ করি না তবুও আমি প্রতিদিন সকালে এটি পান করি - I don't like coffee nevertheless I drink it every morning.
+      <br><br>
+      ২. তিনি চাকরি পাননি, তাই তিনি তার সংসার চালাতে পারছিলেন না - He has not got a job, therefore, he was unable to maintain his family.
+      <br><br>
+      ৩. পড়ালেখা নিয়ে ব্যস্ত তাই পার্টিতে যেতে পারিনি - I am busy with my studies, therefore, I could not attend the party.
+    </div>
+  </div>
+  <div class="mark">
+    <span class="note">Note ></span>
+    Compound Sentence-এ কমপক্ষে দুটি finite verb থাকে।
+  </div>
+  <div>আরো কয়েক ধরনের compound sentence হতে পারে। যেমন :</div>
+  <div>
+    1. Double compound sentence হল এমন একটি বাক্য যেখানে দুইটি independent clause একসাথে ব্যবহৃত হয়। এই ধরনের বাক্যে দুটি সম্পূর্ণ বাক্য সম্পর্কিত একসাথে থাকে।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. তিনি কঠোর পরিশ্রম করেন, কিন্তু তিনি কখনই অভিযোগ করেন না এবং তিনি সর্বদা কাজটি সম্পন্ন করেন - She works hard, but she never complains, and she always gets the job done.
+      <br><br>
+      ২. আমি বই পড়তে পছন্দ করি, তবে আমি সিনেমা দেখেও আনন্দ উপভোগ করি এবং আমি প্রায়শই সপ্তাহান্তে উভয়ই করি - I like to read books, but I also enjoy watching movies, and I often do both on weekends.
+      <br><br>
+      ৩. তিনি সুন্দরভাবে গান করেন, সুন্দরভাবে নাচ করেন এবং দুর্দান্ত অভিনয় করেন - She sings beautifully, dances gracefully, and acts superbly.
+      <br><br>
+      ৪. তিনি পিজা, হ্যামবার্গার এবং হট ডগ খেতে পছন্দ করেন, কিন্তু তিনি জানেন যে তার স্বাস্থ্যকর খাবার খাওয়া উচিত - He likes to eat pizza, hamburgers, and hot dogs, but he knows he should eat healthier foods.
+    </div>
+  </div>
+  <div>
+    2. Multiple compound sentence হল একটি বাক্য যেখানে একাধিক প্রকারের conjunction ব্যবহৃত হয়েছে এবং প্রত্যেকটি ক্লজ আলাদা করে। সাধারণত প্রথম দুই ক্লজকে একটি conjunction দিয়ে যুক্ত করা হয় এবং তারপর শেষ ক্লজ কে একাধিক ক্লজে ভাগ করা হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. আমি বাজারে গিয়েছিলাম, কিন্তু আমি কিছু কিনিনি, এবং আমি বাড়ি ফিরে এসেছি - I went to the market, but I didn't buy anything, and I came back home.
+      <br><br>
+      ২. তিনি বই পড়তে ভালোবাসেন, তাই তিনি প্রায়শই লাইব্রেরিতে যান বা অনলাইনে অর্ডার দেন - She loves to read books, so she goes to the library often, or she orders them online.
+      <br><br>
+      ৩. তিনি দিনের বেলা একটি রেস্তোরাঁয় কাজ করেন, এবং তিনি রাতে ক্লাসে উপস্থিত হন, তবে তিনি এখনও তার পরিবারের জন্য সময় বের করেন - He works at a restaurant during the day, and he attends classes at night, but he still manages to find time for his family.
+      <br><br>
+      ৪. আমরা সমুদ্র সৈকতে যেতে চেয়েছিলাম, কিন্তু বৃষ্টি হচ্ছিল, তাই আমরা সিদ্ধান্ত নিলাম ঘরে বসে সিনেমা দেখার - We wanted to go to the beach, but it was raining, so we decided to stay home and watch a movie instead.
+    </div>
+  </div>
+  <div>
+    3. Contracted compound sentence হল এমন দুটি বাক্য যা যোগ করে একটি বাক্য তৈরি করে এবং একটি করা হয় যেখানে কোন অংশ একই রকম একই ধরনের শব্দ গুলো সংযুক্ত হয়ে কম শব্দে উল্লেখ করা হয়। এই ধরনের বাক্যে একটি কাট দ্বারা সৃষ্টি হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. আমি গোসল করব তারপর ঘুমাতে যাব - I'm gonna take a shower and then I'll go to bed. (I am going to take a shower and then I will go to bed.)
+      <br><br>
+      ২. তারা আসবেন এবং আমাদের সাথে একটি সিনেমা দেখবেন - They're gonna come over and watch a movie with us. (They are going to come over and watch a movie with us.)
+      <br><br>
+      ৩. সে কিছু খাবার নিয়ে পার্কে আমাদের সাথে দেখা করবে - She'll grab some food and meet us at the park. (She will grab some food and meet us at the park.)
+      <br><br>
+      ৪. আমরা এই প্রকল্পে কয়েক সপ্তাহ ধরে কাজ করছি, এবং আমরা প্রায় সম্পন্ন করেছি - We've been working on this project for weeks, and we're almost done. (We have been working on this project for weeks, and we are almost done.)
+      <br><br>
+      ৫. সে তার হোমওয়ার্ক শেষ করবে এবং তারপর ভিডিও গেম খেলবে - He's gonna finish his homework and then play video games. (He is going to finish his homework and then play video games.)
+    </div>
+  </div>
+</body>
+</html>

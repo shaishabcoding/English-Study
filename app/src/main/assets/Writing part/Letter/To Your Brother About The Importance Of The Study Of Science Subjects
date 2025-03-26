@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Brother About The Importance Of The Study Of Science Subjects`;
+  var body = `My dear Shakoor,<br><br>
+I received your letter yesterday. I came to know about your result of Middle Standard Examination. I am very happy to find that you have got first division. Now you will join class nine. It is time for you to decide about your subjects of study. It is an age of Science. If we want to succeed in this modern world, we must study Science. So I would like to advise you to take up science subjects to study in future.<br>
+If you study science subjects, there will be more scope for you in life. No doubt that you will have to work hard but it will be in your interest. I hope you will act upon my advice and make your life better.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

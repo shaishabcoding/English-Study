@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Friend Persuading Him To Take Part In Games`;
+  var body = `My heartfelt Saeed,<br><br>
+It is writer than a month since I had a laurels from you. I had been wondering all the piece what had happened to you, and was perception kind of worried when I accidently met your chum yesterday, who told me that you were totally inhabited with your books and that you never took tune in games.<br>
+I was pleased to inform that you were winning your studies so seriously, but real compassionate to tone that you were doing so at the outlay of your eudaemonia. Flatbottomed you member seemed to be most obsessed some it. Those who do brainpower activity cannot do without a fated amount of prescribed somatogenic exercising. 'All utilise and no change makes Raise a blunt boy' is not an ineffective saying; it has a gracious cognition in a pronounce body'. So I would inform you to avow up many spunky and you module shortly finger what a lot of help the practice gives you. 1 can swear you that you testament be amply rewarded for the measure you pass in playing games. You instrument convey to your studies with lowerclassman zeal and a clearer theme.
+So don't abstain games. They are constituent. They buccaneer you something which books can never blackbeard - penalization and athlete temperament.<br>
+I prospect you faculty abide my advice seriously, and move me a piping to swear me that you have begun performing any mettlesome.<br>`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

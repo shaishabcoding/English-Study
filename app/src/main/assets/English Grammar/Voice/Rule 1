@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Rule-1 ᐅ</h3>
+ <ol>
+  <li>Active voice-এর subject passive voice-এর object-এ রূপান্তরিত হয়।</li>
+  <li>Active voice-এর object passive voice-এর subject-এ রূপান্তরিত হয়।</li>
+  <li>মূল verb-এর past participle ব্যবহৃত হয় এবং auxiliary verb/ be verb নির্বাচন করা হয় subject এবং tense অনুযায়ী ।</li>
+ </ol>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>I write poems. (Active)</li>
+  <li>Poems are written by me. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

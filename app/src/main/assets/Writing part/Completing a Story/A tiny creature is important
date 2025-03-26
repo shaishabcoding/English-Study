@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A tiny creature is important ";
+  var text = `One day a lion was sleeping in its cave. A mouse was playing nearby. Suddenly the mouse got up on the body of the lion. This disturbed the lion. It woke up. The lion caught hold the mouse and was about to kill it. The mouse was trembling in fear. The mouse begged pardon and said that if there was any chance to help the lion it would help. The lion laughed hearing that. But the lion felt pity on it. He set free the mouse. Few days later the lion was caught in a net of a lion-hunter. It tried it best to be free but failed and roared. Hearing the sound of the lion, the mouse rushed to the spot. The mouse cut the net and set the lion free. Thus the mouse helped the lion and both of them escaped from the spot.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

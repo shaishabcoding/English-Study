@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Importance of trees";
+  var text = `Once there lived a king in an island .there were green trees everywhere   in the island .The king decided to build a magnificent palace in the island .So he ordered his men to cut down all the trees .Some opposed the kings idea but he did not pay heed to it .So people were compelled to carry out the king’s order. They cut down all trees. As a result a great change took place in the climate of the Island. There was no rainfall. Floods damaged the Standing crops and washed away the alluvial top soil .There was drought and the farmer‘s could not grow food grains and other crops .Famine broke out in the land .People went there to the king and wanted food and work .The king realized the importance of trees .So he imported plants of trees and diStributed them among his subject free of cost. In a few years the land was of full of green trees .There was plenty of rainfall .People grew crops and became happy.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

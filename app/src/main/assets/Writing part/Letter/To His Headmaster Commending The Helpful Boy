@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To His Headmaster Commending The Helpful Boy`;
+  var body = `Auriga Street, <br>
+Islamabad. <br>
+23 January 2023 <br>
+The Headmaster, <br>
+School, <br>
+Islamabad. <br><br>
+
+Dear Sir,<br>
+I write this letter to commend one of your pupils. Yesterday morning, I was cycling Auriga to New Park, the front wheel of my bicycle ran over a nail lying on the road, It was instantly deflated. I had only a quarter of an hour left in which to reach the... School, where I had to be interviewed for a teachers post. <br>
+I waited for a taxi or a bus to take me to my destination, but none arrived for another five minutes. With only ten minutes for my interview to begin. Bashir, Ahmed, Ali, a class iii pupil of your school, came along riding his bicycle to school. On approaching me. he alighted from his machine, and asked me why I was waiting there. When I pointed to my deflated wheel, he, disregarding the fact that he would be late for school, started to open my lyre to repair the puncture, I casually mentioned that I was getting late for my interview without any hesitation, be offered his biocide to me and told me to take it to his school after the interview; meanwhile he would repair my bicycle and ride it to school. Not withstanding Ahmed All is help. I was last for the interview, but not so late as to lose the job. The Headmaster of the ... School agreed to recommend to his board of Governors that I be appointed as a teacher at his school, with effect from 1st February. <br>
+Thus, it will be appreciated; I owe my job to Ahmed Ali’s generosity. I am particularly impressed by his offer to exchange our bicycles, considering that his was a brand new machine, while â€˜mine was very old thing, indeed, You should be proud of pupils, like Ahmed Ali, who put service before self.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

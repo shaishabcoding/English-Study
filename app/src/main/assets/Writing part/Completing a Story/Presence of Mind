@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Presence of Mind";
+  var text = `In a certain locality in Guwahati city, a house catches fire after a gas cylinder had exploded. People nearby rushed there to put out the fire with buckets of water, sand etc. But they failed. The fire was spreading to nearby houses due to the wind. People felt nervous and helpless. Then, a small boy was seen running to a neighbour’s house. He picked up the telephone and rang up the fire brigade. The fire brigade arrived within a short time and put out the fire. All the people present there praised the small boy’s presence of mind.<br><br><b>Moral</b> ᐅ We should not lose our cool at times of distress`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

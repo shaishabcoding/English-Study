@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight"
+        tools:targetApi="31">
+        <activity
+            android:name=".activity.Index"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".subclass.EnglishStudy"
+            android:exported="true" />
+        <activity
+            android:name=".activity.Web"
+            android:exported="true" />
+        <activity android:name=".subclass.EnglishGrammar" />
+        <activity android:name=".subclass.SpokenEnglish" />
+        <activity android:name=".subclass.Vocabulary" />
+        <activity android:name=".subclass.WritingPart" />
+        <activity android:name=".subclass.EnglishStories" />
+        <activity android:name=".subclass.Sentence" />
+        <activity android:name=".subclass.PartsOfSpeech" />
+        <activity android:name=".subclass.Tenses" />
+        <activity android:name=".subclass.Voice" />
+        <activity android:name=".subclass.RightFormsOfVerbs" />
+        <activity android:name=".subclass.Narration" />
+        <activity android:name=".subclass.Paragraph" />
+        <activity android:name=".subclass.CompletingStory" />
+        <activity android:name=".subclass.Letter" />
+        <activity android:name=".subclass.Dialogue" />
+    </application>
+
+</manifest>

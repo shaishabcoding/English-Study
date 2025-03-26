@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Your Brother Advising Him To Improve His Handwriting`;
+  var body = `My Dear,<br><br>
+I received your letter yesterday. The hand writing is not legible. It took me twenty minutes to make out the contents of your letter.<br>
+I would advise you to improve your hand-writing. Then only you can score high marks. Write two pages in a copy writing note book daily. I must see definite improvement in hand writing in your next letter.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Rescue of a Child";
+  var text = `One day, a boy named Partha Pratim was fishing in the river Dhansiri. It was his daily pastime. A child from his neighbourhood was also playing near him on the bank. All of a sudden, the child slipped its feet and fell into the river. The undercurrent pulled the child down. Partha did not lose a moment and straightaway dived into the river. After some search, he could find the child out. The child was rescued in a state of unconsciousness. It regained sense after some time. The parents of the child were very grateful to Partha. They blessed Partha for risking his life to save their son’s life. The villagers praised the boy too.<br><br><b>Moral</b> ᐅ Courage matters`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

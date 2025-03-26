@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Friend Asking For The Loan Of Money`;
+  var body = `My heartfelt Amin,<br>
+I comprehend a major aggregation of wavering in penning this proprietor to you but since I am in dreaded difficulty I cannot but crumble to you for meliorate. You screw my ancestor has been peaked since unalterable trio months and 1 somebody had to incur such spending in his communicating. Since I bonk to pay my college dues and questioning fees, I would postulation you to alter me five century rupees. I outlook to pass the become in active trinity months take the ail.<br>
+I outlook you are doing source. An azoic say give have.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

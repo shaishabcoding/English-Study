@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+
+<body>
+  <div class="title">Imperative Sentence</div>
+  <div>
+    Imperative sentence হল একটি বাক্য যা কোন কিছু নির্দেশ বা আদেশ দিতে ব্যবহৃত হয়। এই ধরনের বাক্যের মাধ্যমে লোকজনকে কাজ করার জন্য উৎসাহিত করা হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. এখানে আসুন - Come here. <br>
+      ২. জানালাটা খোলো - Open the window. <br>
+      ৩. দয়া করে আমাকে এক গ্লাস পানি দিন - Please give me a glass of water. <br>
+      ৪. আমার জন্য বাইরে অপেক্ষা করুন - Wait for me outside. <br>
+      ৫. বসুন এবং আরাম করুন - Sit down and relax.
+    </div>
+    Imperative sentence এর দুইটি প্রকার রয়েছে। তা হলঃ <br>
+    ১. Positive Imperative sentence <br>
+    ২. Negative Imperative sentence
+  </div>
+  <br>
+  <div class="title sub">Positive Imperative sentence</div>
+  <div>
+    Positive Imperative sentence - যা কোন কিছু নির্দেশ বা আদেশ দেয়ার সময় ব্যবহৃত হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. দরজাটা বন্ধ কর - Close the door. <br>
+      ২. এক কাপ চা নিয়ে এসো - Bring me a cup of tea. <br>
+      ৩. আমার বাড়ির কাজ আমাকে সাহায্য করুন - Help me with my homework.
+    </div>
+  </div>
+  <br>
+  <div class="title sub">Negative Imperative sentence</div>
+  <div>
+    Negative Imperative sentence - এটি যেখানে নির্দেশ বা আদেশ দেয়া হয় না তবে কোন কিছু না করার জন্য আহ্বান জানানো হয়।
+    <div class="lable">Example</div>
+    <div class="example">
+      ১. দরজা খুলো না - Don't open the door. <br>
+      ২. এখানে ধূমপান করবেন না - Don't smoke in here. <br>
+      ৩. ক্লাসের জন্য দেরি করবেন না - Don't be late for class.
+    </div>
+  </div>
+</body>
+</html>

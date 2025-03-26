@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Donations For Poor Students`;
+  var body = ` World Trade Centre,<br>
+ABC. <br>
+25 January 2023 <br>
+The Editor, <br>
+The News <br>
+Chittagong.
+<br><br>
+Sir, <br>
+Through the columns of your newspaper I draw the attention of the public to a book bank and a common fund for poor students in the local Government Degree College for boys. This book bank is functioning in the Urdu department of the college. The bank of the college, whose account number is 786, is operating the common fund. The book bank collects all kinds of books on all subjects needed by poor and deserving students of Intermediate (arts and science) and B.A and B.S.C students. The bank accepts big and small donations of money for poor students into the above account. <br>
+All those who desire to donate books and money for poor students are invited to visit our college to make the donations. The Principal and teachers as well as the students and their parents will be highly grateful for the donations.
+<br><br>
+
+Yours truly,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

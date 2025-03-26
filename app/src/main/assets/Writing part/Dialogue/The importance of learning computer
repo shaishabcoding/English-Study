@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p id="title"></p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = `<i>Question ᐅ</i> Nowadays, computer is used in different sections. It has become very essential to learn about computer. Your friend ${men[0]} wants to know a lot about it. Now, write a dialogue between you and your friend about » <b>The importance of learning computer</b>. «`;
+ const data = [
+  `Hi ${men[1]}! How are you?`,
+  "Fine, what about you?",
+  "I'm fine too. But I'm worried about a thing.",
+  "What makes you worried?",
+  `${men[0]}, I don't have knowledge on computer. But computer learning is very essential nowadays.`,
+  "Right you are. Now it's the age of computer. Modern life is totally dependent on computer.",
+  "Would you explain more about the importance of learning computer?",
+  "Sure.Today all the work of an office run by computer.It is used in research, diagnosis, designing, space technology, publications and so on.",
+  "So computer learning is a must for every one, isn't it?",
+  "Of course. We can't avoid it at all.",
+  "Thanks for your information.",
+  "Thanks."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

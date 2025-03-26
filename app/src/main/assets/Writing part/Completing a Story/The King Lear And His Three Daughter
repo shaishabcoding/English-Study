@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The King Lear And His Three Daughter";
+  var text = `In a kingdom far, far away lived a king and his three daughters. The king loved them very much for they were good and beautiful girls, but one day he decided to test how much they loved him.
+<br>
+
+The king gathered his daughters around him and asked each of them the same question: “How much do you love me?”
+<br>
+
+“Oh, father," said the eldest daughter, “I love you as much as all the diamonds and all the rubies in the world and more!” "That is excellent," said the king happily.
+
+<br>
+“Dear father," said the second daughter, “I love you as much as all the gold and silver in the world and more!” “Wonderful!” said her father and smiled.
+<br>
+
+Then it was the youngest daughter’s turn. “My father and king, I love you as much as all the salt in the world and more!” The king was very surprised at her answer. “What did you say? I think I must have misheard you," frowned the king. “I said that I love you as much as salt," repeated the youngest daughter.
+
+<br>
+“How dare you! Your sisters love me as much as diamonds and gold, and you love me as little as salt," said the king angrily. "Leave this kingdom right now and never come back!”
+<br>
+
+The little princess hid herself in the woods, but she soon got very tired. She sat on a log and started to cry, when a prince, who was passing by on his steed, heard her. As soon as he saw the pretty princess, the young prince fell in love with her.
+<br>
+
+The prince took her to his castle and soon asked her to marry him. The young princess told him that she would only marry him if her father, the king, came to the wedding. “Sadly, my father is angry with me and has told me never to return to his kingdom," she explained.
+<br>
+
+“Don’t worry, my darling, I will send him an invitation to our wedding. And when he arrives, we will teach him a lesson," said the prince and immediately sent a wedding invitation to the King. But the clever prince didn't write that he was marrying the King’s youngest daughter.
+
+<br>
+So when the wedding day came, the King arrived. He sat at the banqueting table in the place of honour next to the prince. Then he was served a meal, which looked absolutely delicious. But when the king came to taste it, he frowned and cried out, “This meal has no salt in it! I can’t eat it!"
+<br>
+
+At once a person wearing a veil brought him salt and said, “Here you are, my king! I hope that the meal will taste better now.” The king immediately recognised her voice.
+<br>
+
+The salt bearer lifted her veil and the king saw his youngest daughter. He understood at once what the prince and princess wanted to teach him. Ashamed of what he had done, the king begged his daughter to forgive him. The princess cried out in joy, “Oh, my father! I forgive you and I love you with all my heart!” They hugged each other and the king, the prince and the princess lived happily ever after.
+`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

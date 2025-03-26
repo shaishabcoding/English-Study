@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a Letter to Your Friend About the Importance of Reading Newspaper`;
+  var body = `Dear Karim,<br><br>
+Take my cordial love. Your letter is to hand. I am glad to learn that you are all well. Listen, I have already heard from a friend of ours that you not do not read newspapers. It is a great mistake. You are a student of class twelve. You know that we live in an age of science and technology but if we remain ignorant of the incidents happening in our country as well as in the world, we will be proved unfit for the world.
+<br>
+So, I advise you to read newspapers daily in order to be acquainted with the current affairs of the world. By reading newspaper, you can be able to know new scientific invention, economic development and political situation of our country. Without this kind of knowledge, you cannot cope with others. Articles and features on culture, literature, politics, sports, trade and commerce etc. will widen your outlook, remove narrowness of the mind and enrich your thought.
+<br>
+So, do not forget to read newspapers daily. I am pretty well and your other friends too are well. Convey my best compliments to your mother and father and love to Sumi.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

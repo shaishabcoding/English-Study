@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend describing how you celebrated pahela Baishakh`;
+  var body = `My dear Rahim,<br><br>
+At the beginning of the letter, take my cordial love. Hope you are hale and hearty by the grace of Almighty Allah .I am also well by His grace. Recently we have celebrated Pahela Baishakh, the Bangla New year’s day at our school premises in a befitting manner. The day is a symbol of our Bangla culture It is celebrated with traditional festivities all over the country As the day is a public holiday .On this day early in the morning people of all ages and religions assemble at a particular place wearing traditional dress and welcome the Bangla New year through songs and music. We, the students and the teachers also went to our campus wearing traditional dress and sang song in chorus welcoming the new year . Then artists sang folk song and bawool songs. After that we enjoyed batasha (cake of molasses ) and Khoi (parched rice) . I ate panta- Illish with great pleasure I wore new clothes in the morning I went various places like public squares .It was a special day to be remembered for life That is all for today..
+<br>
+No more today . More when we shall meet each other . And write to me whenever you have time.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

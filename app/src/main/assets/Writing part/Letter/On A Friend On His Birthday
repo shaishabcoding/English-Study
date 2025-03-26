@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On A Friend On His Birthday`;
+  var body = `My pricey Imtiaz,<br>
+It is your date tomorrow, and I am composition to . desire you Some Prosperous Returns of the Day. Parent too sends her copulate and advisable wishes on this happy opportunity.<br>
+I should suchlike to resign you something to celebrate the circumstance, and I human chosen a photo medium, for I bonk you are real such involved in picturing and I thought this would be important for your publication of architectural subjects.<br>
+Please abide the medium with my sainted wishes and expect me.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

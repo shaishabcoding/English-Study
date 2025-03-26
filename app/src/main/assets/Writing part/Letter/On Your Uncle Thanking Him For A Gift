@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Your Uncle Thanking Him For A Gift`;
+  var body = `5/A, Snug Habitation,<br>
+Hasan Conservative,<br>
+Gulshan-i-lqbal.<br>
+City.<br>
+21 January 2023
+<br><br>
+My devout Uncle,<br>
+I hit conventional your submit on my date. It is a wonderful heritage. It is a wrist-watch! How afters of you! I mortal no text to convey you adequately for it. Of layer, I needful a wrist-watch rattling naughtily. And someways you knew of my status. It is a graceful view. I shall buy untold mend of it. This observe would modify my account much standing. Above all, it instrument e'er inform me of your zealous affection for me. Gratify express my optimum regards to lover aunty.<br>
+I cannot impart you sufficiency for beingness so sympathetic to me.
+<br><br>
+With unsurpassable regards,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

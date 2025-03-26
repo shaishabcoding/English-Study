@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "An Old Farmer And His Sons";
+  var text = `Once there was an old farmer in a village who had three sons. The sons were healthy and strong but they were so lazy that they did not do any work.
+
+<br>
+The farmer grew old and could not work properly but his sons did not help him. One day the farmer fell ill and called his sons. He told his sons that he had hidden a big treasure for them in a hole in the fields.
+<br>
+
+The farmer died after some days. The sons mourned the death of their father. Then they set to work. They dug the fields day after day in search of the treasure but they did not find anything. They became hopeless and thought that their father had told them a lie. Then they gave up the idea of getting the hidden treasure.
+
+<br>
+They sowed seeds in the fields. Plants grew up soon and they had a good harvest. Then the idle sons could understand the meaning of hidden treasure. It was nothing but diligence. Since then they were not lazy. They worked hard in the fields, got good crops and became rich.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

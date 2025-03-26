@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Lack of Tolerance Causes Death and Destruction";
+  var text = `There was a man in a village. He heard of sweet voice of goose. He became very much enthusiastic to collect any goose. So he decided to go to market. He went there and bought a beautiful goose. He spread that his goose could sing melodious songs. One day some guests came to visit his house. They became very eager to listen to the song sung by the goose. So he brought the goose before the guests. But it could not sing any song. He was humiliated at this. He decided to punish the goose. And so he stopped its food. Gradually it fell ill. Finally it sang before death. Then the man felt repented at this.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

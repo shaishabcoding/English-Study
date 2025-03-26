@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">মজার কিছু শব্দার্থ - part 1</div>
+  <div id="data">
+  </div>
+  <script>
+    var data = [[["NIGHT","রাত"], ["QUEEN","রানী"], ["NIGHT-QUEEN ","রজনীগন্ধা"]], [["FAT","মোটা"], ["HER","তার"], ["FATHER","পিতা"]], [["SEA","সাগর"], ["SON","পুত্র"], ["SEASON","ঋতু"]], [["SO","সুতরাং"], ["ON","উপরে"], ["SOON","শীঘ্রই"]], [["GO","যাওয়া"], ["AT","প্রতি"], ["GOAT","ছাগল"]], [["FOR","জন্য"], ["GET","পাওয়া"], ["FORGET","ভুলে যাওয়া"]], [["LESS","সামান্য"], ["ON","উপরে"], ["LESSON","পাঠ"]], [["MAN","মানুষ"], ["GO","যাওয়া"], ["MANGO","আম"]]]
+  </script>
+</body>
+</html>

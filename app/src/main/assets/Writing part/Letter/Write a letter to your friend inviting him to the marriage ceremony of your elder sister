@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend inviting him to the marriage ceremony of your elder sister`;
+  var body = `My dear Mim, <br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah.You will be glad to know that the marriage ceremony of my sister will be held on Sunday next.All of my friends will attend the marriage ceremony.I would request you to come to our house at least three days earlier. Best wishes to you and all.
+<br>
+
+No more today. More when we shall meet you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

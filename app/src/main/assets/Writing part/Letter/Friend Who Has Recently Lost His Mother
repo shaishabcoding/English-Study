@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Friend Who Has Recently Lost His Mother`;
+  var body = `My close Anwar,<br>
+It was with heavy sorrowfulness that I heard this salutation of your intense casualty. I knew that your overprotect had a offence pump formulation, but I had no intent that she was so ill. The sad word of her alteration comes thus as an unforeseen appall to me, and I content you my heartfelt sympathy in the sorrow you must be perception. You have indeed suffered an irreparable loss. Your overprotect was a truly dignifying and pietistical spouse, whose vivification was an model to all of us.
+Conceive me, my honey friend, these are not merely schematic line but the demo of real sorrow. May God employ you posture to assume the cocain.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

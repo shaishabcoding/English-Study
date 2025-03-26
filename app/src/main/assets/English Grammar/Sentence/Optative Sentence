@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="title">Optative Sentence</div>
+  <div>
+    যে Sentence দ্বারা কোন ইচ্ছা প্রকাশ করা হয় বা প্রার্থনা করা হয়, তাকে Optative Sentence বলে।
+  </div>
+  <div>
+    অর্থাৎ, যে সকল কাজ মানুষের করার ক্ষমতার বাইরে, সে সকল কাজ কাউকে করতে বলা যায় না। সে ক্ষেত্রে আমরা কেবল ইচ্ছা প্রকাশ করতে পারি বা প্রার্থনা করতে পারি। এ ধরনের Sentence ই Optative Sentence.
+    <div class="lable">Example</div>
+    <div class="example">
+      1. তুমি   দীর্ঘজীবী  হও  – May you live long.
+      <br>2. ঈশ্বর আমাদের সবাইকে রক্ষা করুন  – May God save us all.
+      <br>3. আপনার একটি খুব সফল জীবন কামনা করি – Wish you a very successful life.
+      <br>4. রাজা দীর্ঘজীবী হোক – Long live the King.
+    </div>
+    এ ধরনের বাক্য সাধারনত May / Wish / Long এর সাহায্যে শুরু হয় এবং বাক্যের শেষে full stop (.) বসে।
+  </div>
+  <div>
+    সাধারনত: Optative Sentence   এর   শুরুতে   ‘May’ modal   বসে।   May   বাদ   দিলে   Sentence   টি   Assertive form   এ   চলে   যায়।
+  </div>
+  <br><br>
+  <div class="title sub">
+    Structure – গঠন
+  </div>
+  <div>
+    মূলত ৩ ভাবে optative sentence বা প্রার্থনাসূচক বাক্য গঠন করা যায়।
+    <br><br>
+    ১. May ব্যবহার করে:
+    <div class="lable">Structure</div>
+    <div class="example">
+      May + subject + verb + extention.
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. তুমি দীর্ঘজীবী হও – May you live long.
+      <br>2. আল্লাহ তোমাকে রহমত করুক – May Allah bless you.
+      <br>3. আপনি একসাথে একটি দীর্ঘ এবং সুখী জীবন কাটান – May you live a long and happy life together.
+      <br>4. আপনার জীবনে উন্নতি হোক – May you prosper in life.
+      <br>5. সে যেন পরীক্ষায় উত্তীর্ণ হয় – May She pass the exam with a good result.
+      <br>6. ঈশ্বর আপনার প্রতি রহমত দান করুন – May God give mercy upon you.
+      <br>7. তার পরিবারে সততা থাকুক – May there be honesty in her family.
+    </div>
+    <br><br>
+    ২. Wish ব্যবহার করে:
+    <div class="lable">Structure</div>
+    <div class="example">
+      Wish + subject + extention.
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. আপনার একটি ভালো ফলাফল কামনা করি – Wish you a great result.
+      <br>2. তোমাকে শুভ কামনা –  Wish you all the best.
+      <br>3. তাকে শুভ সকাল কামনা করি – Wish him a good morning.
+      <br>4. আপনার নিরাপদ ভ্রমণ কামনা করি – Wish you a safe trip.
+    </div>
+    <br><br>
+    ৩. Long ব্যবহার করে
+    <div class="lable">Structure</div>
+    <div class="example">
+      Long + verb + subject + extention.
+    </div>
+    <div class="lable">Example</div>
+    <div class="example">
+      1. আমাদের নেতা দীর্ঘজীবী হোক – Long live our leader.
+      <br>2. আমাদের রাণী দীর্ঘজীবী হোক – Long live our queen.
+    </div>
+    <br><br>
+    উপরের ৩টি গঠন প্রণালীর মাঝে প্রার্থনাসূচক বাক্যে may সবচেয়ে বেশি ব্যবহৃত হয়ে থাকে, আর long ব্যবহৃত হয় সবচেয়ে কম।
+    <br>
+    এছাড়াও আরো কিছু উপায়ে Optative Sentence গঠিত হতে পারে।
+    <div class="lable">Example</div>
+    <div class="example">
+      1. এই গ্রহের প্রতিটি মানুষের উপর আলো বর্ষিত হোক – Let there be light upon every human being of this planet.
+      <br>2. তাই হোক – So be it.
+      <br>3. সকল জাতির মধ্যে শান্তি থাকুক – Let there be peace among all nations.
+    </div>
+  </div>
+  <div>
+    বাক্যের গঠন যাই হোক না কেন, এর সাহায্যে যদি মানুষের মনের ইচ্ছা, আকাঙ্ক্ষা, শুভেচ্ছা, আশীর্বাদ, অনুজ্ঞা কিংবা প্রার্থনা প্রকাশ পায়, তবে সেগুলো Optative Sentence হবে।
+  </div>
+</body>
+</html>

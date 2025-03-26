@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A Dutiful and Faithful Dog";
+  var text = `Once there was a man in Europe. He used to go out for hunting with his favorite dog, ‘Bulu’. One day that man went out on such an expedition on a horse back. His dog followed him. After a few days, the man felt exhausted. He got down from his horse and lay down under a tree. After a while he woke up and proceeded towards home. But he forgot to pick up the purse which contained money. The bag was left there. Bulu noticed it and tried to remind its master of the bag in many ways but in vain. At last the dog pretended to bite the horse’s leg. 
+<br>
+The master misunderstood the dog. He thought that it had gone mad. He at once shot at his favorite dog, Bulu. Bulu cried with pain and ran back. The master reached home. He found that his money bag was lost. He rode back to the place where he took rest. He found Bulu lying under the tree with the bag in its paws. He thought that the dog was sleeping with the bag. But to his utter sorrow, he found that the dog was in eternal sleep. Now everything was clear to the man. He realized the dog’s faithfulness and shed bitter tears.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

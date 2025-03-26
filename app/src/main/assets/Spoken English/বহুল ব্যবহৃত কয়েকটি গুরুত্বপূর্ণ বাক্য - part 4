@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 4</div>
+  <div id="data"></div>
+  <script>
+    var data = [["I wish you were here.","যদি তুমি এখানে থাকতে"], ["I hope I see you soon.","আশা করি শীগ্রই দেখা হবে"], ["I'm counting down the days.","আমি এই দিনগুলো গুনছি"], ["I think of you night and day.","সারাদিন রাত আমি তোমার কথা চিন্তা করি"], ["All I do is think of you.","আমি শুধু তোমার কথা চিন্তা করি"], ["You've been on my mind.","আমি তোমার কথা ভাবছি"], ["I feel sad without you.","তোমাকে ছাড়া আমার খারাপ লাগে"], ["You've been running through my head all night.","আমি সারারাত তোমার কথা ভাবছিলাম"], ["I smile when I think of the time we spent together.","আমি হাসি যখন আমি আমাদের একসাথে কাটানো সময় মনে করি"]]
+  </script>
+</body>
+</html>

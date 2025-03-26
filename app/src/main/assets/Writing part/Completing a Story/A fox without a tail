@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A fox without a tail";
+  var text = `One day he made a cunning plane. He called all the foxes in a meeting. When they came, He told all the foxes to cut there tails. There was an old fox in the meeting. He realized his trick and told the other foxes to realize it. Then the tailless fox ran away and went in another jungle.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

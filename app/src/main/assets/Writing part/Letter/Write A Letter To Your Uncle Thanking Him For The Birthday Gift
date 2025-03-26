@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Uncle Thanking Him For The Birthday Gift`;
+  var body = `Dear Rabi Uncle,<br>
+Thank you very much for the birthday gift you have sent to me. I am very glad at the choice you have made for me. It is my long-coveted book Call Of The Wild’ by Jack London. As I am an animal lover, it is the fittest gift from your end. The book deals with the loving bond between an animal and human beings. But how had you come to know my secret wish! Oh, really! You are the best uncle in the world and this is my best birthday gift.
+<br>
+With best regards to you and aunti,
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

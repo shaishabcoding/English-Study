@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Past Continuous Tense ᐅ </b>
+  অতীতকালে কোন কাজ কিছুক্ষণ ধরে চলছিল এরূপ বোঝালে Past continuous tense হয়।
+ </p>
+ <p>
+  <b>বাংলায় চিনার উপায় ᐅ </b>
+ বাংলায় ক্রিয়ার শেষে তেছিল, তেছিলাম, তেছিলে, তেছিলেন, চ্ছিল, চ্ছিলে, চ্ছিলেন, ছিল, ছিলাম, ছিলে, ছিলেন, এদের যে কোন একটি যোগ থাকে।</p>
+ <p>
+  <b>Structure ᐅ </b>
+  Subject + was/were + main verb + ing + object.
+ </p>
+ <card>Subject-এর পর person ও number অনুসারে was বা were বসে এবং মূল verb-এর শেষে ing যোগ হয়।</card>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>আমি ভাত খাইতেছিলাম/খাচ্ছিলাম – I was eating rice.</li>
+  <li>সে স্কুলে যাইতেছিল/যাচ্ছিল – He was going to school.</li>
+  <li>তারা ফুটবল খেলিতেছিল/খেলছিল – They were playing football.</li>
+  <li>গতকাল সন্ধায় সে ঢাকা যাইতেছিল – He was going to Dhaka last evening.</li>
+  <li>আমি একা একা গান গাইতেছিলাম – I was singing song alone.</li>
+ </ol>
+ <p>
+  <b>Note ᐅ </b>
+  subject first person and third person singular number হলে was বসবে। we, you, they এবং অন্যান্য plural number এর শেষে were বসবে।
+ </p>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

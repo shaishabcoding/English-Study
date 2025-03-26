@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "A king and a astrologer";
+  var text = `Once there was a king. The king was very fond of knowing his future from the astrologer. A good astrologer visited the capital of the king. The called him to the palace. The astrologer told something very unpleasant. At this the king got furious and condemned him to death. But another thought crossed his mind before the astrologer was removed for excecution. The king then asked, “How long would you live?” He then thought for while for some way of escape. He thought that the king would prove him in a liar putting him to death. With ready wit he said, “The stars declare that I’ll die only a week before your death! I shall wait to receive your majesty where you have been sending me. At this the king turned pale. ‘Drive this wretch away and let him not come again’shouted the king.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

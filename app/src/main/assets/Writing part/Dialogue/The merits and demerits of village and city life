@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p id="title"></p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = `<i>Question ᐅ</i> Suppose, you are ${men[0]} living in village. You have a friend named ${men[1]}. She lives in Barishal city. Now, write a dialogue between you and your friend about » <b>The merits and demerits of village and city life</b>. «`;
+ const data = [
+  `Hello ${men[1]}, how do you feel living in a city?`,
+  "Not bad at all.",
+  "Can you specify the reasons?",
+  "Why not? I am enjoying modern facilities.",
+  "What are the facilities you can enjoy?",
+  "Good accommodation, food, cloth, medical service, studying in a good school, rapid communication, going to the various amusement centres, having the knowledge of science and technology and what not.",
+  "Well, do you feel secured there?",
+  "It's true, there is less security in urban life.",
+  "Can you enjoy natural beauties here?",
+  "No, we cannot do So.",
+  "Can you have any environment free from pollution?",
+  "No, the environment of our city is getting polluted.",
+  "And you are suffering from different complex diseases owing to environment pollution.",
+  "Right you are.",
+  "Let us come back to village. You can enjoy safe and sound life here.",
+  "Yea, we should do so. Thank you for your good suggestion.",
+  "Welcome."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

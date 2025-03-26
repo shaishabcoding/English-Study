@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <h3>Rule-4 ᐅ </h3>
+ <p>Imperative Sentence-এর ক্ষেত্রে passive voice-এর structure ᐅ </p>
+ <p>1. Main verb দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে ᐅ </p>
+ <card>Let+ Object’s subject + be+ verb’s past participle</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Write the article. (Active)</li>
+  <li>Let the article be written. (Passive)</li>
+ </ul>
+ <ul>
+  <li>Prepare the assignment. (Active)</li>
+  <li>Let the assignment be prepared. (Passive)</li>
+ </ul>
+ <br>
+ <p>2. “Do not” দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে ᐅ </p>
+ <card>Let not + Object’s subject + be+ verb’s past participle</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Do not write the article. (Active)</li>
+  <li>Let not the article be written. (Passive)</li>
+ </ul>
+ <ul>
+  <li>Do not prepare the assignment. (Active)</li>
+  <li>Let not the assignment be prepared. (Passive)</li>
+ </ul>
+ <br>
+ <p>3. Sentence “Let” দিয়ে শুরু হলে এবং এর পর personal object যেমন: me/us/him/her/you/them থাকলে ᐅ </p>
+ <card>Let+ Object’s subject + be + verb’s past participle+ personal object</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Let me write the article. (Active)</li>
+  <li>Let the article be written by me. (Passive)</li>
+ </ul>
+ <ul>
+  <li>Let him write the letter. (Active)</li>
+  <li>Let the letter be written by him. (Passive)</li>
+ </ul>
+ <br>
+ <p>4. “Never” দিয়ে শুরু হওয়া Sentence-এর ক্ষেত্রে ᐅ </p>
+ <card>Let not + Object’s subject + ever be + verb’s past participle</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Never deceive anyone. (Active)</li>
+  <li>Let not anyone ever be deceived. (Passive)</li>
+ </ul>
+ <ul>
+  <li>Never go there. (Active)</li>
+  <li>Let not there ever be gone. (Passive)</li>
+ </ul>
+ <br>
+ <p>5. Sentence main verb দিয়ে শুরু হলে এবং এর পর personal object যেমন: me/us/him/her/you/them থাকলে ᐅ </p>
+ <card>Let+ direct object + be+ verb’s past participle + for + personal object</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>Give me a pencil. (Active)</li>
+  <li>Let a pencil be given for me. (Passive)</li>
+ </ul>
+ <ul>
+  <li>Give me an eraser. (Active)</li>
+  <li>Let an eraser be given for me. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

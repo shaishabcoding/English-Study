@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Protest To A Neighbour`;
+  var body = `VII/3, PECHS,<br>
+Metropolis <br>
+24 January 2023 
+<br><br>
+Good Mr. Shahnawaz,<br>
+I am really rattling unhappy to get to indite this owner to you. I am reliable, nonetheless, that you gift not misunderstand me. You mortal e'er been a good and thoughtful shack to us. <br>
+I am occupied preparing myself for the future yearbook communicating. The spiky stable of your receiver set upto the ripe hours of dark disturbs me. I cannot think on my books. Perhaps, you are not knowledgeable of the unique intensity of your set. I should be greatly obliged if you verbalize pile your set in such a way that you may easily center to it and at the said instance departure me to interpret in ataraxis. <br>
+With benign regards.
+<br><br>
+Yours reliably,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

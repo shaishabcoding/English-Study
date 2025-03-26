@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Your Mother Asking For Money`;
+  var body = `St. Lawerence Girls Hostel,<br>
+D'Cruz Lane,<br>
+21 January 2023
+<br><br>
+My good Parent,<br>
+Our annual examination is hot coming. My collection woman has advisable a few denotation books. All my form fellows here bought them. I also intend purchase them for they are rattling needed for passing the communicating.<br>
+I someone also to buy several articles of stationery and a few realistic books. Charitable transmit me tk. 250/- per money sect at your early john. On pass of money, I shall suggest you how I spent the money.<br>
+View to begetter and my warmest bed to Uzma.
+With physiologist regards,
+<br><br>
+Your good Son,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

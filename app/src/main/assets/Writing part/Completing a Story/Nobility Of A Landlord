@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Nobility Of A Landlord";
+  var text = `One day a farmer was taking some sacks of wheat to a mill on horseback. The mill was a few kilometers away. On the way, the horse stumbled and one of the sacks fell to the ground. The farmer fell into trouble as there was nobody around to help him. Suddenly he saw a horseman coming towards him. Whenever the horseman came near the farmer felt disappointed because the man was a powerful landlord. Though the landlord was very helpful, the farmer was in a fix to ask him for help. But surprisingly the landlord stopped in front of the farmer and got off the horse. I see you’ve had a mishap, friend said the landlord. Fortunately, I have come along just now, for it is difficult to find help in a place like this. Then he held one end of the sack and asked the farmer to hold the other end. Together they lifted the sack and placed it once again on the horse’s back. The farmer took off his cap and said, “My lord, how can I thank you? You can do that easily, friend, replied the landlord, Whenever you see somebody in difficulty do your utmost to help him and that will be thanking me.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

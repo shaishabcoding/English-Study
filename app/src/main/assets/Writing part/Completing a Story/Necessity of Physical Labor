@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Necessity of Physical Labor";
+  var text = `Once there was an idle king. He did not like physical labor. As a result he grew bulky and could not move from one place to another. Finding no other way he called in a doctor. The doctor was very clever and wise. He prescribed no medicine for the king. He asked the king to buy a club and move it in the air till his hands got moistened. The king followed the advice of the physician. In consequence of this the fat grew less. He became a bit thin. Finally he became fully cured of his disease after some day’s regular physical exercise.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

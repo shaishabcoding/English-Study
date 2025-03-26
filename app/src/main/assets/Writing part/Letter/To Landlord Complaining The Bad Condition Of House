@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Landlord Complaining The Bad Condition Of House`;
+  var body = `Dear Mr. Rohit, <br>
+I am pained to complain that despite my requests you have not started the repairs of the house I am occupying and which is in a bad shape. The floors of the kitchen and the bath room are in a dismal condition as tiles have become detached here and there. The switches of nearly all the rooms have broken. The glass panes of all the windows are missing. The kitchen as well as the drawing room need re-wiring as the wires are hanging. The entire home needs color washing. <br>
+I hope you will undertake necessary renovation and oblige.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

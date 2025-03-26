@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Municipal Corporation About Increased Mosquitoes`;
+  var body = ` Shaishab Chandra Shil <br>
+5A,6/36. <br>
+Nasirabad, <br>
+Chittagong. <br>
+23 January 2023 <br>
+The Mayor,<br>
+Chittagong Metropolitan Corporation,<br>
+Chittagong. <br><br>
+
+Dear Sir,<br>
+I beg to draw your attention to the insanitary condition of my area which is tremendously breeding flies and mosquitoes. Garbages remain lying here and then nearly every lane and street providing breed in grounds for the flies. Rain water and water from over flowing gutters remain stagnant in depressions and pits, where mosquitoes breed. The recent rain has helped the breeding of the flies and mosquitoes which have become a menace and it is feared that some epidemic will break out soon,<br>
+I request you to look into the matter and arrange to get the area sprayed, to make arrangements for regular removal of garbages, to make arrangements for regular cleaning of the gutters and removal of the sewage waste and filth taken out of the gutters as the sweeper leave them tying around the gutter holes to spread disease and stink.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

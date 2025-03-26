@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-13 ᐅ</b>
+  Infinitive-যুক্ত active voice-এর passive কাঠামো ᐅ
+ </p>
+ <card>Active voice-এর subject+ tense এবং person অনুযায়ী মূল verb+ infinitive-এর পরের object (যদি থাকে) + to be + infinitive-এর পরের verb-এর past participle</card>
+ <h3>Example ᐅ </h3>
+ <ul>
+  <li>He wants you to give a speech. (Active)</li>
+  <li>He wants a speech to be given. (Passive)</li>
+ </ul>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

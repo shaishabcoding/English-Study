@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p><b>Question ᐅ</b> Write a dialogue between two friends on “<b id="title"></b>”.</p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = "How to make good result in examination";
+ const data = [
+  "Hello "+men[1]+"! How are you ? ",
+  "I am fine and what about you?",
+  "I am fine too, but I am a little bit nervous. I have come to you for some suggestions.",
+  "Why are you so nervous? Please let me know your problem. It will be my pleasure if I can help you in any way.",
+  "You can certainly help me. I want to make a good result as you made last year. Now I need to know the strategies you followed to make your brilliant result.",
+  "It is very simple. I think it is not unknown to you how to make a good result. There is no secret strategy at all, but you must follow certain rules.",
+  "Okay! Please tell me about the rules I should follow.",
+  "Firstly, you should study regularly. You must not cram anything without understanding. Then you should make your own notes and revise them frequently.",
+  "Nice! What is your suggestion for English and Mathematics?",
+  "For English and Mathematics your proficiency will depend on constant practice. Every day you will have to take practice-test in writing.",
+  "Excellent! Is there anything more?",
+  "Yes, you should develop a habit of writing. Whatever you read, you must write it. It will give you manifolds benefits.",
+  "Okay. Do you have any advice for examination?",
+  "Yes, you should budget your time for exams, make your handwriting legible, and write all answers. Avoid unnecessary topics in the answer scripts.",
+  "Thank you for your precious suggestions. I will surely follow these strategies.",
+  "You are most welcome. Remember that there is no secret to make a good result but to study regularly."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

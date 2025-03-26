@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 2</div>
+  <div id="data"></div>
+  <script>
+    var data = [["Listen to me.","আমার কথা শুনো।"], ["Please let me explain.","আমাকে ব্যাখ্যা করতে দাও।"], ["Please never mind.","কিছু মনে করো না।"], ["Respect your parents.","পিতা-মাতাকে শ্রদ্ধা করো।"], ["Follow me.","আমাকে অনুসরণ করো।"], ["You are crossing the limit.","তুমি সীমা ছাড়িয়ে যাচ্ছো।"], ["Enjoy your life.","জীবন উপভোগ করো।"], ["Don’t be egoist.","অহংকারী হইও না।"], ["Good day to you.","তোমার দিন শুভ হোক।"], ["May you be happy.","তুমি সুখে থেকো।"], ["You should be ashamed.","তোমার লজ্জা থাকা উচিত।"], ["I am satisfied.","আমি সন্তুষ্ট।"], ["Don't talk too much.","বেশি কথা বলো না।"]]
+  </script>
+</body>
+</html>

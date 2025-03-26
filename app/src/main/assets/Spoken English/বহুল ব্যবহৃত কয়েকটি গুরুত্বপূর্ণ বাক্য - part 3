@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 3</div>
+  <div id="data"></div>
+  <script>
+    var data = [["Everything he said was a lie.","সে যা বলেছিল সবই মিথ্যা ছিল।"], ["I left my phone at home.","আমার ফোন বাড়িতে রেখে এসেছি।"], ["How many times do I have to say it?","কতবার বলতে হবে?"], ["What are you hiding from me?","আমার কাছে কি লুকাচ্ছ?"], ["Tidy up your room.","তোমার ঘর গুছিয়ে রাখো।"], ["You’ve done enough!","আপনি যথেষ্ট করেছেন!"], ["I need your cooperation.","আপনার সহযোগিতা প্রয়োজন।"], ["What did the man look like?","লোকটা দেখতে কেমন ছিল?"], ["There's something I haven’t told you.","এমন কিছু আছে যা আমি আপনাকে বলিনি।"], ["Sit quietly and pretend nothing happened.","চুপচাপ বসে থাকো এবং ভান কর যে কিছুই হয়নি।"]]
+  </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `From Lady Gives Tuition Asking Her About The Charges`;
+  var body = `AK Road,<br>
+Peshawar.<br>
+22 January 2023<br>
+Mrs...<br>
+AK Road,<br>
+Peshawar.
+<br><br>
+Dear Madam,<br>
+With reference to your advertisement in the Bangladesh Times of yesterday, Offering tuition in Mathematics, I have the following few enquiries to make before I may be in a position to decide if I shall be able to benefit by your offer.<br>
+I am a class IV student of the ... school. Owing to my illness in class I am class II, I have had a very poor foundation in Mathematics. Through I was able to pass it that subject at Lower Certificate of Education examination, I know that my proficiency in it is nothing to be proud of.<br>
+I feel that if I don’t master the syllabus for class I and II, I shall never be able to make any appreciable progress in higher Mathematics. At the same time, I cannot afford to neglect what my classmates are learning at present. Therefore, I need your help with the work covered in class I and II: as well as with my current lesson. Have you any group of students like me , whom I may conveniently join, or would you coach me alone? Failing these two alternatives, would you advise me to attend class IV on certain days and the other classes on some other day?.<br>
+What are your hours of tuition, please? I am never free before 5.30 p.m. and I am unable to come for tuition during the week-ends.<br>
+Do you normally set home-work or is all work done under your personal supervision?. Please reply early stating also the rate of tuition-fee charged.
+<br><br>
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

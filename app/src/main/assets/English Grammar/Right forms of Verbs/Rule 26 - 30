@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Rule-26 ᐅ </b>
+  অর্থের পরিমান (amount of money), সময় (time), দুরত্ব (distance) প্রভৃতি সাধারনত: সামগ্রিকভাবে একটি পরিমান বুঝায়। তাই এগুলো দেখতে plural হলেও bracket-মধ্যকার verb-এর রুপ হবে singular.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Five hundred dollars (be) a lot of money. – Five hundred dollars <i>is</i> a lot of money.</li>
+  <li>Ten kilometers (be) a long distance. – Ten kilometers <i>is</i> a long distance.</li>
+  <li>Two hours (be) a long time to wait for him. – Two hours <i>is</i> a long time to wait for him.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-27 ᐅ </b>
+  People, public, police, cattle, peasantry (কৃষক সম্প্রদায়), poultry, gentry, mankind, dozen প্রভৃতি শব্দগুলো সকল সময় plural হিসাবে বিবেচিত হয়। তাই, এ সকল শব্দ বাক্যে কর্তা হিসাবে ব্যবহৃত হলে সেই বাক্যের verb-এর রুপ হবে plural.
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>People (be) suffering for want of food. – People <i>are</i> suffering for want of food.</li>
+  <li>Cattle (be) gazing in the field. – Cattle <i>are</i> grazing in the field.</li>
+  <li>Mankind (be) never always happy. – Mankind <i>are</i> never always happy.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-28 ᐅ </b>
+  বাক্যে কর্তা হিসাবে কোন ভাষার নাম, যা দ্বারা মানুষ কথা বলে, অথবা চেয়ার, দরজা, সমুদ্র বা কোন বস্তু, যা নিজে সরাসরি কাজ করে না, তখন bracket-মধ্যকার verb-এর রুপ হবে verb-এর past participle.
+<br><br>
+আর এই past participle verb-এর পূর্বে am, is, are, was কিম্বা were না থাকলে, কর্তার সংগে মিল করে তা বসাতে হয়। অর্থাৎ বাক্যটিকে passive voice-এ লিখতে হবে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>English is (speak) in India. – English is <i>spoken</i> in India.</li>
+  <li>Bangla (speak) in Bangladesh. – Bangla <i>is spoken</i> in Bangladesh.</li>
+  <li>The legs of the table (break). – The legs of the table <i>are broken</i>.</li>
+  <li>Even the sea (freeze). – Even the sea <i>was frozen</i>.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-29 ᐅ </b>
+  বইয়ের নাম, দেশের নাম Plural হলে Verb-টি Singular হয় ।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>Gulliver's Travels <i>is</i> a famous book.</li>
+  <li>The United States of America <i>is</i> a rich country.</li>
+ </ol>
+ <hr>
+ <p>
+  <b>Rule-30 ᐅ </b>
+  One of the থাকলে Verb-টি Singular হয়।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>One of the boys <i>was</i> absent from the class.</li>
+ </ol>
+ 
+<script src="file:///android_asset/main.js"></script> </body>
+</html>

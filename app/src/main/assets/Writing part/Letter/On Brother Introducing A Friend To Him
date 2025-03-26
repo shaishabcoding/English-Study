@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Brother Introducing A Friend To Him`;
+  var body = `My love Habib,<br>
+I human not heard from you for a prolonged instance, but I trust you are doing considerably.<br>
+My someone, Ashfaq Ahmad, is visiting Chittagong for a pleasance blunder. This situate is new for him and he has asked me to create to you in that connective. I may tell you that I get known my quaker for the ending fin eld and fuck ever pioneer him not only kindly and chivalrous but a boy of incalculable worth, AH the members of his kindred supply me as one of their own. They are all moral fill, and I prospect you leave suchlike Ashfaq.<br>
+He will order with you all for virtually a hebdomad or ten days. At the same-time, you should forbear him in visiting the places of historical interests and sight-seeing. I am doubly reliable you all testament utilise him a ripe treatment.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

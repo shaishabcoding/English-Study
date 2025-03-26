@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = "[CB-15;BB-16;DjB-15]"
+  var title = "Bayazid's Love for his Mother";
+  var text = `Once upon a tine there lived a boy named Bayazid. His mother was ill. One night he was studying by the side of the bed of his mother. All on a sudden, his mother woke up, raised her head told her Son to give her a glass of water. Bayazid went to the kitchen to bring water. But he found the pitcher empty. He searched for water here and there, but in vain. Then he decided to fetch water from the nearby fountain. He took the pitcher and went to the fountain for water. He came back home filling the pitcher to the brim. He poured water into the glass and came to his mother. He found that his mother was fast asleep again. He did not want to disturb his ailing mother. He remained standing beside his mother's bed. His mother awoke in the morning and found her son standing beside her bed. She embraced her son with deep love and prayed to Allah for her son.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

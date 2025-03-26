@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style3.css">
+  <script src="main3.js" type="text/javascript" charset="utf-8"></script>
+  <title>© Shaishab Chandra Shil</title>
+</head>
+<body>
+  <div class="con" id="title">বহুল ব্যবহৃত কয়েকটি গুরুত্বপূর্ণ বাক্য - part 7</div>
+  <div id="data"></div>
+  <script>
+    var data = [["Life is full of mistakes.","এ জীবনটা ভুলে ভরা"], ["That's quite right.","সেটা ঠিক"], ["Not really.","আসলে তা নয়"], ["Nothing else.","অন্য কিছুই না"], ["Don't believe you anymore.","তােমাকে আর বিশ্বাস করিনা"], ["But who cares!","কে ধারধারে!"], ["That's all nonsense!","ঐ সব বাজে কথা!"], ["You've understood me wrongly.","তুমি আমাকে ভুল বুঝেছাে"], ["You are on my breath!","তুমি আমার নিঃশ্বাস!"], ["What a pleasant surprise!","কি দারুণ চমক!"], ["What a nuisance!","অপদার্থ কোথাকার!"], ["How beautiful you are!","তুমি কত সুন্দর!"], ["You are a cheater.","তুমি একটা প্রতারক"], ["Don't tell a lie.","মিথ্যা কথা বলােনা"], ["Come to the point.","আসল কথা বল"]]
+  </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Of Condolence To Your Friend`;
+  var body = `Dear friend,<br>
+Thank you very much for your kind letter. I was so much shocked to read it that I cannot express my feelings in words. I am very sorry to know that your grandmother died in an accident. I offer my heartiest sympathy to you at her untimely death.<br>
+I hope that you will send me an early reply. Please convey my compliments to the friends and love to dear Nadim.
+With best wishes,`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

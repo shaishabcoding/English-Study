@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write a letter to your friend telling him what you intend to do after your S.S.C examination`;
+  var body = `My dear Nusrat,<br><br>
+At the beginning of the letter, take my cordial love. Hope that you are well by the grace of all mighty Allah. I am also well by the grace of Allah. A Sweet note from you have just anchored to the shore of my heart.You want to know how I shall spend my days after the S.S.C examination. At present I am thinking what will be much more benefit of my upcoming life.I think that if I shall take technical course it will be better because it is time of technical studies.Please let me know how you want to spend your time. Wish all of your good luck. This is all for today. Best wishes to you and all. No more today. More when we shall meet you.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

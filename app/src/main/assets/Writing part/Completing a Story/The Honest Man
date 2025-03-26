@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Honest Man";
+  var text = `One day, a man namely Dinesh was walking by the road to the nearby market. Suddenly he saw something lying on the road. When he picked it up, he saw that it was a purse. The purse contained five thousand rupees and an address card inside it. But he was not interested in having the money for himself. He found out the owner’s house and returned him the purse. The owner was happy at getting back the money and astonished at the man’s honesty. He offered the man a thousand rupees for his help. But the man denied the offer saying that he had just done his duty.<br><br><b>Moral</b> ᐅ Honesty is the best policy`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

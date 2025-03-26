@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+<p id="title"></p>
+<div>
+ <table id="table"></table>
+</div>
+<script>
+const men = [
+  js.getRandomName(),js.getRandomName()
+];
+const title = `<i>Question ᐅ</i> Suppose, you are ${men[0]}. ${men[1]} is your friend and wants to improve Engish language. Now, write a dialogue between you and your friend about » <b>Improve skills in Engish language</b>. «`;
+ const data = [
+  `How are you, ${men[1]}?`,
+  "Not so good. Your are not writing me for quite a long time. Your long silence pains me much. However, what's about you?",
+  "Well, But you know, my SSC examination is near at hard. I am too busy to prepare myself for the exam. My teachers have suggested that I should prepare myself well for the examinaton. My Parents are also anxious about me. That's why I could not write to you.",
+  `O. I know. I am also going on well with my students for the examination. I have already revised all my notes and overcome the difficulties in mathematics. How have you prepared yourself, ${men[0]}?`,
+  "I think, I am prepared enough to cut a good figure in the SSC exam.Your know, I was a little bit weak in English.But already I have overcome my weakness with the help of our English teacher.I hope I will get A+ in English.",
+  `Do you follow any suggestion, ${men[0]}?`,
+  "Yes, I folow 'English Study by Shaishab' suggestion because it covers most of the important questions and nearly all the questions in the previous examinations were set from this suggestion.",
+  "O. I am also following this suggestion. I revise the answers of questions of every subject one by one and write it to avoid spelling error in the examination.",
+  "I am also revising and writing frequently. I have budgeted my time and spend every hour accordingly. I try to wite the answer to a question within the budgeted time. I think this will help me in answering all the questions accordingly within the stipulated time.",
+  "I think so. But, only ALLAH knows what is in store for us. Let's try to solve the grammatical problems for which I have come here.",
+  "Ok."
+  ];
+</script>
+<script src="main.js"></script> 
+</body>
+</html>

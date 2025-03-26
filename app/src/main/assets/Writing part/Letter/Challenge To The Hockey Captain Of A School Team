@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Challenge To The Hockey Captain Of A School Team`;
+  var body = `145, North,<br>
+Chittagong. <br>
+25 January 2023 <br>
+The hockey Captain,<br>
+A.B.C. School,<br>
+Chittagong. <br><br>
+Dear sir,<br>
+Our Hockey First Eleven wants to play a friendly match with your team on coming Sunday at 4 p.m. on your ground. <br>
+I shall be very pleased if you accept the challenge.
+Yours faithfully,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

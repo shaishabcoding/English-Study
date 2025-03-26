@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Dress Does Not Make A Man Great";
+  var text = `Sheikh Saadi was a great poet in Iran. He used to lead a very simple life. Once on his way to the court of the icing of Iran, he took shelter in a noble man’s house for a night. He was then in a very simple dress on. The people of that house did not deal well with the poet. Rather they showed disrespect and dishonor to him. The poet left the noble man’s house in utter dismay. A few days later. he went there again with a rich dress on. This time he was duly respected and honored by the people of the noble man’s house. They gave him rich food to eat, The poet did not eat the food but he began to put the food in his pocket: Seeing it, the nobleman was astonished. He asked the poet about his mysterious behavior. Then the poet said, “This food is for my dress, but not for me. Had it been not so, I would have been treated in the same manner when I was very poorly dressed.” The nobleman was really sad about this. He begged forgiveness of the poet.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

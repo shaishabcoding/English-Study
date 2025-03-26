@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Rules</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+</head>
+<body>
+ <p>
+  <b>Tense ᐅ </b>
+  ক্রিয়ার কাল কে Tense বলা হয় ৷অর্থাৎ কোন কাজ সম্পাদনের সময়কে tense বা কাল বলে। Tense দ্বারা সময়কে উল্লেখ করা হয় এবং যা বর্তমান, অতীত কিংবা ভবিষ্যত হতে পারে।
+ </p>
+ <h3>Example ᐅ </h3>
+ <ol>
+  <li>I eat rice. (present) আমি ভাত খাই ৷ (বর্তমান)</li>
+  <li>I ate rice. (past) আমি ভাত খেয়েছিলাম৷ (অতীত)</li>
+  <li>I will eat rice. (future) আমি ভাত খাবো৷ (ভবিষ্যত)</li>
+ </ol>
+ <p>এখানে উপরের বাক্য গুলোতে যথাক্রমে বর্তমান, অতীত ও ভবিষ্যৎ কাজের কথা নির্দেশ করে।</p>
+ <hr>
+ <p>
+  <b>Types of Tense ᐅ </b>
+  Tense কে তিন ভাগে ভাগ করা যায় ৷
+ </p>
+ <ol>
+  <li>Present Tense (বর্তমান কাল)</li>
+  <li>Past Tense (অতীত কাল)</li>
+  <li>Future Tense (ভবিষ্যত কাল)</li>
+ </ol>
+ <p>এদের প্রত্যেক কে আবার চারভাগে ভাগ করা যায়</p>
+ <ol>
+  <li>Indefinite Tense (সাধারণ কাল)</li>
+  <li>Continuous Tense (ঘটমান কাল)</li>
+  <li>Perfect Tense (পুরাঘটিত কাল)</li>
+  <li>Perfect Continuous Tense (পুরাঘটিত বর্তমান কাল)</li>
+ </ol>
+<script src="file:///android_asset/main.js"></script> </body>
+</html>
+

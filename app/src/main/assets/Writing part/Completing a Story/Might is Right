@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "Might is Right";
+  var text = `There lived a wolf in a wood. He killed a lamb. but as he went on eating the flesh, a bone stuck in his throat. This gave him pain and he went about not knowing what to do. The wolf saw a crane by the side of a stream. The crane looked for fish. “Good morning, Mr. Crane,” said the wolf, “Could you do me a good turn? A bone has stuck in my throat and is giving me a lot of pain. You have a long, thin bill. Could you take the bone out? I’ll give you anything you ask for. The crane thought, the wolf was very ill. So he wanted to help the wolf. “Open your mouth wide, the crane said to him. The crane put his long bill into the wolf’s mouth and pulled the bone out. The wolf was now about to go away. May I have the fees now? said the crane. What, fees? You put your bill in my mouth. I have not swallowed your head and you are still alive. Is it not enough fees? replied the wolf. The crane became afraid of his life. He at once flew away in fright.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend, Giving Him-Her A Description Of An Unforgettable Incident In Your Life`;
+  var body = `My dear Nila,<br><br>
+It seems ages since I saw you last. But still I feel you by my side to share every moment of my life.
+<br>
+Last Sunday, I believe, I came across one of the most unforgettable moments of my life. Frankly speaking, it was the saddest day in my life. We, some friends, went to the Ichamati to bathe. Our friend Ajay was with us. We were all moving to and fro in neck-deep water. Suddenly Ajay lost hold of himself and was carried away by the high-tide. He did not know how to swim. He was drowning. Some boys standing on the river-bank were shouting, Help! Help! Ajay was drowning. A fisherman fishing in a boat nearby at once dived into the river and after half an hour’s search picked up Ajay’s body, still and lifeless. The demon of death snatched him away. His parents went mad when the news reached them. We lost one of our best friends forever. The incident remains still fresh and lively in my memory. This was the unforgottable incident in my life. Here’s so much.
+<br>
+Hope you will be sad as much as I am after reading the letter. With lots of love and best wishes.
+`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

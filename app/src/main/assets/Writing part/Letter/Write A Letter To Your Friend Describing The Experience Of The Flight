@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `Write A Letter To Your Friend Describing The Experience Of The Flight`;
+  var body = `My dear Imran,<br><br>
+You will be glad to know that I had won a quiz and you will be surprised to know that the prize of it was a half an hours free ride either by a wide bodied passenger plane or a helicopter, it would be a personal travel and I would miss many things of traveling by air. But if I travel by the wide-bodied passenger plane I would be able to enjoy more. It is faster than a helicopter. I would be able to use the airport. I would have the experience of taking off and landing of the plane. Certainly I would have the experience of service facilities of the passenger plane. So , I have decided to fly the wide bodied passenger plane. I think you will agree with me. When the journey started I felt a little bit nervous because of the turning of the plane. But gradually my all fears were gone away. I was very much enjoying the flight. The roads and cities were looking like snakes. I was very astonished to see the black clouds very much near to me. After half an hour the journey ended. In my life it was my greatest experience. I will never forget it.
+<br>
+No more today. Take care.`;
+</script>
+  <script src="main.js"></script>
+</body>
+</html>

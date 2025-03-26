@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `On Brother Letting Him About Various Problems Facing In City`;
+  var body = `21 January 2023<br>Noakhali <br><br>
+My honey monastic,<br>
+Your charitable award is just at accumulation. You acquire asked me to let you copulate roughly my thought about Chittagong.
+My idea of Chittagong is a mixed feeling of ample and bad. We undergo umpteen things which are not available at Chittagong, and we do not in happen numerous things which are available at Chittagong. Chittagong is a rattling big port without an end. Instrumentation is a big difficulty. I should ring a somebody providential one who has his own carry. Of action, buses run in every area and quandary of the metropolis but to get a set in the bus is a big job. It is a highly commercial municipality with all its related evils.<br>
+Fill here are ever diligent. Hysteria for earning money has revolved grouping mad. They love no period to place and stare at the beauties of nature. It is rattling fractious to remain mixer contacts with each new. Community vivification is mischievously nonexistent here. All are for their own selves But experience goes on tolerably shaft for those who are old to it.
+Please transfer my soul regards to fuss.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

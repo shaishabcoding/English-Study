@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shaishab Chandra Shil</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="body"></div>
+<script>
+  var ques = `To Advice From A Father To His Son Whose Latest College Reports Show That He Is Not Making Any Progress`;
+  var body = `24 January 2023 <br> Noakhali <br><br>
+My dear Son,<br>
+I have just received your progress report for the quarter ending the 31st of December, 2019. I was really very much disappointed to note that you are not making any progress in your studies. On the other hand there is a downward trend. In the corresponding period last year your reports were highly encouraging. For example last session you topped your class in English and secured first division marks in almost all other subjects. But, unfortunately, this time you fail miserably in science subjects and secure just pass marks in English. This state of affairs is really very shocking to me you are not regular in your attending the classes. Your report in hand, moreover, shows that. There is every likelihood, the report continues, of your getting short of lectures.
+Your time, my dear son, is very precious. Your retrogression in studies is tantamount to wastage of your time and my hard-earned money, You are the eldest of all my children and it is high time for you to take this progress report as a warning and realize your duties and responsibilities. <br>
+I advise you, therefore, to work hard and make up your efficiency in studies. As regards your shortage of lectures I fail to understand as to why you miss your lectures. As a matter of fact irregularity in attendance is the only cause of your weakness. <br>
+I am writing to your principal and the Superintendent of you hostel to take extraordinary steps to mend your ways and to send me a special progress report next month. If you fail to show any remarkable progress I shall be constrained to discontinue your studies your mother had an attack of malaria last week. Now she is making steady progress. All other members of the family are all right.
+<br><br>
+Yours affectionately,`;
+</script>
+  <script src="main2.js"></script>
+</body>
+</html>

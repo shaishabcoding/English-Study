@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Shaishab Chandra Shil</title>
+ <link rel="stylesheet" href="file:///android_asset/style.css ">
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <p id="ques"></p>
+  <p id="short"></p>
+  <p id="board"></p>
+  <br>
+  <p id="title"></p>
+  <p id="long"></p>
+<script>
+  var board = ""
+  var title = "The Clever Arab";
+  var text = `A wealthy Arab once lost a piece of gold. He was sure: that the thief was a member of his own house-hold. In spite of trying hard, he failed to find him out then he hit upon a plan. He called all the servants before him and told them that he was going to use magic to find out the thief. Then he gave each of them a piece of stick exactly of the same length. He told them to keep the sticks carefully under their pillows at night. Nothing would happen to the stick of the innocent person. But the stick of the guilty person would grow by one inch at night. The Arab told them to return the sticks to him the following day. Now the guilty servant thought that his stick might have grown by one inch at night. So without consulting anybody he cut off one inch from an end of his stick and returned it to their master. But his stick was found one inch shorter than the other ones. So the Arab said, “You are the thief”. The servant admitted his guilt and begged forgiveness of the Arab. He also promised that he would never steal in life. The Arab forgave him.`;
+</script>
+<script src="main.js"></script>
+</body>
+</html>
